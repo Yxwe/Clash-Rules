@@ -338,6 +338,7 @@
     - DOMAIN-SUFFIX,appledaily.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,appledaily.com.hk,PROXY,no-resolve
     - DOMAIN-SUFFIX,appledaily.com.tw,PROXY,no-resolve
+    - DOMAIN-SUFFIX,apps.evozi.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,appshopper.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,appsocks.net,PROXY,no-resolve
     - DOMAIN-SUFFIX,appspot.com,PROXY,no-resolve
@@ -347,6 +348,7 @@
     - DOMAIN-SUFFIX,archive.fo,PROXY,no-resolve
     - DOMAIN-SUFFIX,archive.is,PROXY,no-resolve
     - DOMAIN-SUFFIX,archive.li,PROXY,no-resolve
+    - DOMAIN-SUFFIX,archive.md,PROXY,no-resolve
     - DOMAIN-SUFFIX,archive.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,archive.ph,PROXY,no-resolve
     - DOMAIN-SUFFIX,archive.today,PROXY,no-resolve
@@ -817,6 +819,7 @@
     - DOMAIN-SUFFIX,c-spanvideo.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,c100tibet.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,c2cx.com,PROXY,no-resolve
+    - DOMAIN-SUFFIX,cableav.tv,PROXY,no-resolve
     - DOMAIN-SUFFIX,cablegatesearch.net,PROXY,no-resolve
     - DOMAIN-SUFFIX,cachinese.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,cacnw.com,PROXY,no-resolve
@@ -1045,6 +1048,7 @@
     - DOMAIN-SUFFIX,chubun.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,churchinhongkong.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,chushigangdrug.ch,PROXY,no-resolve
+    - DOMAIN-SUFFIX,ciciai.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,cienen.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,cineastentreff.de,PROXY,no-resolve
     - DOMAIN-SUFFIX,cipfg.org,PROXY,no-resolve
@@ -1174,6 +1178,7 @@
     - DOMAIN-SUFFIX,cotweet.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,counter.social,PROXY,no-resolve
     - DOMAIN-SUFFIX,coursehero.com,PROXY,no-resolve
+    - DOMAIN-SUFFIX,coze.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,cpj.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,cq99.us,PROXY,no-resolve
     - DOMAIN-SUFFIX,crackle.com,PROXY,no-resolve
@@ -3655,6 +3660,7 @@
     - DOMAIN-SUFFIX,newmitbbs.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,newnews.ca,PROXY,no-resolve
     - DOMAIN-SUFFIX,news.cnyes.com,PROXY,no-resolve
+    - DOMAIN-SUFFIX,news.ebc.net.tw,PROXY,no-resolve
     - DOMAIN-SUFFIX,news.hk.msn.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,news.msn.com.tw,PROXY,no-resolve
     - DOMAIN-SUFFIX,news.nationalgeographic.com,PROXY,no-resolve
