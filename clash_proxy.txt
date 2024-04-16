@@ -636,7 +636,6 @@
     - DOMAIN-SUFFIX,blogimg.jp,PROXY,no-resolve
     - DOMAIN-SUFFIX,bloglines.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,bloglovin.com,PROXY,no-resolve
-    - DOMAIN-SUFFIX,blogs.icerocket.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,blogs.libraryinformationtechnology.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,blogs.tampabay.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,blogs.yahoo.co.jp,PROXY,no-resolve
@@ -2739,6 +2738,7 @@
     - DOMAIN-SUFFIX,ibvpn.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,icams.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,ice.audionow.com,PROXY,no-resolve
+    - DOMAIN-SUFFIX,icedrive.net,PROXY,no-resolve
     - DOMAIN-SUFFIX,icij.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,icl-fi.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,icoco.com,PROXY,no-resolve
@@ -4375,6 +4375,7 @@
     - DOMAIN-SUFFIX,roodo.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,rosechina.net,PROXY,no-resolve
     - DOMAIN-SUFFIX,rotten.com,PROXY,no-resolve
+    - DOMAIN-SUFFIX,rou.video,PROXY,no-resolve
     - DOMAIN-SUFFIX,rsdlmonitor.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,rsf-chinese.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,rsf.org,PROXY,no-resolve

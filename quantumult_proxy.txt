@@ -636,7 +636,6 @@ host-suffix, blogger.com, proxy
 host-suffix, blogimg.jp, proxy
 host-suffix, bloglines.com, proxy
 host-suffix, bloglovin.com, proxy
-host-suffix, blogs.icerocket.com, proxy
 host-suffix, blogs.libraryinformationtechnology.com, proxy
 host-suffix, blogs.tampabay.com, proxy
 host-suffix, blogs.yahoo.co.jp, proxy
@@ -2739,6 +2738,7 @@ host-suffix, ibros.org, proxy
 host-suffix, ibvpn.com, proxy
 host-suffix, icams.com, proxy
 host-suffix, ice.audionow.com, proxy
+host-suffix, icedrive.net, proxy
 host-suffix, icij.org, proxy
 host-suffix, icl-fi.org, proxy
 host-suffix, icoco.com, proxy
@@ -4375,6 +4375,7 @@ host-suffix, ronjoneswriter.com, proxy
 host-suffix, roodo.com, proxy
 host-suffix, rosechina.net, proxy
 host-suffix, rotten.com, proxy
+host-suffix, rou.video, proxy
 host-suffix, rsdlmonitor.com, proxy
 host-suffix, rsf-chinese.org, proxy
 host-suffix, rsf.org, proxy
