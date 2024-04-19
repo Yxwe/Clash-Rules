@@ -898,6 +898,7 @@
     - DOMAIN-SUFFIX,cdn-telegram.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,cdn.assets.lfpcontent.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,cdn.helixstudios.net,PROXY,no-resolve
+    - DOMAIN-SUFFIX,cdn.jwplayer.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,cdn.printfriendly.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,cdn.seatguru.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,cdn.softlayer.net,PROXY,no-resolve
@@ -1611,6 +1612,7 @@
     - DOMAIN-SUFFIX,etadult.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,etaiwannews.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,etherdelta.com,PROXY,no-resolve
+    - DOMAIN-SUFFIX,ethermine.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,etherscan.io,PROXY,no-resolve
     - DOMAIN-SUFFIX,etizer.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,etokki.com,PROXY,no-resolve
@@ -1647,6 +1649,7 @@
     - DOMAIN-SUFFIX,ezpc.tk,PROXY,no-resolve
     - DOMAIN-SUFFIX,ezpeer.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,ezua.com,PROXY,no-resolve
+    - DOMAIN-SUFFIX,f2pool.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,f8.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,fa.gov.tw,PROXY,no-resolve
     - DOMAIN-SUFFIX,facebook.br,PROXY,no-resolve
@@ -2653,6 +2656,7 @@
     - DOMAIN-SUFFIX,hrcir.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,hrea.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,hrichina.org,PROXY,no-resolve
+    - DOMAIN-SUFFIX,hrntt.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,hrtsea.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,hrw.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,hrweb.org,PROXY,no-resolve
@@ -3759,6 +3763,7 @@
     - DOMAIN-SUFFIX,noypf.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,npa.go.jp,PROXY,no-resolve
     - DOMAIN-SUFFIX,npa.gov.tw,PROXY,no-resolve
+    - DOMAIN-SUFFIX,npm.gov.tw,PROXY,no-resolve
     - DOMAIN-SUFFIX,npnt.me,PROXY,no-resolve
     - DOMAIN-SUFFIX,nps.gov,PROXY,no-resolve
     - DOMAIN-SUFFIX,npsboost.com,PROXY,no-resolve
@@ -4137,6 +4142,7 @@
     - DOMAIN-SUFFIX,posts.careerengine.us,PROXY,no-resolve
     - DOMAIN-SUFFIX,potato.im,PROXY,no-resolve
     - DOMAIN-SUFFIX,potvpn.com,PROXY,no-resolve
+    - DOMAIN-SUFFIX,pourquoi.tw,PROXY,no-resolve
     - DOMAIN-SUFFIX,power.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,powerapple.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,powercx.com,PROXY,no-resolve
@@ -6087,6 +6093,7 @@
     - DOMAIN-SUFFIX,z-lib.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,zacebook.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,zalmos.com,PROXY,no-resolve
+    - DOMAIN-SUFFIX,zamimg.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,zannel.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,zaobao.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,zaobao.com.sg,PROXY,no-resolve
