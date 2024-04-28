@@ -630,6 +630,7 @@
     - DOMAIN-SUFFIX,28e096686b.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,291hkcido.de,REJECT,no-resolve
     - DOMAIN-SUFFIX,295a9f642d.com,REJECT,no-resolve
+    - DOMAIN-SUFFIX,295c.site,REJECT,no-resolve
     - DOMAIN-SUFFIX,2989f3f0ff.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,29apfjmg2.de,REJECT,no-resolve
     - DOMAIN-SUFFIX,29d65cebb82ef9f.com,REJECT,no-resolve
@@ -4581,7 +4582,6 @@
     - DOMAIN-SUFFIX,ads.supplyframe.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,ads.swiftnews.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,ads.syscdn.de,REJECT,no-resolve
-    - DOMAIN-SUFFIX,ads.tahono.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,ads.taptapnetworks.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,ads.tbs.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,ads.techvibes.com,REJECT,no-resolve
@@ -13004,6 +13004,7 @@
     - DOMAIN-SUFFIX,bsanciv.top,REJECT,no-resolve
     - DOMAIN-SUFFIX,bsanvietnam.online,REJECT,no-resolve
     - DOMAIN-SUFFIX,bsbaswq.cn,REJECT,no-resolve
+    - DOMAIN-SUFFIX,bsbrcdna.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,bschuyenkhoamat.biz,REJECT,no-resolve
     - DOMAIN-SUFFIX,bserver.gp-guia.net,REJECT,no-resolve
     - DOMAIN-SUFFIX,bsfofnphcuj.com,REJECT,no-resolve
@@ -13239,6 +13240,7 @@
     - DOMAIN-SUFFIX,bureauxcope.casa,REJECT,no-resolve
     - DOMAIN-SUFFIX,buresova-obrazy.wz.cz,REJECT,no-resolve
     - DOMAIN-SUFFIX,burgea.com,REJECT,no-resolve
+    - DOMAIN-SUFFIX,burghkharwa.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,burglaryeffectuallyderange.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,burglaryrunner.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,burgomeg.com,REJECT,no-resolve
@@ -16545,6 +16547,7 @@
     - DOMAIN-SUFFIX,colorschemeas.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,colorsoflife.online,REJECT,no-resolve
     - DOMAIN-SUFFIX,colossal.jp,REJECT,no-resolve
+    - DOMAIN-SUFFIX,colossalanswer.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,colossusssp.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,colourevening.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,colourinitiative.com,REJECT,no-resolve
@@ -17742,6 +17745,7 @@
     - DOMAIN-SUFFIX,crayfishshepherd.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,crayon.meishichina.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,crayonreareddreamt.com,REJECT,no-resolve
+    - DOMAIN-SUFFIX,crazy-baboon.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,crazyegg.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,crazyhell.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,crazyit8.com,REJECT,no-resolve
@@ -18321,6 +18325,7 @@
     - DOMAIN-SUFFIX,cvyimypsjxca.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,cw.nu,REJECT,no-resolve
     - DOMAIN-SUFFIX,cwchmb.com,REJECT,no-resolve
+    - DOMAIN-SUFFIX,cweriof.top,REJECT,no-resolve
     - DOMAIN-SUFFIX,cwgshkz.cn,REJECT,no-resolve
     - DOMAIN-SUFFIX,cwhrfkpniuvkn.xyz,REJECT,no-resolve
     - DOMAIN-SUFFIX,cwi.re,REJECT,no-resolve
@@ -21525,7 +21530,6 @@
     - DOMAIN-SUFFIX,dmovyttqiu.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,dmowvblljmkqx.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,dmp.citiservi.es,REJECT,no-resolve
-    - DOMAIN-SUFFIX,dmp.eland-tech.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,dmp.mall.tv,REJECT,no-resolve
     - DOMAIN-SUFFIX,dmp.sbermarketing.ru,REJECT,no-resolve
     - DOMAIN-SUFFIX,dmp.truoptik.com,REJECT,no-resolve
@@ -23509,6 +23513,7 @@
     - DOMAIN-SUFFIX,ela-3-tnk.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,elacapivi.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,elaifmeauswvlki.xyz,REJECT,no-resolve
+    - DOMAIN-SUFFIX,eland-tech.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,elas666.pics,REJECT,no-resolve
     - DOMAIN-SUFFIX,elasticad.net,REJECT,no-resolve
     - DOMAIN-SUFFIX,elasticchange.com,REJECT,no-resolve
@@ -24789,6 +24794,7 @@
     - DOMAIN-SUFFIX,ewhareey.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,ewikajs.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,ewioud.com,REJECT,no-resolve
+    - DOMAIN-SUFFIX,ewjhic.cn,REJECT,no-resolve
     - DOMAIN-SUFFIX,ewkjfwwld.xyz,REJECT,no-resolve
     - DOMAIN-SUFFIX,ewlfcpnqlylef.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,ewoodandwaveo.com,REJECT,no-resolve
@@ -24796,6 +24802,7 @@
     - DOMAIN-SUFFIX,ewoverth.buzz,REJECT,no-resolve
     - DOMAIN-SUFFIX,ewpauvfnhfkqux.xyz,REJECT,no-resolve
     - DOMAIN-SUFFIX,ewpktjvfmet.com,REJECT,no-resolve
+    - DOMAIN-SUFFIX,ewpubiimput.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,ewqkrfjkqz.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,ewrerew29w09.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,ewrjjqflq.com,REJECT,no-resolve
@@ -26403,6 +26410,7 @@
     - DOMAIN-SUFFIX,flashtalking.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,flashycontagiouspulverize.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,flashymass.com,REJECT,no-resolve
+    - DOMAIN-SUFFIX,flask.us.nextdoor.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,flasklimbearlier.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,flaskstationsubsequent.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,flat-ads.com,REJECT,no-resolve
@@ -26636,6 +26644,7 @@
     - DOMAIN-SUFFIX,fmuvczdhurcu.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,fmv9kweoe06r.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,fmvbyji.cn,REJECT,no-resolve
+    - DOMAIN-SUFFIX,fmvzzh.xyz,REJECT,no-resolve
     - DOMAIN-SUFFIX,fmwzfwzxztu.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,fmxfboibrmbf.xyz,REJECT,no-resolve
     - DOMAIN-SUFFIX,fmzifaqi.xyz,REJECT,no-resolve
@@ -32510,6 +32519,7 @@
     - DOMAIN-SUFFIX,hzr0dm28m17c.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,hzrghx.xyz,REJECT,no-resolve
     - DOMAIN-SUFFIX,hzvcaadn.icu,REJECT,no-resolve
+    - DOMAIN-SUFFIX,hzzgnwdsha.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,i-afk.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,i-cmg-amlg-prod.appspot.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,i-goda.shop,REJECT,no-resolve
@@ -32786,6 +32796,7 @@
     - DOMAIN-SUFFIX,idwrx.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,idwystdnvb.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,idydlesswale.info,REJECT,no-resolve
+    - DOMAIN-SUFFIX,idyllicjazz.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,idynbff.cn,REJECT,no-resolve
     - DOMAIN-SUFFIX,ie3wisa4.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,ie8eamus.com,REJECT,no-resolve
@@ -34717,6 +34728,7 @@
     - DOMAIN-SUFFIX,ixnp.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,ixqthii.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,ixspublic.com,REJECT,no-resolve
+    - DOMAIN-SUFFIX,ixstng.cn,REJECT,no-resolve
     - DOMAIN-SUFFIX,ixtlesamorist.guru,REJECT,no-resolve
     - DOMAIN-SUFFIX,ixtqrdiwd.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,ixwereksbeforeb.info,REJECT,no-resolve
@@ -36154,6 +36166,7 @@
     - DOMAIN-SUFFIX,kantiwl.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,kanzlei-borchers.de,REJECT,no-resolve
     - DOMAIN-SUFFIX,kaoelsng.com,REJECT,no-resolve
+    - DOMAIN-SUFFIX,kaosts.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,kapitalberg.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,kapitalrus.ru,REJECT,no-resolve
     - DOMAIN-SUFFIX,kaplay.com,REJECT,no-resolve
@@ -36462,6 +36475,7 @@
     - DOMAIN-SUFFIX,khcn-han-muc-tin-dung-ca-nhan.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,khcn-tindung-vp.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,khcn-uu-tien-3fv-vib.com,REJECT,no-resolve
+    - DOMAIN-SUFFIX,khcsvdc.icu,REJECT,no-resolve
     - DOMAIN-SUFFIX,khdsrrwdvbgd.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,khekwufgwbl.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,khfpcxqwrauj.com,REJECT,no-resolve
@@ -36864,6 +36878,7 @@
     - DOMAIN-SUFFIX,knownwarn.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,knowsdcollet.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,knowseminar.com,REJECT,no-resolve
+    - DOMAIN-SUFFIX,knpkxgfp.xyz,REJECT,no-resolve
     - DOMAIN-SUFFIX,knqpyaholceobc.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,knsnyfpnbyakn.xyz,REJECT,no-resolve
     - DOMAIN-SUFFIX,kntswafuos.com,REJECT,no-resolve
@@ -45830,6 +45845,7 @@
     - DOMAIN-SUFFIX,nupdhyzetb.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,nuphizarrafw.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,nupjzylhequ.com,REJECT,no-resolve
+    - DOMAIN-SUFFIX,nuptoomaugou.net,REJECT,no-resolve
     - DOMAIN-SUFFIX,nuqwe.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,nur.gratis,REJECT,no-resolve
     - DOMAIN-SUFFIX,nuraghireels.com,REJECT,no-resolve
@@ -47444,6 +47460,7 @@
     - DOMAIN-SUFFIX,orcinolroomthy.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,orcinsjewish.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,orcjagpox.com,REJECT,no-resolve
+    - DOMAIN-SUFFIX,orclrul.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,ordbzeokdxku.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,ordealsreannoy.top,REJECT,no-resolve
     - DOMAIN-SUFFIX,orderfritter.com,REJECT,no-resolve
@@ -50444,6 +50461,7 @@
     - DOMAIN-SUFFIX,poltarimus.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,polyad.net,REJECT,no-resolve
     - DOMAIN-SUFFIX,polydarth.com,REJECT,no-resolve
+    - DOMAIN-SUFFIX,polyfill.io,REJECT,no-resolve
     - DOMAIN-SUFFIX,polygraphpretenceraw.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,polyh-nce.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,polymorphicads.jp,REJECT,no-resolve
@@ -51278,6 +51296,7 @@
     - DOMAIN-SUFFIX,probationpresented.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,probationtoll.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,probersnobles.com,REJECT,no-resolve
+    - DOMAIN-SUFFIX,probessanggau.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,probestrike.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,probikesshop.fr,REJECT,no-resolve
     - DOMAIN-SUFFIX,probitystuck.com,REJECT,no-resolve
@@ -51319,6 +51338,7 @@
     - DOMAIN-SUFFIX,prod.report.nacustomerexperience.citi.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,prod.uidapi.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,prodaddkarl.com,REJECT,no-resolve
+    - DOMAIN-SUFFIX,prodalet.ru,REJECT,no-resolve
     - DOMAIN-SUFFIX,prodigiousarticulateruffian.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,prodmp.ru,REJECT,no-resolve
     - DOMAIN-SUFFIX,prodresell.com,REJECT,no-resolve
@@ -54696,6 +54716,7 @@
     - DOMAIN-SUFFIX,retillbicycle.top,REJECT,no-resolve
     - DOMAIN-SUFFIX,retin-a.1.p2l.info,REJECT,no-resolve
     - DOMAIN-SUFFIX,retinaebiaxal.guru,REJECT,no-resolve
+    - DOMAIN-SUFFIX,retinaesprent.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,retinueabash.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,retinuedisposablerecuperate.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,retinuegigoh.com,REJECT,no-resolve
@@ -55206,6 +55227,7 @@
     - DOMAIN-SUFFIX,rnv.life,REJECT,no-resolve
     - DOMAIN-SUFFIX,rnvlkhahv.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,rnwbrm.com,REJECT,no-resolve
+    - DOMAIN-SUFFIX,rnzmynh.cn,REJECT,no-resolve
     - DOMAIN-SUFFIX,roabmyrevngqqk.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,roachoavi.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,roacourife.com,REJECT,no-resolve
@@ -56251,6 +56273,7 @@
     - DOMAIN-SUFFIX,samhitareviser.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,samiana.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,samogonmarvy.com,REJECT,no-resolve
+    - DOMAIN-SUFFIX,samoryinaner.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,sampalsyneatly.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,samplecomfy.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,samplerenamed.com,REJECT,no-resolve
@@ -60274,6 +60297,7 @@
     - DOMAIN-SUFFIX,sspcash.adxcore.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,ssqyuvavse.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,ssr.streamrail.net,REJECT,no-resolve
+    - DOMAIN-SUFFIX,ssrv7.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,ssso.ru,REJECT,no-resolve
     - DOMAIN-SUFFIX,sssvd.china.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,sstats.adobe.com,REJECT,no-resolve
@@ -64231,6 +64255,7 @@
     - DOMAIN-SUFFIX,tjappzvz.xyz,REJECT,no-resolve
     - DOMAIN-SUFFIX,tjavravj.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,tjclskcamptg.com,REJECT,no-resolve
+    - DOMAIN-SUFFIX,tjegljkugvrr.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,tjekscores.dk,REJECT,no-resolve
     - DOMAIN-SUFFIX,tjfbh.icu,REJECT,no-resolve
     - DOMAIN-SUFFIX,tjfot.com,REJECT,no-resolve
@@ -65677,7 +65702,6 @@
     - DOMAIN-SUFFIX,tracking.tchibo.de,REJECT,no-resolve
     - DOMAIN-SUFFIX,tracking.tekoapis.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,tracking.thehut.net,REJECT,no-resolve
-    - DOMAIN-SUFFIX,tracking.theoceanac.online,REJECT,no-resolve
     - DOMAIN-SUFFIX,tracking.thinkabt.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,tracking.tidalhifi.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,tracking.tidningenangermanland.se,REJECT,no-resolve
@@ -66524,6 +66548,7 @@
     - DOMAIN-SUFFIX,ttienli.top,REJECT,no-resolve
     - DOMAIN-SUFFIX,ttkhtwqi.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,ttlmodels.com,REJECT,no-resolve
+    - DOMAIN-SUFFIX,ttlmqhbbkd.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,ttmetrics.jcpenney.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,ttmomo.win,REJECT,no-resolve
     - DOMAIN-SUFFIX,ttnet.yandex.com.tr,REJECT,no-resolve
@@ -71359,6 +71384,7 @@
     - DOMAIN-SUFFIX,weeprobbery.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,weestuch.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,weethery.com,REJECT,no-resolve
+    - DOMAIN-SUFFIX,weewhunoamo.xyz,REJECT,no-resolve
     - DOMAIN-SUFFIX,weewowshrinky.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,wefihob.cn,REJECT,no-resolve
     - DOMAIN-SUFFIX,wefinexvietnam.xyz,REJECT,no-resolve
@@ -72527,6 +72553,7 @@
     - DOMAIN-SUFFIX,wstat.ozon.ru,REJECT,no-resolve
     - DOMAIN-SUFFIX,wstats.slashed.cloud,REJECT,no-resolve
     - DOMAIN-SUFFIX,wstatslive.com,REJECT,no-resolve
+    - DOMAIN-SUFFIX,wstyruafypihv.xyz,REJECT,no-resolve
     - DOMAIN-SUFFIX,wsyfsg.xyz,REJECT,no-resolve
     - DOMAIN-SUFFIX,wt-eu02.net,REJECT,no-resolve
     - DOMAIN-SUFFIX,wt-safetag.com,REJECT,no-resolve
@@ -72592,6 +72619,7 @@
     - DOMAIN-SUFFIX,wurqaz.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,wuruigroup.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,wussucko.com,REJECT,no-resolve
+    - DOMAIN-SUFFIX,wutcifjtapa.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,wutienitme247.info,REJECT,no-resolve
     - DOMAIN-SUFFIX,wutseelo.xyz,REJECT,no-resolve
     - DOMAIN-SUFFIX,wutsldsk.xyz,REJECT,no-resolve
@@ -74492,6 +74520,7 @@
     - DOMAIN-SUFFIX,ymail-activate1.bugs3.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,ymansxfmdjhvqly.xyz,REJECT,no-resolve
     - DOMAIN-SUFFIX,ymchcohvncak.xyz,REJECT,no-resolve
+    - DOMAIN-SUFFIX,ymcnsq.xyz,REJECT,no-resolve
     - DOMAIN-SUFFIX,ymdxl.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,ymeqladpycz.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,ymetrica.com,REJECT,no-resolve
@@ -75443,6 +75472,7 @@
     - DOMAIN-SUFFIX,zoopsame.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,zoosnet.net,REJECT,no-resolve
     - DOMAIN-SUFFIX,zoossoft.net,REJECT,no-resolve
+    - DOMAIN-SUFFIX,zoozishooh.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,zopuqv.icu,REJECT,no-resolve
     - DOMAIN-SUFFIX,zorango.com,REJECT,no-resolve
     - DOMAIN-SUFFIX,zorkabiz.ru,REJECT,no-resolve
