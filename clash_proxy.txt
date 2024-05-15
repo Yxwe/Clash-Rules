@@ -939,6 +939,7 @@
     - DOMAIN-SUFFIX,channelnewsasia.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,chaoex.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,chapm25.com,PROXY,no-resolve
+    - DOMAIN-SUFFIX,chatgpt.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,chatnook.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,chaturbate.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,checkgfw.com,PROXY,no-resolve
