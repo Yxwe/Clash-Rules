@@ -1600,7 +1600,6 @@
     - DOMAIN-SUFFIX,125job.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,125mx.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,125school.com,DIRECT,no-resolve
-    - DOMAIN-SUFFIX,125uu.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,125visa.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,125y.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,125yan.com,DIRECT,no-resolve
@@ -1618,7 +1617,6 @@
     - DOMAIN-SUFFIX,127.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,127.net,DIRECT,no-resolve
     - DOMAIN-SUFFIX,1278721.com,DIRECT,no-resolve
-    - DOMAIN-SUFFIX,12799.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,127xx.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,127z.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,128456.com,DIRECT,no-resolve
@@ -5262,7 +5260,6 @@
     - DOMAIN-SUFFIX,558idc.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,55935.vip,DIRECT,no-resolve
     - DOMAIN-SUFFIX,5599.com,DIRECT,no-resolve
-    - DOMAIN-SUFFIX,55azt.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,55bbs.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,55dai.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,55dian.com,DIRECT,no-resolve
@@ -8299,6 +8296,7 @@
     - DOMAIN-SUFFIX,adongyu.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,adoregeek.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,adoutu.com,DIRECT,no-resolve
+    - DOMAIN-SUFFIX,adparticle.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,adpchina.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,adplusx.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,adpolestar.net,DIRECT,no-resolve
@@ -8492,7 +8490,6 @@
     - DOMAIN-SUFFIX,ahc.ink,DIRECT,no-resolve
     - DOMAIN-SUFFIX,ahcaijing.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,ahcaw.com,DIRECT,no-resolve
-    - DOMAIN-SUFFIX,ahchuangyebang.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,ahcjhjj.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,ahcnb.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,ahcyfc.com,DIRECT,no-resolve
@@ -12243,6 +12240,7 @@
     - DOMAIN-SUFFIX,binglai.net,DIRECT,no-resolve
     - DOMAIN-SUFFIX,binglanggu.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,binglianhuajianzhan.com,DIRECT,no-resolve
+    - DOMAIN-SUFFIX,bingliekeji.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,binglingtech.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,binglixue.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,bingo321.com,DIRECT,no-resolve
@@ -15391,7 +15389,6 @@
     - DOMAIN-SUFFIX,chaokaixin.net,DIRECT,no-resolve
     - DOMAIN-SUFFIX,chaolady.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,chaolean.com,DIRECT,no-resolve
-    - DOMAIN-SUFFIX,chaolen.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,chaoliangkj.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,chaoliuguan.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,chaolongbus.com,DIRECT,no-resolve
@@ -19551,7 +19548,6 @@
     - DOMAIN-SUFFIX,d03jd.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,d163.net,DIRECT,no-resolve
     - DOMAIN-SUFFIX,d17.cc,DIRECT,no-resolve
-    - DOMAIN-SUFFIX,d1999.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,d1cm.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,d1com.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,d1dengju.com,DIRECT,no-resolve
@@ -21515,7 +21511,6 @@
     - DOMAIN-SUFFIX,docsou.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,doctor-network.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,doctorcom.com,DIRECT,no-resolve
-    - DOMAIN-SUFFIX,doctormnq.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,doctorscrap.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,doctorxiong.club,DIRECT,no-resolve
     - DOMAIN-SUFFIX,doctoryou.ai,DIRECT,no-resolve
@@ -23168,6 +23163,7 @@
     - DOMAIN-SUFFIX,efangwang.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,efapiao.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,efashionchina.com,DIRECT,no-resolve
+    - DOMAIN-SUFFIX,efashioncloud.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,efe.cc,DIRECT,no-resolve
     - DOMAIN-SUFFIX,efeihu.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,efengji.org,DIRECT,no-resolve
@@ -23924,6 +23920,7 @@
     - DOMAIN-SUFFIX,ew-wirestripping.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,ew52.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,ew80.com,DIRECT,no-resolve
+    - DOMAIN-SUFFIX,ew80.net,DIRECT,no-resolve
     - DOMAIN-SUFFIX,ew80yun.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,ew9z.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,ewaga.com,DIRECT,no-resolve
@@ -26771,6 +26768,7 @@
     - DOMAIN-SUFFIX,gengleyuan.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,gengnie.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,gengsan.com,DIRECT,no-resolve
+    - DOMAIN-SUFFIX,gengshangpin.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,gengzhongbang.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,geni4s.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,genial.vip,DIRECT,no-resolve
@@ -37960,7 +37958,6 @@
     - DOMAIN-SUFFIX,juxia.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,juxieyun.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,juxin.tv,DIRECT,no-resolve
-    - DOMAIN-SUFFIX,juxinfu.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,juxing-edu.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,juxinhuizhi.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,juxizhineng.com,DIRECT,no-resolve
@@ -39927,7 +39924,6 @@
     - DOMAIN-SUFFIX,kzt.cc,DIRECT,no-resolve
     - DOMAIN-SUFFIX,kztpms.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,kzwr.com,DIRECT,no-resolve
-    - DOMAIN-SUFFIX,kzynews.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,kzyzz.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,l-kingmall.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,l-zb.com,DIRECT,no-resolve
@@ -41954,6 +41950,7 @@
     - DOMAIN-SUFFIX,lnfssy.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,lnfzb.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,lngche.com,DIRECT,no-resolve
+    - DOMAIN-SUFFIX,lnglwl.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,lngqt.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,lnhygy.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,lnicc-dl.com,DIRECT,no-resolve
@@ -42492,7 +42489,6 @@
     - DOMAIN-SUFFIX,ludu319.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,lueasygi.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,luedian.com,DIRECT,no-resolve
-    - DOMAIN-SUFFIX,luexiao.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,luexpo.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,lueyue.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,luezhi.com,DIRECT,no-resolve
@@ -51241,7 +51237,6 @@
     - DOMAIN-SUFFIX,qtdebug.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,qtdream.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,qter.org,DIRECT,no-resolve
-    - DOMAIN-SUFFIX,qthmedia.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,qthnews.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,qtkgf.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,qtkj.love,DIRECT,no-resolve
@@ -55251,6 +55246,7 @@
     - DOMAIN-SUFFIX,shuoshuokong.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,shuoshuokong.org,DIRECT,no-resolve
     - DOMAIN-SUFFIX,shuowan.com,DIRECT,no-resolve
+    - DOMAIN-SUFFIX,shupackaging.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,shupaiyun.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,shuq.net,DIRECT,no-resolve
     - DOMAIN-SUFFIX,shuqi.com,DIRECT,no-resolve
@@ -56137,7 +56133,6 @@
     - DOMAIN-SUFFIX,snappcloud.io,DIRECT,no-resolve
     - DOMAIN-SUFFIX,snappmaps.ir,DIRECT,no-resolve
     - DOMAIN-SUFFIX,snbkf34.com,DIRECT,no-resolve
-    - DOMAIN-SUFFIX,sncdental.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,sncoda.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,snd-yy.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,sndhr.com,DIRECT,no-resolve
@@ -57610,7 +57605,6 @@
     - DOMAIN-SUFFIX,sxldns.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,sxls.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,sxmaps.com,DIRECT,no-resolve
-    - DOMAIN-SUFFIX,sxmtdz.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,sxmxwh.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,sxmyh.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,sxncb.com,DIRECT,no-resolve
@@ -61722,6 +61716,7 @@
     - DOMAIN-SUFFIX,ushaqi.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,ushendu.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,ushengame.com,DIRECT,no-resolve
+    - DOMAIN-SUFFIX,ushknews.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,usidt.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,using.club,DIRECT,no-resolve
     - DOMAIN-SUFFIX,usingde.com,DIRECT,no-resolve
@@ -61758,6 +61753,7 @@
     - DOMAIN-SUFFIX,utfinancing.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,utgd.net,DIRECT,no-resolve
     - DOMAIN-SUFFIX,uthinks.com,DIRECT,no-resolve
+    - DOMAIN-SUFFIX,utofairy.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,utogame.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,utom.design,DIRECT,no-resolve
     - DOMAIN-SUFFIX,utoper.com,DIRECT,no-resolve
@@ -64912,7 +64908,6 @@
     - DOMAIN-SUFFIX,wodescw.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,wodeshebao.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,wodeyt.com,DIRECT,no-resolve
-    - DOMAIN-SUFFIX,wodiancan.net,DIRECT,no-resolve
     - DOMAIN-SUFFIX,wodidashi.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,wodingche.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,wodingwang.com,DIRECT,no-resolve
@@ -65920,7 +65915,6 @@
     - DOMAIN-SUFFIX,xajjn.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,xajjwy.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,xajob.com,DIRECT,no-resolve
-    - DOMAIN-SUFFIX,xajr.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,xajxcw.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,xakrlab.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,xalanq.com,DIRECT,no-resolve
@@ -66242,7 +66236,6 @@
     - DOMAIN-SUFFIX,xflimg.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,xfliusheng.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,xflstatic.com,DIRECT,no-resolve
-    - DOMAIN-SUFFIX,xfmtcn.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,xfnano.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,xfocus.net,DIRECT,no-resolve
     - DOMAIN-SUFFIX,xfocus.org,DIRECT,no-resolve
@@ -66525,7 +66518,6 @@
     - DOMAIN-SUFFIX,xiao-an.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,xiao-bo.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,xiao-new.com,DIRECT,no-resolve
-    - DOMAIN-SUFFIX,xiao.lu,DIRECT,no-resolve
     - DOMAIN-SUFFIX,xiao100.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,xiao2she.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,xiao84.com,DIRECT,no-resolve
@@ -70903,6 +70895,7 @@
     - DOMAIN-SUFFIX,youzikuaibao.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,youziyundns.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,youzu.com,DIRECT,no-resolve
+    - DOMAIN-SUFFIX,youzuanmy.vip,DIRECT,no-resolve
     - DOMAIN-SUFFIX,yovisun.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,yovocloud.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,yovole.com,DIRECT,no-resolve
@@ -71320,7 +71313,6 @@
     - DOMAIN-SUFFIX,yuexiang.fun,DIRECT,no-resolve
     - DOMAIN-SUFFIX,yuexiangpin.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,yuexing.com,DIRECT,no-resolve
-    - DOMAIN-SUFFIX,yuexingfurniture.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,yuexinli.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,yuexirc.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,yuexiu.com,DIRECT,no-resolve
@@ -74165,7 +74157,6 @@
     - DOMAIN-SUFFIX,zjpost.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,zjptcc.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,zjpubservice.com,DIRECT,no-resolve
-    - DOMAIN-SUFFIX,zjqbj.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,zjqichuang.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,zjrc.com,DIRECT,no-resolve
     - DOMAIN-SUFFIX,zjrc.net,DIRECT,no-resolve
