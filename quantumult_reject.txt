@@ -335,6 +335,7 @@ host-suffix, 1583030.com, reject
 host-suffix, 1593553817.rsc.cdn77.org, reject
 host-suffix, 15cacaospice63nhdk.com, reject
 host-suffix, 15d113e19a.com, reject
+host-suffix, 15huhu.cn, reject
 host-suffix, 16-merchant-s.com, reject
 host-suffix, 166460e61382a8ab15094a0fb111cc1b.com, reject
 host-suffix, 1675450967.rsc.cdn77.org, reject
@@ -399,6 +400,7 @@ host-suffix, 1bf00b950c.com, reject
 host-suffix, 1bm3n8sld.de, reject
 host-suffix, 1buu1.penyouw.com, reject
 host-suffix, 1c447fc5b7.com, reject
+host-suffix, 1c7cf19baa.com, reject
 host-suffix, 1cash.info, reject
 host-suffix, 1ccbt.com, reject
 host-suffix, 1cctcm1gq.de, reject
@@ -520,6 +522,7 @@ host-suffix, 1web.me, reject
 host-suffix, 1weorpu.com, reject
 host-suffix, 1wiipr.xyz, reject
 host-suffix, 1winpost.com, reject
+host-suffix, 1wnurc.com, reject
 host-suffix, 1wtwaq.xyz, reject
 host-suffix, 1x5jlh.xyz, reject
 host-suffix, 1xlite-503779.top, reject
@@ -2328,6 +2331,7 @@ host-suffix, abtest.swrve.com, reject
 host-suffix, abtrcker.com, reject
 host-suffix, abtyroguean.com, reject
 host-suffix, abtyroguer.com, reject
+host-suffix, abucki.xyz, reject
 host-suffix, abuleiasafflow.com, reject
 host-suffix, abuliasbubber.com, reject
 host-suffix, abundantservantexact.com, reject
@@ -2819,7 +2823,6 @@ host-suffix, ad.duapps.com, reject
 host-suffix, ad.duga.jp, reject
 host-suffix, ad.e-kolay.net, reject
 host-suffix, ad.edugram.com, reject
-host-suffix, ad.eglenced.com, reject
 host-suffix, ad.egloos.com, reject
 host-suffix, ad.ekonomikticaret.com, reject
 host-suffix, ad.eloan.co.jp, reject
@@ -3294,7 +3297,6 @@ host-suffix, adcash.com, reject
 host-suffix, adcast.deviantart.com, reject
 host-suffix, adcastmarket.com, reject
 host-suffix, adcastplus.net, reject
-host-suffix, adcater.com, reject
 host-suffix, adcd7.com, reject
 host-suffix, adcde.com, reject
 host-suffix, adcdn.gamemeca.com, reject
@@ -3586,7 +3588,6 @@ host-suffix, adimage.asia1.com.sg, reject
 host-suffix, adimage.blm.net, reject
 host-suffix, adimage.guardian.co.uk, reject
 host-suffix, adimage.hankookilbo.com, reject
-host-suffix, adimage.media, reject
 host-suffix, adimage.sphdigital.com, reject
 host-suffix, adimages.been.com, reject
 host-suffix, adimages.carsoup.com, reject
@@ -3881,7 +3882,6 @@ host-suffix, adnetworkme.com, reject
 host-suffix, adnetworkperformance.com, reject
 host-suffix, adnety.com, reject
 host-suffix, adnews.maddog2000.de, reject
-host-suffix, adnexio.com, reject
 host-suffix, adnext.fr, reject
 host-suffix, adnext.it, reject
 host-suffix, adnext.pl, reject
@@ -5035,6 +5035,7 @@ host-suffix, adsame.com, reject
 host-suffix, adsandcomputer.com, reject
 host-suffix, adsapi.manhuaren.com, reject
 host-suffix, adsapi.snapchat.com, reject
+host-suffix, adsarcade.com, reject
 host-suffix, adsassets-ipv6.waze.com, reject
 host-suffix, adsassets.waze.com, reject
 host-suffix, adsassure.com, reject
@@ -5797,7 +5798,6 @@ host-suffix, advadnetwork.me, reject
 host-suffix, advanced-ip-sccanner.com, reject
 host-suffix, advanced-web-analytics.com, reject
 host-suffix, advanceencumbrancehive.com, reject
-host-suffix, advancenative.com, reject
 host-suffix, advancenopregnancy.com, reject
 host-suffix, advancets.org, reject
 host-suffix, advancinginfinitely.com, reject
@@ -5970,7 +5970,6 @@ host-suffix, advocacyforgiveness.com, reject
 host-suffix, advod.sbs.co.kr, reject
 host-suffix, advolution.biz, reject
 host-suffix, advolution.de, reject
-host-suffix, advoly.com, reject
 host-suffix, advombat.ru, reject
 host-suffix, advon.net, reject
 host-suffix, advortex.cloud, reject
@@ -6010,7 +6009,6 @@ host-suffix, adwised.com, reject
 host-suffix, adwisedfs.com, reject
 host-suffix, adwist.ru, reject
 host-suffix, adwitty.com, reject
-host-suffix, adwods.com, reject
 host-suffix, adwolf.ru, reject
 host-suffix, adword.ge, reject
 host-suffix, adworkmedia.com, reject
@@ -6126,6 +6124,7 @@ host-suffix, adzyou.com, reject
 host-suffix, ae064ae81c.com, reject
 host-suffix, ae1a1e258b8b016.com, reject
 host-suffix, ae888vip.com, reject
+host-suffix, aeaw.cn, reject
 host-suffix, aeb92e4b9d.com, reject
 host-suffix, aebwmemfebks.xyz, reject
 host-suffix, aec40f9e073ba6.com, reject
@@ -6284,7 +6283,6 @@ host-suffix, affiliate.mediatemple.net, reject
 host-suffix, affiliate.mercola.com, reject
 host-suffix, affiliate.miracle-miracle.com, reject
 host-suffix, affiliate.productreview.com.au, reject
-host-suffix, affiliate.rakuten.co.jp, reject
 host-suffix, affiliate.resellerclub.com, reject
 host-suffix, affiliate.rusvpn.com, reject
 host-suffix, affiliate.sonicsense.jp, reject
@@ -6422,6 +6420,7 @@ host-suffix, afgzipohma.com, reject
 host-suffix, afi-b.com, reject
 host-suffix, afi-thor.com, reject
 host-suffix, afili.ru, reject
+host-suffix, afiliapub.click, reject
 host-suffix, afilio.com.br, reject
 host-suffix, afilo.pl, reject
 host-suffix, afishamedia.net, reject
@@ -8001,6 +8000,7 @@ host-suffix, analytics.webpushr.com, reject
 host-suffix, analytics.websolute.it, reject
 host-suffix, analytics.wetpaint.me, reject
 host-suffix, analytics.whatculture.com, reject
+host-suffix, analytics.wildlifestudios.com, reject
 host-suffix, analytics.wildtangent.com, reject
 host-suffix, analytics.witglobal.net, reject
 host-suffix, analytics.wondershare.cc, reject
@@ -8433,7 +8433,6 @@ host-suffix, api-analytics-prd.pelcro.com, reject
 host-suffix, api-analytics.metaps.com, reject
 host-suffix, api-analytics.prod.birdapp.com, reject
 host-suffix, api-analytics.rozetka.com.ua, reject
-host-suffix, api-ao-list.adison.co, reject
 host-suffix, api-fangarma.utyug.media, reject
 host-suffix, api-logdev.sohatv.vn, reject
 host-suffix, api.140proof.com, reject
@@ -8975,6 +8974,7 @@ host-suffix, arkfreakyinsufficient.com, reject
 host-suffix, arkkcu.xyz, reject
 host-suffix, arkmedboo.live, reject
 host-suffix, arkunexpectedtrousers.com, reject
+host-suffix, arleavannya.com, reject
 host-suffix, arlime.com, reject
 host-suffix, arlyreven.top, reject
 host-suffix, armamentsummary.com, reject
@@ -9516,6 +9516,7 @@ host-suffix, ats.otto.de, reject
 host-suffix, atsabwhkox.com, reject
 host-suffix, atservineor.com, reject
 host-suffix, atsfi.de, reject
+host-suffix, atshcaogrlhi.com, reject
 host-suffix, atshroomisha.com, reject
 host-suffix, atsojqkzoqto.com, reject
 host-suffix, atspace.tv, reject
@@ -10158,6 +10159,7 @@ host-suffix, b02byun5xc3s.com, reject
 host-suffix, b0a0bb3621.com, reject
 host-suffix, b0d2583d75.com, reject
 host-suffix, b0e8.com, reject
+host-suffix, b0eb63.xyz, reject
 host-suffix, b0f1d2.com, reject
 host-suffix, b0oie4xjeb4ite.com, reject
 host-suffix, b0ufmrzl.icu, reject
@@ -10235,6 +10237,7 @@ host-suffix, b8ms7gkwq7g.crocotube.com, reject
 host-suffix, b8pfulzbyj7h.com, reject
 host-suffix, b8zk2cl6bjs92j7ah8k2kzi92jf8ck9vj7v0z5bv2v3cj2azlp0c8z5vb7dt.me, reject
 host-suffix, b90.yahoo.co.jp, reject
+host-suffix, b903c2.xyz, reject
 host-suffix, b91.yahoo.co.jp, reject
 host-suffix, b92.yahoo.co.jp, reject
 host-suffix, b94.yahoo.co.jp, reject
@@ -10357,7 +10360,6 @@ host-suffix, bagslap.com, reject
 host-suffix, baguioattalea.com, reject
 host-suffix, bagwyncam.top, reject
 host-suffix, bahatoken.site, reject
-host-suffix, bahisciler.co, reject
 host-suffix, bahmemohod.com, reject
 host-suffix, bahom.cloud, reject
 host-suffix, bahswl.com, reject
@@ -11618,7 +11620,6 @@ host-suffix, betakeskings.top, reject
 host-suffix, betalonflamechan.com, reject
 host-suffix, betarget.com, reject
 host-suffix, betarget.de, reject
-host-suffix, betburdaaffiliates.com, reject
 host-suffix, betclic.com, reject
 host-suffix, betemolgar.com, reject
 host-suffix, betendads.com, reject
@@ -11664,6 +11665,7 @@ host-suffix, bettingpartners.com, reject
 host-suffix, bettingstugan.se, reject
 host-suffix, beturtwiga.com, reject
 host-suffix, betweendigital.com, reject
+host-suffix, betwinner1.com, reject
 host-suffix, betwinnerpromo.com, reject
 host-suffix, betxerneastor.club, reject
 host-suffix, betyhupte.com, reject
@@ -11950,7 +11952,6 @@ host-suffix, bilgerak.com, reject
 host-suffix, bilicaxers.com, reject
 host-suffix, bilingualfestive.com, reject
 host-suffix, bilingualwalking.com, reject
-host-suffix, bilink.xyz, reject
 host-suffix, bilinkexchang.com, reject
 host-suffix, bilkedsquit.com, reject
 host-suffix, bilkersdtente.uno, reject
@@ -11976,7 +11977,6 @@ host-suffix, bimsld.com, reject
 host-suffix, bin-layer.de, reject
 host-suffix, bin-layer.ru, reject
 host-suffix, bin-tds.site, reject
-host-suffix, binaryad.com, reject
 host-suffix, binaryborrowedorganized.com, reject
 host-suffix, binaryfailure.com, reject
 host-suffix, binaryrecentrecentcut.com, reject
@@ -13378,6 +13378,7 @@ host-suffix, bs.url.tw, reject
 host-suffix, bs.yandex.ru, reject
 host-suffix, bs50tds.com, reject
 host-suffix, bsanciv.top, reject
+host-suffix, bsantycbjnf.com, reject
 host-suffix, bsanvietnam.online, reject
 host-suffix, bsbaswq.cn, reject
 host-suffix, bsbrcdna.com, reject
@@ -13422,6 +13423,7 @@ host-suffix, bthypgm.cn, reject
 host-suffix, btienlv.top, reject
 host-suffix, btilxdpcco.com, reject
 host-suffix, btjbppltrdpyjsj.com, reject
+host-suffix, btkwlsfvc.com, reject
 host-suffix, btloader.com, reject
 host-suffix, btn.onlylady.com, reject
 host-suffix, btn.pchome.net, reject
@@ -14816,6 +14818,7 @@ host-suffix, cdn-redirector.glopal.com, reject
 host-suffix, cdn-rum.ngenix.net, reject
 host-suffix, cdn-server.cc, reject
 host-suffix, cdn-server.top, reject
+host-suffix, cdn-service.com, reject
 host-suffix, cdn-settings.appsflyersdk.com, reject
 host-suffix, cdn-social.janrain.com, reject
 host-suffix, cdn-t.vb24131crasosnemesis.com, reject
@@ -15044,7 +15047,9 @@ host-suffix, cdxyb.cn, reject
 host-suffix, cdybwjpa.xyz, reject
 host-suffix, ce-marketing.fr, reject
 host-suffix, ce.wlaoc.cn, reject
+host-suffix, ce.x-opt.io, reject
 host-suffix, ce2c208e9f.com, reject
+host-suffix, ce357c.xyz, reject
 host-suffix, cea9d3d4f74fb831.com, reject
 host-suffix, ceamtaaprhha.xyz, reject
 host-suffix, ceasechampagneparade.com, reject
@@ -16886,6 +16891,7 @@ host-suffix, collect.asics.com, reject
 host-suffix, collect.babybus.com, reject
 host-suffix, collect.banggood.com, reject
 host-suffix, collect.bannercrowd.net, reject
+host-suffix, collect.biomedcentral.com, reject
 host-suffix, collect.blishtech.co, reject
 host-suffix, collect.breakit.se, reject
 host-suffix, collect.chaordicsystems.com, reject
@@ -17554,6 +17560,7 @@ host-suffix, coochhastier.top, reject
 host-suffix, coochitiphy.com, reject
 host-suffix, cooeyeddarbs.com, reject
 host-suffix, coofumberty.digital, reject
+host-suffix, coogauwoupto.com, reject
 host-suffix, coogoocy.com, reject
 host-suffix, coogumak.com, reject
 host-suffix, coojaiku.com, reject
@@ -18471,6 +18478,7 @@ host-suffix, cruthdivisi.life, reject
 host-suffix, crutop.nu, reject
 host-suffix, crux.songline.com, reject
 host-suffix, crvbnac.xyz, reject
+host-suffix, crvxhuxcel.com, reject
 host-suffix, crwdcntrl.net, reject
 host-suffix, crxekxjpiktykjb.com, reject
 host-suffix, crxmaotidrf.xyz, reject
@@ -18568,6 +18576,7 @@ host-suffix, csvlgqsanwry.com, reject
 host-suffix, csylief.top, reject
 host-suffix, cszz.ru, reject
 host-suffix, ct.5.p2l.info, reject
+host-suffix, ct.beslist.nl, reject
 host-suffix, ct.capterra.com, reject
 host-suffix, ct.corpusapp.com, reject
 host-suffix, ct.eid.co.nz, reject
@@ -20546,6 +20555,7 @@ host-suffix, dczhbhtz52fpi.cloudfront.net, reject
 host-suffix, dd0122893e.com, reject
 host-suffix, dd1.diymianmo.com, reject
 host-suffix, dd112233dd.com, reject
+host-suffix, dd1xbevqx.com, reject
 host-suffix, dd2270.xyz, reject
 host-suffix, dd5889a9b4e234dbb210787.com, reject
 host-suffix, dd667788dd.com, reject
@@ -21916,6 +21926,7 @@ host-suffix, dividedkidblur.com, reject
 host-suffix, dividedscientific.com, reject
 host-suffix, divideinch.com, reject
 host-suffix, divingshown.com, reject
+host-suffix, divinitygasp.com, reject
 host-suffix, divinitygoggle.com, reject
 host-suffix, divisionprogeny.com, reject
 host-suffix, divolution.com, reject
@@ -22500,7 +22511,6 @@ host-suffix, doweralrostra.com, reject
 host-suffix, doweryacreak.website, reject
 host-suffix, dowhatyouneed.com, reject
 host-suffix, down1oads.com, reject
-host-suffix, downads.com, reject
 host-suffix, downgradeproduct.com, reject
 host-suffix, downladingsite.com, reject
 host-suffix, download-adblock-zen.com, reject
@@ -24695,6 +24705,7 @@ host-suffix, eppfquarvmzr.com, reject
 host-suffix, eppmedia.si, reject
 host-suffix, epro.sogou.com, reject
 host-suffix, eproof.com, reject
+host-suffix, eproof.drudgereport.com, reject
 host-suffix, eps-analyzer.de, reject
 host-suffix, epsauthoup.com, reject
 host-suffix, epsuphoa.xyz, reject
@@ -24994,6 +25005,7 @@ host-suffix, etdeposit-interac.com, reject
 host-suffix, eteveredgove.info, reject
 host-suffix, etflpbk.com, reject
 host-suffix, etfqonnd.com, reject
+host-suffix, ethaistoothi.com, reject
 host-suffix, ethalojo.com, reject
 host-suffix, etheappyrince.com, reject
 host-suffix, etheappyrincea.info, reject
@@ -25832,6 +25844,7 @@ host-suffix, f-log-test.grammarly.io, reject
 host-suffix, f-voyance.fr, reject
 host-suffix, f.convertkit.com, reject
 host-suffix, f.qstatic.com, reject
+host-suffix, f.revotas.com, reject
 host-suffix, f.sen.seg.br, reject
 host-suffix, f05098.privacy4browsers.com, reject
 host-suffix, f0657e4fd5.com, reject
@@ -26252,6 +26265,7 @@ host-suffix, fbcctf.com, reject
 host-suffix, fbcdn2.com, reject
 host-suffix, fbd.de, reject
 host-suffix, fbebmgbiou.com, reject
+host-suffix, fbfec2.xyz, reject
 host-suffix, fbffdfproxwqi.com, reject
 host-suffix, fbfrbt.xyz, reject
 host-suffix, fbgdc.com, reject
@@ -26830,8 +26844,6 @@ host-suffix, fine-wealth.pro, reject
 host-suffix, finead.o00.kr, reject
 host-suffix, finedintersection.com, reject
 host-suffix, finednothue.com, reject
-host-suffix, finema-net.cdn.ampproject.org, reject
-host-suffix, finema.net, reject
 host-suffix, fineoffer.net, reject
 host-suffix, fineporno.com, reject
 host-suffix, finesseboisterous.com, reject
@@ -30563,6 +30575,7 @@ host-suffix, gripdownload.co, reject
 host-suffix, gripehealth.com, reject
 host-suffix, grippertureen.space, reject
 host-suffix, gripping-bread.com, reject
+host-suffix, gripspigyard.com, reject
 host-suffix, grirault.net, reject
 host-suffix, gristleupanaya.com, reject
 host-suffix, gritaware.com, reject
@@ -31071,6 +31084,7 @@ host-suffix, h5.tocdovnm.com, reject
 host-suffix, h51.carpcredits.com, reject
 host-suffix, h52ek3i.de, reject
 host-suffix, h559.stamfordadvocate.com, reject
+host-suffix, h5lwvwj.top, reject
 host-suffix, h5r2dzdwqk.com, reject
 host-suffix, h5v.eu, reject
 host-suffix, h6.helenrosi.com, reject
@@ -32009,6 +32023,7 @@ host-suffix, hiddenbucks.com, reject
 host-suffix, hiddenseet.com, reject
 host-suffix, hidemembershipprofane.com, reject
 host-suffix, hideousactivelyparked.com, reject
+host-suffix, hidingenious.com, reject
 host-suffix, hidist.com, reject
 host-suffix, hiedflashed.com, reject
 host-suffix, hiedgored.top, reject
@@ -32439,6 +32454,7 @@ host-suffix, hokierloopy.digital, reject
 host-suffix, holdenthusiastichalt.com, reject
 host-suffix, holder.com.ua, reject
 host-suffix, holdhostel.space, reject
+host-suffix, holdingholly.space, reject
 host-suffix, holdingwager.com, reject
 host-suffix, holdntlc.com, reject
 host-suffix, holdsbracketsherry.com, reject
@@ -32830,6 +32846,7 @@ host-suffix, hpychofen.com, reject
 host-suffix, hpyjmp.com, reject
 host-suffix, hpyrdr.com, reject
 host-suffix, hpyue.com, reject
+host-suffix, hpzktd.xyz, reject
 host-suffix, hq390.xyz, reject
 host-suffix, hq3x.com, reject
 host-suffix, hqdlhgx.cn, reject
@@ -33004,6 +33021,7 @@ host-suffix, hueads.com, reject
 host-suffix, hueadsortb.com, reject
 host-suffix, hueadsxml.com, reject
 host-suffix, huehinge.com, reject
+host-suffix, hufaztjist.com, reject
 host-suffix, huffingtopost.fr, reject
 host-suffix, huffson-delivery.com, reject
 host-suffix, hugelyantony.com, reject
@@ -33291,6 +33309,7 @@ host-suffix, hzogncbobfb.com, reject
 host-suffix, hzoywchsp.com, reject
 host-suffix, hzr0dm28m17c.com, reject
 host-suffix, hzrghx.xyz, reject
+host-suffix, hzstats.com, reject
 host-suffix, hzvcaadn.icu, reject
 host-suffix, hzzgnwdsha.com, reject
 host-suffix, i-afk.com, reject
@@ -33737,6 +33756,7 @@ host-suffix, iinzwyd.com, reject
 host-suffix, iiowokorfr.com, reject
 host-suffix, iiqradydqohuqg.com, reject
 host-suffix, iirshhywdahij.com, reject
+host-suffix, iisabujdtg.com, reject
 host-suffix, iisacombank.com, reject
 host-suffix, iistillstayherea.com, reject
 host-suffix, iiutq.xyz, reject
@@ -34307,6 +34327,7 @@ host-suffix, incuirfes.beauty, reject
 host-suffix, indebtedatrocious.com, reject
 host-suffix, indefinitelytonsil.com, reject
 host-suffix, indefinitelyunlikelyplease.com, reject
+host-suffix, indeliblehang.pro, reject
 host-suffix, indelicatecanvas.com, reject
 host-suffix, indelicatepokedoes.com, reject
 host-suffix, indelphoxom.com, reject
@@ -36131,6 +36152,7 @@ host-suffix, jinkads.de, reject
 host-suffix, jinterests-1.com, reject
 host-suffix, jintonghua.com, reject
 host-suffix, jinxrussian.com, reject
+host-suffix, jinzige.cn, reject
 host-suffix, jioads.akamaized.net, reject
 host-suffix, jioed.cyou, reject
 host-suffix, jiokhvnqchnt.com, reject
@@ -36288,6 +36310,7 @@ host-suffix, jnyyryjarlyyl.top, reject
 host-suffix, jo9p72.cyou, reject
 host-suffix, joachoag.xyz, reject
 host-suffix, joaglouwulin.com, reject
+host-suffix, joannaiodisms.com, reject
 host-suffix, joaphoad.com, reject
 host-suffix, joaqaylueycfqw.xyz, reject
 host-suffix, joasoagly.com, reject
@@ -36525,6 +36548,7 @@ host-suffix, js-tags.otherlevels.com, reject
 host-suffix, js.263y.com, reject
 host-suffix, js.92aliyun.com, reject
 host-suffix, js.aiservice.vn, reject
+host-suffix, js.betburdaaffiliates.com, reject
 host-suffix, js.bju888.com, reject
 host-suffix, js.cybermonitor.com, reject
 host-suffix, js.duotegame.com, reject
@@ -36873,6 +36897,7 @@ host-suffix, jxuhurp.icu, reject
 host-suffix, jxvilsjyrh.com, reject
 host-suffix, jxvyrv.xyz, reject
 host-suffix, jxwqu.cn, reject
+host-suffix, jxxnnhdgbfo.xyz, reject
 host-suffix, jxybgyu.com, reject
 host-suffix, jy.zhongxues.com, reject
 host-suffix, jy147a.com, reject
@@ -37216,6 +37241,7 @@ host-suffix, kepersaonwho.org, reject
 host-suffix, kepler-37b.com, reject
 host-suffix, keppendragoon.top, reject
 host-suffix, keptafd.cn, reject
+host-suffix, keptoojals.xyz, reject
 host-suffix, keraclya.com, reject
 host-suffix, keramiceoan.com, reject
 host-suffix, kerebro.com, reject
@@ -38386,6 +38412,7 @@ host-suffix, lajeshuru.pro, reject
 host-suffix, lajna.fr, reject
 host-suffix, lajouly.com, reject
 host-suffix, lake.joongang.co.kr, reject
+host-suffix, lake.studydrive.net, reject
 host-suffix, lakequincy.com, reject
 host-suffix, lakfbvoskxlc.com, reject
 host-suffix, lakmus.xyz, reject
@@ -38842,6 +38869,7 @@ host-suffix, leadgidads.ru, reject
 host-suffix, leadhit.ru, reject
 host-suffix, leadid.com, reject
 host-suffix, leadin.com, reject
+host-suffix, leadinfo.net, reject
 host-suffix, leadingedgecash.com, reject
 host-suffix, leadingindication.pro, reject
 host-suffix, leadingservicesintimate.com, reject
@@ -39451,6 +39479,7 @@ host-suffix, lilysuffocateacademy.com, reject
 host-suffix, lilysummoned.com, reject
 host-suffix, limbcoastlineimpetuous.com, reject
 host-suffix, limberkilnman.cam, reject
+host-suffix, limbievireos.com, reject
 host-suffix, limboduty.com, reject
 host-suffix, limbrooms.com, reject
 host-suffix, limeaboriginal.com, reject
@@ -39973,6 +40002,7 @@ host-suffix, loajawun.com, reject
 host-suffix, loaksandtheir.info, reject
 host-suffix, loan.aol.msk.su, reject
 host-suffix, loanmoney-th.com, reject
+host-suffix, loaptaijuw.com, reject
 host-suffix, loastees.net, reject
 host-suffix, loathecurvedrepress.com, reject
 host-suffix, loathederava.uno, reject
@@ -40076,6 +40106,7 @@ host-suffix, log-verify.mob.com, reject
 host-suffix, log-vietnamplus-vn.cdn.ampproject.org, reject
 host-suffix, log.247post.vn, reject
 host-suffix, log.51changdu.com, reject
+host-suffix, log.affiliate.rakuten.co.jp, reject
 host-suffix, log.ahamo.com, reject
 host-suffix, log.aimtell.com, reject
 host-suffix, log.ajunews.com, reject
@@ -40468,6 +40499,7 @@ host-suffix, looksmart.com, reject
 host-suffix, looksmartppc.com, reject
 host-suffix, looksthrilled.com, reject
 host-suffix, lookszone.ru, reject
+host-suffix, looktotheright.com, reject
 host-suffix, lookujie.net, reject
 host-suffix, lookup-domain.com, reject
 host-suffix, lookwhippedoppressive.com, reject
@@ -42173,6 +42205,7 @@ host-suffix, media.888.com, reject
 host-suffix, media.ad-lps.net, reject
 host-suffix, media.adextent.com, reject
 host-suffix, media.adrime.com, reject
+host-suffix, media.betburdaaffiliates.com, reject
 host-suffix, media.bonnint.net, reject
 host-suffix, media.charter.com, reject
 host-suffix, media.dabong247.com, reject
@@ -43438,6 +43471,7 @@ host-suffix, mnhjkl.com, reject
 host-suffix, mnhknds.com, reject
 host-suffix, mnhncf.cn, reject
 host-suffix, mnifdlax.top, reject
+host-suffix, mninoq.xyz, reject
 host-suffix, mnjhrleahonkq.com, reject
 host-suffix, mnjxvtknnlai.com, reject
 host-suffix, mnnmnn.com, reject
@@ -43566,7 +43600,6 @@ host-suffix, mobilesoft.fr, reject
 host-suffix, mobiletelemetry.ebay.com, reject
 host-suffix, mobiletracking.ru, reject
 host-suffix, mobilpop.com, reject
-host-suffix, mobilup.com, reject
 host-suffix, mobio.vn, reject
 host-suffix, mobioffers.ru, reject
 host-suffix, mobipromote.com, reject
@@ -43577,7 +43610,6 @@ host-suffix, mobitracker.info, reject
 host-suffix, mobiyield.com, reject
 host-suffix, mobmsgs.com, reject
 host-suffix, mobnotices.com, reject
-host-suffix, mobon.com, reject
 host-suffix, mobon.net, reject
 host-suffix, mobondhrd.appspot.com, reject
 host-suffix, mobotoolpush.moboapps.io, reject
@@ -44192,6 +44224,7 @@ host-suffix, mpyerxzn.xyz, reject
 host-suffix, mpzgnxmd.com, reject
 host-suffix, mpzwsvueph.com, reject
 host-suffix, mqabjtgli.xyz, reject
+host-suffix, mqaoweu.icu, reject
 host-suffix, mqaqtwkbwcqty.xyz, reject
 host-suffix, mqcjqjhy.com, reject
 host-suffix, mqcoycx.icu, reject
@@ -44703,6 +44736,7 @@ host-suffix, mybestnewz.com, reject
 host-suffix, mybetterck.com, reject
 host-suffix, mybetterdl.com, reject
 host-suffix, mybettermb.com, reject
+host-suffix, mybgrea97.shop, reject
 host-suffix, mybinaryoptionsrobot.com, reject
 host-suffix, mybloglog.com, reject
 host-suffix, mybmrtrg.com, reject
@@ -45386,6 +45420,7 @@ host-suffix, navigateconfuseanonymous.com, reject
 host-suffix, navigatecrudeoutlaw.com, reject
 host-suffix, navigateiriswilliam.com, reject
 host-suffix, navigationconcept.com, reject
+host-suffix, navigator-analytics.tweakwise.com, reject
 host-suffix, navigator.io, reject
 host-suffix, navilytics.com, reject
 host-suffix, navrcholu.cz, reject
@@ -46314,6 +46349,7 @@ host-suffix, nkbobsj.com, reject
 host-suffix, nkbpft.xyz, reject
 host-suffix, nkbpmxdubcd.com, reject
 host-suffix, nkcsycwf.com, reject
+host-suffix, nkdgnsfsk.com, reject
 host-suffix, nkewdzp.com, reject
 host-suffix, nkfinsdg.com, reject
 host-suffix, nkfith.xyz, reject
@@ -48405,6 +48441,7 @@ host-suffix, openslowlypoignant.com, reject
 host-suffix, openssp.ru, reject
 host-suffix, openstat.net, reject
 host-suffix, opentecs.com, reject
+host-suffix, opentelemetry-collector.shared-services.us-east-1.general.prod.wildlife.io, reject
 host-suffix, opentracker.net, reject
 host-suffix, opentracking.ru, reject
 host-suffix, openunder.net, reject
@@ -48678,6 +48715,7 @@ host-suffix, orldwhoisquite.org, reject
 host-suffix, orldwhoisquiteh.info, reject
 host-suffix, orlotalers.com, reject
 host-suffix, orlowedonhisdhilt.info, reject
+host-suffix, ormolusapiary.com, reject
 host-suffix, ormolustuke.top, reject
 host-suffix, orner.fr, reject
 host-suffix, ornismolal.top, reject
@@ -49886,6 +49924,7 @@ host-suffix, paunaupa.com, reject
 host-suffix, paurozel.net, reject
 host-suffix, paushoow.net, reject
 host-suffix, paussidsipage.com, reject
+host-suffix, pausteegohoa.net, reject
 host-suffix, pauwhajo.xyz, reject
 host-suffix, pavfazbwiap.com, reject
 host-suffix, paviestrewel.top, reject
@@ -50262,7 +50301,6 @@ host-suffix, performance-netzwerk.de, reject
 host-suffix, performanceadexchange.com, reject
 host-suffix, performanceanalyser.net, reject
 host-suffix, performancefirst.jp, reject
-host-suffix, performancenative.com, reject
 host-suffix, performanceonclick.com, reject
 host-suffix, performanceplay.co.kr, reject
 host-suffix, performancerevenue.com, reject
@@ -53424,6 +53462,7 @@ host-suffix, purtymells.top, reject
 host-suffix, pusatiklan.com, reject
 host-suffix, puserving.com, reject
 host-suffix, push-ad.com, reject
+host-suffix, push-api.topaz-analytics.com, reject
 host-suffix, push-news.click, reject
 host-suffix, push-news.org, reject
 host-suffix, push-notification.tools, reject
@@ -54766,6 +54805,7 @@ host-suffix, random-affiliate.atimaze.com, reject
 host-suffix, randomadsrv.com, reject
 host-suffix, randomamongst.com, reject
 host-suffix, randomassertiveacacia.com, reject
+host-suffix, randomdnslab.com, reject
 host-suffix, randomignitiondentist.com, reject
 host-suffix, randomlane.net, reject
 host-suffix, raneeptaid.net, reject
@@ -55114,7 +55154,6 @@ host-suffix, realtraf.net, reject
 host-suffix, realvids.online, reject
 host-suffix, realvids.space, reject
 host-suffix, realvu.net, reject
-host-suffix, realwap.net, reject
 host-suffix, realxavounow.com, reject
 host-suffix, realytics.io, reject
 host-suffix, realytics.net, reject
@@ -55437,6 +55476,7 @@ host-suffix, refilmsbones.top, reject
 host-suffix, refinance.shengen.ru, reject
 host-suffix, refinedads.com, reject
 host-suffix, refineminx.top, reject
+host-suffix, refinerfiery.com, reject
 host-suffix, reflectingscoopcourse.com, reject
 host-suffix, reflectionseldomnorth.com, reject
 host-suffix, reflectionsidewalk.com, reject
@@ -56109,7 +56149,6 @@ host-suffix, revolvemockerycopper.com, reject
 host-suffix, revolveoppress.com, reject
 host-suffix, revolvermaps.com, reject
 host-suffix, revopush.com, reject
-host-suffix, revotas.com, reject
 host-suffix, revprotect.com, reject
 host-suffix, revrelations.com, reject
 host-suffix, revresponse.com, reject
@@ -56348,6 +56387,7 @@ host-suffix, rimeseized.com, reject
 host-suffix, rimfranklyscaffold.com, reject
 host-suffix, riminghoggoofy.com, reject
 host-suffix, rimnow.fr, reject
+host-suffix, rimoseantdom.com, reject
 host-suffix, rimwigckagz.com, reject
 host-suffix, rinceaskedase.com, reject
 host-suffix, rincipledecli.info, reject
@@ -58151,6 +58191,7 @@ host-suffix, sdhfbvd.com, reject
 host-suffix, sdhltncfqbu.com, reject
 host-suffix, sdjbcjsbdjk.com, reject
 host-suffix, sdjbvjsbvjz.com, reject
+host-suffix, sdjbvskjvds.com, reject
 host-suffix, sdjkbcjksbdsvv.com, reject
 host-suffix, sdjqhxmg.com, reject
 host-suffix, sdjvbsjbvas.com, reject
@@ -59925,6 +59966,7 @@ host-suffix, simpli.fi, reject
 host-suffix, simpli.top, reject
 host-suffix, simpliftsbefore.info, reject
 host-suffix, simpliftsbefore.xyz, reject
+host-suffix, simplistic-king.pro, reject
 host-suffix, simplisticwhole.pro, reject
 host-suffix, simplycast.us, reject
 host-suffix, simplycode.co, reject
@@ -60332,6 +60374,7 @@ host-suffix, sloeri.com, reject
 host-suffix, slogantrend.de, reject
 host-suffix, slopeac.com, reject
 host-suffix, slopeaota.com, reject
+host-suffix, slopingunrein.com, reject
 host-suffix, sloppyegotistical.com, reject
 host-suffix, slot-888.ru, reject
 host-suffix, sloto.live, reject
@@ -61985,6 +62028,7 @@ host-suffix, static.accesstrade.vn, reject
 host-suffix, static.adconnect.vn, reject
 host-suffix, static.admaximize.com, reject
 host-suffix, static.adwo.com, reject
+host-suffix, static.affiliate.rakuten.co.jp, reject
 host-suffix, static.affiliatly.com, reject
 host-suffix, static.aio.media, reject
 host-suffix, static.analytics-site.com, reject
@@ -63390,7 +63434,6 @@ host-suffix, svtlgjmqyzmwz.com, reject
 host-suffix, svtrd.com, reject
 host-suffix, svvev3.com, reject
 host-suffix, svyksa.info, reject
-host-suffix, sw1block.com, reject
 host-suffix, sw2block.com, reject
 host-suffix, sw88.espn.com, reject
 host-suffix, swa.and.co.uk, reject
@@ -63998,6 +64041,7 @@ host-suffix, tags.tagcade.com, reject
 host-suffix, tagsadvancenative-glb8iionio2cozc.netdna-ssl.com, reject
 host-suffix, tagsrvcs.com, reject
 host-suffix, tagtoo.co, reject
+host-suffix, tagtoo.com, reject
 host-suffix, tagtracking.vibescm.com, reject
 host-suffix, tagtray.com, reject
 host-suffix, tagtree.co.kr, reject
@@ -64240,7 +64284,6 @@ host-suffix, tarieoctant.top, reject
 host-suffix, tarnifotum.com, reject
 host-suffix, taroads.com, reject
 host-suffix, tarotaffirm.com, reject
-host-suffix, tarpitbar.com, reject
 host-suffix, tarqk5.com, reject
 host-suffix, tarresdiptych.top, reject
 host-suffix, tarriesthetine.digital, reject
@@ -64557,6 +64600,7 @@ host-suffix, tefaighecmoa.com, reject
 host-suffix, tefuse.com, reject
 host-suffix, tegleebs.com, reject
 host-suffix, tegronews.com, reject
+host-suffix, teiankythes.top, reject
 host-suffix, teicdn.com, reject
 host-suffix, teiidsfortune.com, reject
 host-suffix, teinlbw.com, reject
@@ -66410,6 +66454,7 @@ host-suffix, tr.infopanel.jp, reject
 host-suffix, tr.junaroad.com, reject
 host-suffix, tr.line.me, reject
 host-suffix, tr.marsflag.com, reject
+host-suffix, tr.mediafin.be, reject
 host-suffix, tr.n2.hk, reject
 host-suffix, tr.samoresim.ru, reject
 host-suffix, tr.slvrbullet.com, reject
@@ -68833,6 +68878,7 @@ host-suffix, ukmlastityty.info, reject
 host-suffix, ukndaspiratioty.info, reject
 host-suffix, uknsyenergyfle.info, reject
 host-suffix, ukoffzeh.com, reject
+host-suffix, ukpdjsailq.com, reject
 host-suffix, ukpsal.icu, reject
 host-suffix, ukrashulya.ru, reject
 host-suffix, ukrbanner.net, reject
@@ -69682,6 +69728,7 @@ host-suffix, usingswhoring.com, reject
 host-suffix, usiphdtubj.com, reject
 host-suffix, usisedprivatedqu.com, reject
 host-suffix, usjbwvtqwv.com, reject
+host-suffix, uskecsx.icu, reject
 host-suffix, uskoie.xyz, reject
 host-suffix, uslbaht.top, reject
 host-suffix, uslimsofbr.cfd, reject
@@ -69922,7 +69969,6 @@ host-suffix, uzbxnfwcvhwnz.com, reject
 host-suffix, uzelzfnj.xyz, reject
 host-suffix, uzerly.net, reject
 host-suffix, uzibhigtekn.com, reject
-host-suffix, uzmanreklam.com, reject
 host-suffix, uzmdfi.com, reject
 host-suffix, uznizrhd.xyz, reject
 host-suffix, uzoamtee.xyz, reject
@@ -73218,7 +73264,6 @@ host-suffix, whatnotbenjoin.top, reject
 host-suffix, whatolra.net, reject
 host-suffix, whats-new.org, reject
 host-suffix, whatsapp-app.com, reject
-host-suffix, whatsappsohbetim.net, reject
 host-suffix, whatsappsupport.net, reject
 host-suffix, whatsfopped.top, reject
 host-suffix, whatsoeverlittle.com, reject
@@ -74230,6 +74275,7 @@ host-suffix, wstats.slashed.cloud, reject
 host-suffix, wstatslive.com, reject
 host-suffix, wstyruafypihv.xyz, reject
 host-suffix, wsyfsg.xyz, reject
+host-suffix, wsyliee.top, reject
 host-suffix, wt-eu02.net, reject
 host-suffix, wt-safetag.com, reject
 host-suffix, wt.bankmillennium.pl, reject
@@ -75464,6 +75510,7 @@ host-suffix, xml-clickurl.com, reject
 host-suffix, xml.adfclick1.com, reject
 host-suffix, xml.adtech.fr, reject
 host-suffix, xml.adtech.us, reject
+host-suffix, xml.affiliate.rakuten.co.jp, reject
 host-suffix, xml.click9.com, reject
 host-suffix, xml.mediashakers.com, reject
 host-suffix, xml.yepmedia.com, reject
@@ -75491,7 +75538,6 @@ host-suffix, xmrgdwixpkzi.com, reject
 host-suffix, xms.lol, reject
 host-suffix, xmsflzmygw.com, reject
 host-suffix, xmtrading.com, reject
-host-suffix, xmtrk.com, reject
 host-suffix, xmverqdrjodohf.com, reject
 host-suffix, xmvmir.icu, reject
 host-suffix, xmxupz.xyz, reject
@@ -76071,7 +76117,6 @@ host-suffix, yfrrsktkzfp.com, reject
 host-suffix, yfsstec96.xyz, reject
 host-suffix, yftpnol.com, reject
 host-suffix, yfykzbhaiuzbht.com, reject
-host-suffix, yfzbn.com, reject
 host-suffix, yfzpxnb.xyz, reject
 host-suffix, ygeosqsomusu.xyz, reject
 host-suffix, ygeqiky.com, reject
@@ -76475,6 +76520,7 @@ host-suffix, yscfsmxrtcifye.com, reject
 host-suffix, yscntxil.com, reject
 host-suffix, ysemblyjusting.info, reject
 host-suffix, ysesials.net, reject
+host-suffix, yshhfig.com, reject
 host-suffix, yshlor.icu, reject
 host-suffix, ysnxszyrxdzp.com, reject
 host-suffix, yspecjbjmcub.com, reject
@@ -76748,6 +76794,7 @@ host-suffix, zatloudredr.com, reject
 host-suffix, zatnoh.com, reject
 host-suffix, zattdf.xyz, reject
 host-suffix, zaucharo.xyz, reject
+host-suffix, zaudograum.xyz, reject
 host-suffix, zaudouwa.xyz, reject
 host-suffix, zaudowhiy.xyz, reject
 host-suffix, zauglomo.net, reject
@@ -76992,6 +77039,7 @@ host-suffix, zgyvg.top, reject
 host-suffix, zgzxs.weathercn.com, reject
 host-suffix, zhalinylqq.com, reject
 host-suffix, zhaner.xyz, reject
+host-suffix, zhangqifeng12.top, reject
 host-suffix, zhangyuting04.cn, reject
 host-suffix, zhanzhang.toutiao.com, reject
 host-suffix, zhaozongqq.com, reject
@@ -77056,6 +77104,7 @@ host-suffix, zingmp3.pro, reject
 host-suffix, zingshop.net, reject
 host-suffix, zinipx.xyz, reject
 host-suffix, zinovila.com, reject
+host-suffix, zinovu.com, reject
 host-suffix, zinrora.pw, reject
 host-suffix, zion-telemetry-nonprod.api.cnn.io, reject
 host-suffix, zion-telemetry.api.cnn.io, reject
@@ -77443,6 +77492,7 @@ host-suffix, zxpvalr.xyz, reject
 host-suffix, zxqiwe.cn, reject
 host-suffix, zxr9gpxf7j.com, reject
 host-suffix, zxrcfw.com, reject
+host-suffix, zxrfzxb.com, reject
 host-suffix, zxwhkosabux.com, reject
 host-suffix, zxwnlg.com, reject
 host-suffix, zxxgoikbqyiu.com, reject
