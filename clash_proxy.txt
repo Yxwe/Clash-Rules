@@ -5908,6 +5908,7 @@
     - DOMAIN-SUFFIX,x-berry.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,x-wall.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,x.co,PROXY,no-resolve
+    - DOMAIN-SUFFIX,x.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,x.company,PROXY,no-resolve
     - DOMAIN-SUFFIX,x1949x.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,x24hr.com,PROXY,no-resolve
