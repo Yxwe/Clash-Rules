@@ -4225,6 +4225,7 @@
     - DOMAIN-SUFFIX,pythonhackers.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,pytorch.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,qanote.com,PROXY,no-resolve
+    - DOMAIN-SUFFIX,qbittorrent.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,qgirl.com.tw,PROXY,no-resolve
     - DOMAIN-SUFFIX,qhigh.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,qi-gong.me,PROXY,no-resolve
