@@ -292,6 +292,7 @@
     - DOMAIN-SUFFIX,anpopo.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,answering-islam.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,anthonycalzadilla.com,PROXY,no-resolve
+    - DOMAIN-SUFFIX,anthropic.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,anti1984.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,antichristendom.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,antiwave.net,PROXY,no-resolve
@@ -711,6 +712,7 @@
     - DOMAIN-SUFFIX,blubrry.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,blueangellive.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,bmfinn.com,PROXY,no-resolve
+    - DOMAIN-SUFFIX,bnbstatic.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,bnews.co,PROXY,no-resolve
     - DOMAIN-SUFFIX,bnext.com.tw,PROXY,no-resolve
     - DOMAIN-SUFFIX,bnn.co,PROXY,no-resolve
@@ -1075,6 +1077,7 @@
     - DOMAIN-SUFFIX,cl.d0z.net,PROXY,no-resolve
     - DOMAIN-SUFFIX,clarionproject.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,classicalguitarblog.net,PROXY,no-resolve
+    - DOMAIN-SUFFIX,claude.ai,PROXY,no-resolve
     - DOMAIN-SUFFIX,clb.org.hk,PROXY,no-resolve
     - DOMAIN-SUFFIX,cldr.unicode.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,cleansite.biz,PROXY,no-resolve
@@ -4028,6 +4031,7 @@
     - DOMAIN-SUFFIX,perfect-privacy.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,perfectgirls.net,PROXY,no-resolve
     - DOMAIN-SUFFIX,periscope.tv,PROXY,no-resolve
+    - DOMAIN-SUFFIX,perplexity.ai,PROXY,no-resolve
     - DOMAIN-SUFFIX,persecutionblog.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,persiankitty.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,phapluan.org,PROXY,no-resolve
