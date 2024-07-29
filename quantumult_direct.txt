@@ -206,8 +206,6 @@ host-suffix, gtm.oasisfeng.com, direct
 host-suffix, guzzoni-apple-com.v.aaplimg.com, direct
 host-suffix, guzzoni.apple.com, direct
 host-suffix, guzzoni.smoot.apple.com, direct
-host-suffix, gvt1-cn.com, direct
-host-suffix, gvt2-cn.com, direct
 host-suffix, hellofontpreview.oss-cn-beijing.aliyuncs.com, direct
 host-suffix, hellowebfonts.oss-cn-beijing.aliyuncs.com, direct
 host-suffix, hospital.pku.edu.cn, direct
@@ -32086,6 +32084,8 @@ host-suffix, gvfgd.com, direct
 host-suffix, gvi-tech.com, direct
 host-suffix, gvlocalization.com, direct
 host-suffix, gvoiceplat.com, direct
+host-suffix, gvt1-cn.com, direct
+host-suffix, gvt2-cn.com, direct
 host-suffix, gvzen.com, direct
 host-suffix, gw-ec.com, direct
 host-suffix, gw.craft.moe, direct
@@ -47365,6 +47365,7 @@ host-suffix, lanzun.net, direct
 host-suffix, lao.si, direct
 host-suffix, laobaicai.net, direct
 host-suffix, laobaigan-hs.com, direct
+host-suffix, laoban100.com, direct
 host-suffix, laobandq.com, direct
 host-suffix, laobanfa.com, direct
 host-suffix, laobangban.com, direct
@@ -64341,8 +64342,10 @@ host-suffix, shengxuxu.com, direct
 host-suffix, shengyan985.com, direct
 host-suffix, shengyasd.com, direct
 host-suffix, shengyeji.com, direct
+host-suffix, shengyi.ai, direct
 host-suffix, shengyi.biz, direct
 host-suffix, shengyidi.com, direct
+host-suffix, shengyizhuanjia.com, direct
 host-suffix, shengyuancc.com, direct
 host-suffix, shengzehr.com, direct
 host-suffix, shengzhaoli.com, direct
@@ -83559,6 +83562,7 @@ host-suffix, yuanbaobaoxian.com, direct
 host-suffix, yuanbaohui.com, direct
 host-suffix, yuanbaokc.com, direct
 host-suffix, yuanbaotaoche.com, direct
+host-suffix, yuanbei.biz, direct
 host-suffix, yuanbin.me, direct
 host-suffix, yuancangipr.com, direct
 host-suffix, yuancdn.com, direct
