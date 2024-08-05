@@ -428,6 +428,7 @@
     - DOMAIN-SUFFIX,axureformac.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,azerbaycan.tv,PROXY,no-resolve
     - DOMAIN-SUFFIX,azerimix.com,PROXY,no-resolve
+    - DOMAIN-SUFFIX,azirevpn.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,azubu.tv,PROXY,no-resolve
     - DOMAIN-SUFFIX,azurewebsites.net,PROXY,no-resolve
     - DOMAIN-SUFFIX,b-ok.cc,PROXY,no-resolve
@@ -1098,6 +1099,7 @@
     - DOMAIN-SUFFIX,clubhouseapi.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,clyp.it,PROXY,no-resolve
     - DOMAIN-SUFFIX,cmcn.org,PROXY,no-resolve
+    - DOMAIN-SUFFIX,cmegroup.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,cmi.org.tw,PROXY,no-resolve
     - DOMAIN-SUFFIX,cmp.hku.hk,PROXY,no-resolve
     - DOMAIN-SUFFIX,cms.gov,PROXY,no-resolve
@@ -2796,6 +2798,7 @@
     - DOMAIN-SUFFIX,imageab.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,imagefap.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,imageflea.com,PROXY,no-resolve
+    - DOMAIN-SUFFIX,imageglass.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,images-gaytube.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,images.comico.tw,PROXY,no-resolve
     - DOMAIN-SUFFIX,imageshack.us,PROXY,no-resolve
