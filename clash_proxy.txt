@@ -2917,6 +2917,7 @@
     - DOMAIN-SUFFIX,ivacy.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,iverycd.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,ivpn.net,PROXY,no-resolve
+    - DOMAIN-SUFFIX,iwara.tv,PROXY,no-resolve
     - DOMAIN-SUFFIX,ixquick.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,ixxx.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,iyouport.com,PROXY,no-resolve
@@ -5129,6 +5130,7 @@
     - DOMAIN-SUFFIX,tibetswiss.ch,PROXY,no-resolve
     - DOMAIN-SUFFIX,tibettelegraph.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,tibettimes.net,PROXY,no-resolve
+    - DOMAIN-SUFFIX,tibettruth.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,tibetwrites.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,ticket.com.tw,PROXY,no-resolve
     - DOMAIN-SUFFIX,tigervpn.com,PROXY,no-resolve
