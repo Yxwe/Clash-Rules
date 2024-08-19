@@ -1270,7 +1270,6 @@
     - DOMAIN-SUFFIX,dalailama.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,dalailama.mn,PROXY,no-resolve
     - DOMAIN-SUFFIX,dalailama.ru,PROXY,no-resolve
-    - DOMAIN-SUFFIX,dalailama.usc.edu,PROXY,no-resolve
     - DOMAIN-SUFFIX,dalailama80.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,dalailamacenter.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,dalailamafellows.org,PROXY,no-resolve
@@ -4796,6 +4795,7 @@
     - DOMAIN-SUFFIX,store.steampowered.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,stories.google,PROXY,no-resolve
     - DOMAIN-SUFFIX,storify.com,PROXY,no-resolve
+    - DOMAIN-SUFFIX,storj.io,PROXY,no-resolve
     - DOMAIN-SUFFIX,storm.mg,PROXY,no-resolve
     - DOMAIN-SUFFIX,stormmediagroup.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,stoweboyd.com,PROXY,no-resolve
@@ -5479,6 +5479,7 @@
     - DOMAIN-SUFFIX,us.to,PROXY,no-resolve
     - DOMAIN-SUFFIX,usacn.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,usaip.eu,PROXY,no-resolve
+    - DOMAIN-SUFFIX,uscardforum.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,uscnpm.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,userapi.nytlog.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,users.skynet.be,PROXY,no-resolve
