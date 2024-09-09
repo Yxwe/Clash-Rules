@@ -314,7 +314,6 @@
     - DOMAIN-SUFFIX,api.ai,PROXY,no-resolve
     - DOMAIN-SUFFIX,api.dropboxapi.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,api.linksalpha.com,PROXY,no-resolve
-    - DOMAIN-SUFFIX,api.proxlet.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,api.pureapk.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,api.recaptcha.net,PROXY,no-resolve
     - DOMAIN-SUFFIX,apiary.io,PROXY,no-resolve
@@ -618,7 +617,6 @@
     - DOMAIN-SUFFIX,blog.martinoei.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,blog.pathtosharepoint.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,blog.pentalogic.net,PROXY,no-resolve
-    - DOMAIN-SUFFIX,blog.qooza.hk,PROXY,no-resolve
     - DOMAIN-SUFFIX,blog.ranxiang.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,blog.sina.com.tw,PROXY,no-resolve
     - DOMAIN-SUFFIX,blog.sogoo.org,PROXY,no-resolve
@@ -806,6 +804,7 @@
     - DOMAIN-SUFFIX,buzzhand.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,buzzhand.net,PROXY,no-resolve
     - DOMAIN-SUFFIX,buzzorange.com,PROXY,no-resolve
+    - DOMAIN-SUFFIX,buzzsprout.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,bvpn.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,bwgyhw.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,bwh1.net,PROXY,no-resolve
@@ -2915,6 +2914,7 @@
     - DOMAIN-SUFFIX,iuksky.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,ivacy.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,iverycd.com,PROXY,no-resolve
+    - DOMAIN-SUFFIX,ivonblog.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,ivpn.net,PROXY,no-resolve
     - DOMAIN-SUFFIX,iwara.tv,PROXY,no-resolve
     - DOMAIN-SUFFIX,ixquick.com,PROXY,no-resolve
@@ -2930,6 +2930,7 @@
     - DOMAIN-SUFFIX,jamaat.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,jamestown.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,jamyangnorbu.com,PROXY,no-resolve
+    - DOMAIN-SUFFIX,jan.ai,PROXY,no-resolve
     - DOMAIN-SUFFIX,jandyx.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,janwongphoto.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,japan-whores.com,PROXY,no-resolve
@@ -4023,8 +4024,6 @@
     - DOMAIN-SUFFIX,pen.io,PROXY,no-resolve
     - DOMAIN-SUFFIX,penchinese.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,penchinese.net,PROXY,no-resolve
-    - DOMAIN-SUFFIX,pengyulong.com,PROXY,no-resolve
-    - DOMAIN-SUFFIX,penisbot.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,penthouse.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,pentoy.hk,PROXY,no-resolve
     - DOMAIN-SUFFIX,peoplebookcafe.com,PROXY,no-resolve
@@ -4040,7 +4039,6 @@
     - DOMAIN-SUFFIX,phapluan.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,phayul.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,philborges.com,PROXY,no-resolve
-    - DOMAIN-SUFFIX,philly.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,phmsociety.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,phncdn.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,phobos.apple.com,PROXY,no-resolve
@@ -4287,12 +4285,10 @@
     - DOMAIN-SUFFIX,raizoji.or.jp,PROXY,no-resolve
     - DOMAIN-SUFFIX,ramcity.com.au,PROXY,no-resolve
     - DOMAIN-SUFFIX,rangwang.biz,PROXY,no-resolve
-    - DOMAIN-SUFFIX,rangzen.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,rangzen.net,PROXY,no-resolve
     - DOMAIN-SUFFIX,rangzen.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,ranyunfei.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,rapbull.net,PROXY,no-resolve
-    - DOMAIN-SUFFIX,rapidgator.net,PROXY,no-resolve
     - DOMAIN-SUFFIX,rapidmoviez.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,rapidvpn.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,rarbgprx.org,PROXY,no-resolve
@@ -5135,6 +5131,7 @@
     - DOMAIN-SUFFIX,ticket.com.tw,PROXY,no-resolve
     - DOMAIN-SUFFIX,tigervpn.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,tiktok.com,PROXY,no-resolve
+    - DOMAIN-SUFFIX,tiktokv.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,tiltbrush.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,timdir.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,time.com,PROXY,no-resolve
