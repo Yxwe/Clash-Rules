@@ -3992,6 +3992,7 @@
     - DOMAIN-SUFFIX,partypoker.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,passion.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,passiontimes.hk,PROXY,no-resolve
+    - DOMAIN-SUFFIX,passwords.google,PROXY,no-resolve
     - DOMAIN-SUFFIX,paste.ee,PROXY,no-resolve
     - DOMAIN-SUFFIX,pastebin.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,pastie.org,PROXY,no-resolve
