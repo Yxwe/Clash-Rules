@@ -1660,6 +1660,7 @@
     - DOMAIN-SUFFIX,fa.gov.tw,PROXY,no-resolve
     - DOMAIN-SUFFIX,facebook.br,PROXY,no-resolve
     - DOMAIN-SUFFIX,facebook.com,PROXY,no-resolve
+    - DOMAIN-SUFFIX,facebook.de,PROXY,no-resolve
     - DOMAIN-SUFFIX,facebook.design,PROXY,no-resolve
     - DOMAIN-SUFFIX,facebook.hu,PROXY,no-resolve
     - DOMAIN-SUFFIX,facebook.in,PROXY,no-resolve
@@ -3391,6 +3392,7 @@
     - DOMAIN-SUFFIX,meshrep.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,mesotw.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,messenger.com,PROXY,no-resolve
+    - DOMAIN-SUFFIX,meta.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,metacafe.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,metafilter.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,metart.com,PROXY,no-resolve
@@ -5198,6 +5200,7 @@
     - DOMAIN-SUFFIX,torrentproject.se,PROXY,no-resolve
     - DOMAIN-SUFFIX,torrenty.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,torrentz.eu,PROXY,no-resolve
+    - DOMAIN-SUFFIX,tortoisesvn.net,PROXY,no-resolve
     - DOMAIN-SUFFIX,torvpn.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,tosh.comedycentral.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,totalvpn.com,PROXY,no-resolve
