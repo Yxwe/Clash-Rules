@@ -1125,6 +1125,7 @@
     - DOMAIN-SUFFIX,cna.com.tw,PROXY,no-resolve
     - DOMAIN-SUFFIX,cnabc.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,cnbbnews.wordpress.com,PROXY,no-resolve
+    - DOMAIN-SUFFIX,cnbeta.com.tw,PROXY,no-resolve
     - DOMAIN-SUFFIX,cnd.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,cnex.org.cn,PROXY,no-resolve
     - DOMAIN-SUFFIX,cnineu.com,PROXY,no-resolve
