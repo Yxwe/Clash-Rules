@@ -260,6 +260,7 @@ host-suffix, amazon.com, proxy, no-resolve
 host-suffix, ameblo.jp, proxy, no-resolve
 host-suffix, americangreencard.com, proxy, no-resolve
 host-suffix, americanunfinished.com, proxy, no-resolve
+host-suffix, americorps.gov, proxy, no-resolve
 host-suffix, amiblockedornot.com, proxy, no-resolve
 host-suffix, amigobbs.net, proxy, no-resolve
 host-suffix, amitabhafoundation.us, proxy, no-resolve
@@ -897,6 +898,7 @@ host-suffix, cbtc.org.hk, proxy, no-resolve
 host-suffix, cccat.cc, proxy, no-resolve
 host-suffix, cccat.co, proxy, no-resolve
 host-suffix, ccdtr.org, proxy, no-resolve
+host-suffix, ccfd.org.tw, proxy, no-resolve
 host-suffix, cchere.com, proxy, no-resolve
 host-suffix, ccim.org, proxy, no-resolve
 host-suffix, cclife.ca, proxy, no-resolve
@@ -2146,7 +2148,6 @@ host-suffix, go141.com, proxy, no-resolve
 host-suffix, goagent.biz, proxy, no-resolve
 host-suffix, goagent.codeplex.com, proxy, no-resolve
 host-suffix, goagentplus.com, proxy, no-resolve
-host-suffix, gobet.cc, proxy, no-resolve
 host-suffix, godaddy.com, proxy, no-resolve
 host-suffix, godfootsteps.org, proxy, no-resolve
 host-suffix, godns.work, proxy, no-resolve
@@ -2430,6 +2431,7 @@ host-suffix, graph.org, proxy, no-resolve
 host-suffix, graphis.ne.jp, proxy, no-resolve
 host-suffix, graphql.org, proxy, no-resolve
 host-suffix, gravatar.com, proxy, no-resolve
+host-suffix, greasyfork.org, proxy, no-resolve
 host-suffix, great-firewall.com, proxy, no-resolve
 host-suffix, great-roc.org, proxy, no-resolve
 host-suffix, greatfire.org, proxy, no-resolve
@@ -2900,6 +2902,7 @@ host-suffix, inxian.com, proxy, no-resolve
 host-suffix, iownyour.biz, proxy, no-resolve
 host-suffix, iownyour.org, proxy, no-resolve
 host-suffix, ipalter.com, proxy, no-resolve
+host-suffix, ipdefenseforum.com, proxy, no-resolve
 host-suffix, ipfire.org, proxy, no-resolve
 host-suffix, ipfs.io, proxy, no-resolve
 host-suffix, iphone4hongkong.com, proxy, no-resolve
@@ -3812,6 +3815,7 @@ host-suffix, no-ip.org, proxy, no-resolve
 host-suffix, nobel.se, proxy, no-resolve
 host-suffix, nobelprize.org, proxy, no-resolve
 host-suffix, nobodycanstop.us, proxy, no-resolve
+host-suffix, nodeseek.com, proxy, no-resolve
 host-suffix, nofile.io, proxy, no-resolve
 host-suffix, nokogiri.org, proxy, no-resolve
 host-suffix, nokola.com, proxy, no-resolve
@@ -3835,7 +3839,6 @@ host-suffix, npa.go.jp, proxy, no-resolve
 host-suffix, npa.gov.tw, proxy, no-resolve
 host-suffix, npm.gov.tw, proxy, no-resolve
 host-suffix, npnt.me, proxy, no-resolve
-host-suffix, nps.gov, proxy, no-resolve
 host-suffix, npsboost.com, proxy, no-resolve
 host-suffix, nradio.me, proxy, no-resolve
 host-suffix, nrk.no, proxy, no-resolve
@@ -4022,6 +4025,7 @@ host-suffix, ozyoyo.com, proxy, no-resolve
 host-suffix, pachosting.com, proxy, no-resolve
 host-suffix, pacificpoker.com, proxy, no-resolve
 host-suffix, packetix.net, proxy, no-resolve
+host-suffix, pacom.mil, proxy, no-resolve
 host-suffix, pacopacomama.com, proxy, no-resolve
 host-suffix, padmanet.com, proxy, no-resolve
 host-suffix, page.bid.yahoo.com, proxy, no-resolve
@@ -5576,7 +5580,6 @@ host-suffix, usercontent.goog, proxy, no-resolve
 host-suffix, users.skynet.be, proxy, no-resolve
 host-suffix, usfk.mil, proxy, no-resolve
 host-suffix, ushuarencity.echainhost.com, proxy, no-resolve
-host-suffix, usinfo.state.gov, proxy, no-resolve
 host-suffix, usma.edu, proxy, no-resolve
 host-suffix, usmc.mil, proxy, no-resolve
 host-suffix, usmgtcg.ning.com, proxy, no-resolve
@@ -5975,7 +5978,6 @@ host-suffix, wuyanblog.com, proxy, no-resolve
 host-suffix, wwitv.com, proxy, no-resolve
 host-suffix, www.abclite.net, proxy, no-resolve
 host-suffix, www.ajsands.com, proxy, no-resolve
-host-suffix, www.americorps.gov, proxy, no-resolve
 host-suffix, www.antd.org, proxy, no-resolve
 host-suffix, www.aolnews.com, proxy, no-resolve
 host-suffix, www.businessinsider.com.au, proxy, no-resolve

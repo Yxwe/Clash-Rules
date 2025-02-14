@@ -260,6 +260,7 @@
     - DOMAIN-SUFFIX,ameblo.jp,PROXY,no-resolve
     - DOMAIN-SUFFIX,americangreencard.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,americanunfinished.com,PROXY,no-resolve
+    - DOMAIN-SUFFIX,americorps.gov,PROXY,no-resolve
     - DOMAIN-SUFFIX,amiblockedornot.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,amigobbs.net,PROXY,no-resolve
     - DOMAIN-SUFFIX,amitabhafoundation.us,PROXY,no-resolve
@@ -897,6 +898,7 @@
     - DOMAIN-SUFFIX,cccat.cc,PROXY,no-resolve
     - DOMAIN-SUFFIX,cccat.co,PROXY,no-resolve
     - DOMAIN-SUFFIX,ccdtr.org,PROXY,no-resolve
+    - DOMAIN-SUFFIX,ccfd.org.tw,PROXY,no-resolve
     - DOMAIN-SUFFIX,cchere.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,ccim.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,cclife.ca,PROXY,no-resolve
@@ -2146,7 +2148,6 @@
     - DOMAIN-SUFFIX,goagent.biz,PROXY,no-resolve
     - DOMAIN-SUFFIX,goagent.codeplex.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,goagentplus.com,PROXY,no-resolve
-    - DOMAIN-SUFFIX,gobet.cc,PROXY,no-resolve
     - DOMAIN-SUFFIX,godaddy.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,godfootsteps.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,godns.work,PROXY,no-resolve
@@ -2430,6 +2431,7 @@
     - DOMAIN-SUFFIX,graphis.ne.jp,PROXY,no-resolve
     - DOMAIN-SUFFIX,graphql.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,gravatar.com,PROXY,no-resolve
+    - DOMAIN-SUFFIX,greasyfork.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,great-firewall.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,great-roc.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,greatfire.org,PROXY,no-resolve
@@ -2900,6 +2902,7 @@
     - DOMAIN-SUFFIX,iownyour.biz,PROXY,no-resolve
     - DOMAIN-SUFFIX,iownyour.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,ipalter.com,PROXY,no-resolve
+    - DOMAIN-SUFFIX,ipdefenseforum.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,ipfire.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,ipfs.io,PROXY,no-resolve
     - DOMAIN-SUFFIX,iphone4hongkong.com,PROXY,no-resolve
@@ -3812,6 +3815,7 @@
     - DOMAIN-SUFFIX,nobel.se,PROXY,no-resolve
     - DOMAIN-SUFFIX,nobelprize.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,nobodycanstop.us,PROXY,no-resolve
+    - DOMAIN-SUFFIX,nodeseek.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,nofile.io,PROXY,no-resolve
     - DOMAIN-SUFFIX,nokogiri.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,nokola.com,PROXY,no-resolve
@@ -3835,7 +3839,6 @@
     - DOMAIN-SUFFIX,npa.gov.tw,PROXY,no-resolve
     - DOMAIN-SUFFIX,npm.gov.tw,PROXY,no-resolve
     - DOMAIN-SUFFIX,npnt.me,PROXY,no-resolve
-    - DOMAIN-SUFFIX,nps.gov,PROXY,no-resolve
     - DOMAIN-SUFFIX,npsboost.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,nradio.me,PROXY,no-resolve
     - DOMAIN-SUFFIX,nrk.no,PROXY,no-resolve
@@ -4022,6 +4025,7 @@
     - DOMAIN-SUFFIX,pachosting.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,pacificpoker.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,packetix.net,PROXY,no-resolve
+    - DOMAIN-SUFFIX,pacom.mil,PROXY,no-resolve
     - DOMAIN-SUFFIX,pacopacomama.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,padmanet.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,page.bid.yahoo.com,PROXY,no-resolve
@@ -5576,7 +5580,6 @@
     - DOMAIN-SUFFIX,users.skynet.be,PROXY,no-resolve
     - DOMAIN-SUFFIX,usfk.mil,PROXY,no-resolve
     - DOMAIN-SUFFIX,ushuarencity.echainhost.com,PROXY,no-resolve
-    - DOMAIN-SUFFIX,usinfo.state.gov,PROXY,no-resolve
     - DOMAIN-SUFFIX,usma.edu,PROXY,no-resolve
     - DOMAIN-SUFFIX,usmc.mil,PROXY,no-resolve
     - DOMAIN-SUFFIX,usmgtcg.ning.com,PROXY,no-resolve
@@ -5975,7 +5978,6 @@
     - DOMAIN-SUFFIX,wwitv.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,www.abclite.net,PROXY,no-resolve
     - DOMAIN-SUFFIX,www.ajsands.com,PROXY,no-resolve
-    - DOMAIN-SUFFIX,www.americorps.gov,PROXY,no-resolve
     - DOMAIN-SUFFIX,www.antd.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,www.aolnews.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,www.businessinsider.com.au,PROXY,no-resolve
