@@ -93,6 +93,7 @@
     - DOMAIN-SUFFIX,5i01.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,5isotoi5.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,5maodang.com,PROXY,no-resolve
+    - DOMAIN-SUFFIX,611study.icu,PROXY,no-resolve
     - DOMAIN-SUFFIX,63i.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,64museum.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,64tianwang.com,PROXY,no-resolve
@@ -3752,6 +3753,7 @@
     - DOMAIN-SUFFIX,news.tvbs.com.tw,PROXY,no-resolve
     - DOMAIN-SUFFIX,news.yahoo.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,news.ycombinator.com,PROXY,no-resolve
+    - DOMAIN-SUFFIX,news1.kr,PROXY,no-resolve
     - DOMAIN-SUFFIX,news100.com.tw,PROXY,no-resolve
     - DOMAIN-SUFFIX,newsancai.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,newsblur.com,PROXY,no-resolve
@@ -4121,6 +4123,7 @@
     - DOMAIN-SUFFIX,picturedip.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,pictures.playboy.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,picturesocial.com,PROXY,no-resolve
+    - DOMAIN-SUFFIX,picuki.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,pigav.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,pimg.tw,PROXY,no-resolve
     - DOMAIN-SUFFIX,pin-cong.com,PROXY,no-resolve
@@ -4892,7 +4895,6 @@
     - DOMAIN-SUFFIX,strikingly.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,strongvpn.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,strongwindpress.com,PROXY,no-resolve
-    - DOMAIN-SUFFIX,student.tw,PROXY,no-resolve
     - DOMAIN-SUFFIX,studentsforafreetibet.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,stumbleupon.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,stupidvideos.com,PROXY,no-resolve

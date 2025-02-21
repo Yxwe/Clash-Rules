@@ -93,6 +93,7 @@ host-suffix, 5aimiku.com, proxy, no-resolve
 host-suffix, 5i01.com, proxy, no-resolve
 host-suffix, 5isotoi5.org, proxy, no-resolve
 host-suffix, 5maodang.com, proxy, no-resolve
+host-suffix, 611study.icu, proxy, no-resolve
 host-suffix, 63i.com, proxy, no-resolve
 host-suffix, 64museum.org, proxy, no-resolve
 host-suffix, 64tianwang.com, proxy, no-resolve
@@ -3752,6 +3753,7 @@ host-suffix, news.singtao.ca, proxy, no-resolve
 host-suffix, news.tvbs.com.tw, proxy, no-resolve
 host-suffix, news.yahoo.com, proxy, no-resolve
 host-suffix, news.ycombinator.com, proxy, no-resolve
+host-suffix, news1.kr, proxy, no-resolve
 host-suffix, news100.com.tw, proxy, no-resolve
 host-suffix, newsancai.com, proxy, no-resolve
 host-suffix, newsblur.com, proxy, no-resolve
@@ -4121,6 +4123,7 @@ host-suffix, picidae.net, proxy, no-resolve
 host-suffix, picturedip.com, proxy, no-resolve
 host-suffix, pictures.playboy.com, proxy, no-resolve
 host-suffix, picturesocial.com, proxy, no-resolve
+host-suffix, picuki.com, proxy, no-resolve
 host-suffix, pigav.com, proxy, no-resolve
 host-suffix, pimg.tw, proxy, no-resolve
 host-suffix, pin-cong.com, proxy, no-resolve
@@ -4892,7 +4895,6 @@ host-suffix, streema.com, proxy, no-resolve
 host-suffix, strikingly.com, proxy, no-resolve
 host-suffix, strongvpn.com, proxy, no-resolve
 host-suffix, strongwindpress.com, proxy, no-resolve
-host-suffix, student.tw, proxy, no-resolve
 host-suffix, studentsforafreetibet.org, proxy, no-resolve
 host-suffix, stumbleupon.com, proxy, no-resolve
 host-suffix, stupidvideos.com, proxy, no-resolve
