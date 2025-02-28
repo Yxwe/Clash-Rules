@@ -1166,6 +1166,7 @@ host-suffix, cochina.org, proxy, no-resolve
 host-suffix, code1984.com, proxy, no-resolve
 host-suffix, codeshare.io, proxy, no-resolve
 host-suffix, codeskulptor.org, proxy, no-resolve
+host-suffix, cofacts.tw, proxy, no-resolve
 host-suffix, coin2co.in, proxy, no-resolve
 host-suffix, coinbase.com, proxy, no-resolve
 host-suffix, coinbene.com, proxy, no-resolve
@@ -2451,6 +2452,7 @@ host-suffix, greenreadings.com, proxy, no-resolve
 host-suffix, greenvpn.net, proxy, no-resolve
 host-suffix, greenvpn.org, proxy, no-resolve
 host-suffix, grindr.com, proxy, no-resolve
+host-suffix, grok.com, proxy, no-resolve
 host-suffix, grotty-monday.com, proxy, no-resolve
 host-suffix, ground.news, proxy, no-resolve
 host-suffix, groups.google.cn, proxy, no-resolve

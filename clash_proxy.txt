@@ -1166,6 +1166,7 @@
     - DOMAIN-SUFFIX,code1984.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,codeshare.io,PROXY,no-resolve
     - DOMAIN-SUFFIX,codeskulptor.org,PROXY,no-resolve
+    - DOMAIN-SUFFIX,cofacts.tw,PROXY,no-resolve
     - DOMAIN-SUFFIX,coin2co.in,PROXY,no-resolve
     - DOMAIN-SUFFIX,coinbase.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,coinbene.com,PROXY,no-resolve
@@ -2451,6 +2452,7 @@
     - DOMAIN-SUFFIX,greenvpn.net,PROXY,no-resolve
     - DOMAIN-SUFFIX,greenvpn.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,grindr.com,PROXY,no-resolve
+    - DOMAIN-SUFFIX,grok.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,grotty-monday.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,ground.news,PROXY,no-resolve
     - DOMAIN-SUFFIX,groups.google.cn,PROXY,no-resolve
