@@ -324,6 +324,7 @@
     - DOMAIN-SUFFIX,aofriend.com.au,PROXY,no-resolve
     - DOMAIN-SUFFIX,aojiao.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,aolchannels.aol.com,PROXY,no-resolve
+    - DOMAIN-SUFFIX,aomedia.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,aomiwang.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,apartmentratings.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,apartments.com,PROXY,no-resolve
@@ -1828,7 +1829,6 @@
     - DOMAIN-SUFFIX,farwestchina.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,fast.wistia.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,fastestvpn.com,PROXY,no-resolve
-    - DOMAIN-SUFFIX,fastgpt.run,PROXY,no-resolve
     - DOMAIN-SUFFIX,fastpic.ru,PROXY,no-resolve
     - DOMAIN-SUFFIX,fastssh.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,faststone.org,PROXY,no-resolve
@@ -4352,7 +4352,7 @@
     - DOMAIN-SUFFIX,powerphoto.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,ppy.sh,PROXY,no-resolve
     - DOMAIN-SUFFIX,prayforchina.net,PROXY,no-resolve
-    - DOMAIN-SUFFIX,premeforwindows7.com,PROXY,no-resolve
+    - DOMAIN-SUFFIX,prcleader.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,premproxy.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,presentation.new,PROXY,no-resolve
     - DOMAIN-SUFFIX,presentationzen.com,PROXY,no-resolve

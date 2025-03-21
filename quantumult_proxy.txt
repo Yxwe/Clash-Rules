@@ -324,6 +324,7 @@ host-suffix, aofriend.com, proxy, no-resolve
 host-suffix, aofriend.com.au, proxy, no-resolve
 host-suffix, aojiao.org, proxy, no-resolve
 host-suffix, aolchannels.aol.com, proxy, no-resolve
+host-suffix, aomedia.org, proxy, no-resolve
 host-suffix, aomiwang.com, proxy, no-resolve
 host-suffix, apartmentratings.com, proxy, no-resolve
 host-suffix, apartments.com, proxy, no-resolve
@@ -1828,7 +1829,6 @@ host-suffix, fartit.com, proxy, no-resolve
 host-suffix, farwestchina.com, proxy, no-resolve
 host-suffix, fast.wistia.com, proxy, no-resolve
 host-suffix, fastestvpn.com, proxy, no-resolve
-host-suffix, fastgpt.run, proxy, no-resolve
 host-suffix, fastpic.ru, proxy, no-resolve
 host-suffix, fastssh.com, proxy, no-resolve
 host-suffix, faststone.org, proxy, no-resolve
@@ -4352,7 +4352,7 @@ host-suffix, powercx.com, proxy, no-resolve
 host-suffix, powerphoto.org, proxy, no-resolve
 host-suffix, ppy.sh, proxy, no-resolve
 host-suffix, prayforchina.net, proxy, no-resolve
-host-suffix, premeforwindows7.com, proxy, no-resolve
+host-suffix, prcleader.org, proxy, no-resolve
 host-suffix, premproxy.com, proxy, no-resolve
 host-suffix, presentation.new, proxy, no-resolve
 host-suffix, presentationzen.com, proxy, no-resolve
