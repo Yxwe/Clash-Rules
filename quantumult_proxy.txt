@@ -1212,6 +1212,7 @@ host-suffix, cofacts.tw, proxy, no-resolve
 host-suffix, coin2co.in, proxy, no-resolve
 host-suffix, coinbase.com, proxy, no-resolve
 host-suffix, coinbene.com, proxy, no-resolve
+host-suffix, coincarp.com, proxy, no-resolve
 host-suffix, coinegg.com, proxy, no-resolve
 host-suffix, coinex.com, proxy, no-resolve
 host-suffix, coingecko.com, proxy, no-resolve
@@ -1649,7 +1650,6 @@ host-suffix, empfil.com, proxy, no-resolve
 host-suffix, emule-ed2k.com, proxy, no-resolve
 host-suffix, emulefans.com, proxy, no-resolve
 host-suffix, emuparadise.me, proxy, no-resolve
-host-suffix, en.favotter.net, proxy, no-resolve
 host-suffix, en.hao123.com, proxy, no-resolve
 host-suffix, enanyang.my, proxy, no-resolve
 host-suffix, encrypt.me, proxy, no-resolve
@@ -1805,6 +1805,7 @@ host-suffix, fan-qiang.com, proxy, no-resolve
 host-suffix, fanbox.cc, proxy, no-resolve
 host-suffix, fangbinxing.com, proxy, no-resolve
 host-suffix, fangeming.com, proxy, no-resolve
+host-suffix, fangeming.comffvpn.com, proxy, no-resolve
 host-suffix, fangeqiang.com, proxy, no-resolve
 host-suffix, fanglizhi.info, proxy, no-resolve
 host-suffix, fangmincn.org, proxy, no-resolve
@@ -1827,13 +1828,11 @@ host-suffix, faproxy.com, proxy, no-resolve
 host-suffix, faqserv.com, proxy, no-resolve
 host-suffix, fartit.com, proxy, no-resolve
 host-suffix, farwestchina.com, proxy, no-resolve
-host-suffix, fast.wistia.com, proxy, no-resolve
 host-suffix, fastestvpn.com, proxy, no-resolve
 host-suffix, fastpic.ru, proxy, no-resolve
 host-suffix, fastssh.com, proxy, no-resolve
 host-suffix, faststone.org, proxy, no-resolve
 host-suffix, fatbtc.com, proxy, no-resolve
-host-suffix, favstar.fm, proxy, no-resolve
 host-suffix, fawanghuihui.org, proxy, no-resolve
 host-suffix, faydao.com, proxy, no-resolve
 host-suffix, faz.net, proxy, no-resolve
@@ -1844,14 +1843,10 @@ host-suffix, fbaddins.com, proxy, no-resolve
 host-suffix, fbcdn.net, proxy, no-resolve
 host-suffix, fbsbx.com, proxy, no-resolve
 host-suffix, fbworkmail.com, proxy, no-resolve
-host-suffix, fc2.com, proxy, no-resolve
-host-suffix, fc2blog.net, proxy, no-resolve
-host-suffix, fc2china.com, proxy, no-resolve
 host-suffix, fc2cn.com, proxy, no-resolve
 host-suffix, fda.gov.tw, proxy, no-resolve
 host-suffix, fdc64.de, proxy, no-resolve
 host-suffix, fdc64.org, proxy, no-resolve
-host-suffix, fdc89.jp, proxy, no-resolve
 host-suffix, feedburner.com, proxy, no-resolve
 host-suffix, feeder.co, proxy, no-resolve
 host-suffix, feeds.fileforum.com, proxy, no-resolve
@@ -1867,8 +1862,6 @@ host-suffix, fengzhenghu.com, proxy, no-resolve
 host-suffix, fengzhenghu.net, proxy, no-resolve
 host-suffix, fevernet.com, proxy, no-resolve
 host-suffix, ff.im, proxy, no-resolve
-host-suffix, fffff.at, proxy, no-resolve
-host-suffix, fflick.com, proxy, no-resolve
 host-suffix, ffvpn.com, proxy, no-resolve
 host-suffix, fgmtv.net, proxy, no-resolve
 host-suffix, fgmtv.org, proxy, no-resolve
@@ -2136,6 +2129,7 @@ host-suffix, geekerhome.com, proxy, no-resolve
 host-suffix, geekheart.info, proxy, no-resolve
 host-suffix, gekikame.com, proxy, no-resolve
 host-suffix, gelbooru.com, proxy, no-resolve
+host-suffix, gemini.com, proxy, no-resolve
 host-suffix, generated.photos, proxy, no-resolve
 host-suffix, genius.com, proxy, no-resolve
 host-suffix, geocities.co.jp, proxy, no-resolve
@@ -4065,6 +4059,7 @@ host-suffix, omny.fm, proxy, no-resolve
 host-suffix, on.cc, proxy, no-resolve
 host-suffix, on2.com, proxy, no-resolve
 host-suffix, onapp.com, proxy, no-resolve
+host-suffix, one.one.one.one, proxy, no-resolve
 host-suffix, onedrive.com, proxy, no-resolve
 host-suffix, onedrive.live.com, proxy, no-resolve
 host-suffix, onedumb.com, proxy, no-resolve
@@ -5808,7 +5803,6 @@ host-suffix, video.aol.ca, proxy, no-resolve
 host-suffix, video.aol.co.uk, proxy, no-resolve
 host-suffix, video.aol.com, proxy, no-resolve
 host-suffix, video.ap.org, proxy, no-resolve
-host-suffix, video.fdbox.com, proxy, no-resolve
 host-suffix, video.foxbusiness.com, proxy, no-resolve
 host-suffix, videobam.com, proxy, no-resolve
 host-suffix, videodetective.com, proxy, no-resolve

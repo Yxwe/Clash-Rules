@@ -1212,6 +1212,7 @@
     - DOMAIN-SUFFIX,coin2co.in,PROXY,no-resolve
     - DOMAIN-SUFFIX,coinbase.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,coinbene.com,PROXY,no-resolve
+    - DOMAIN-SUFFIX,coincarp.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,coinegg.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,coinex.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,coingecko.com,PROXY,no-resolve
@@ -1649,7 +1650,6 @@
     - DOMAIN-SUFFIX,emule-ed2k.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,emulefans.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,emuparadise.me,PROXY,no-resolve
-    - DOMAIN-SUFFIX,en.favotter.net,PROXY,no-resolve
     - DOMAIN-SUFFIX,en.hao123.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,enanyang.my,PROXY,no-resolve
     - DOMAIN-SUFFIX,encrypt.me,PROXY,no-resolve
@@ -1805,6 +1805,7 @@
     - DOMAIN-SUFFIX,fanbox.cc,PROXY,no-resolve
     - DOMAIN-SUFFIX,fangbinxing.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,fangeming.com,PROXY,no-resolve
+    - DOMAIN-SUFFIX,fangeming.comffvpn.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,fangeqiang.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,fanglizhi.info,PROXY,no-resolve
     - DOMAIN-SUFFIX,fangmincn.org,PROXY,no-resolve
@@ -1827,13 +1828,11 @@
     - DOMAIN-SUFFIX,faqserv.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,fartit.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,farwestchina.com,PROXY,no-resolve
-    - DOMAIN-SUFFIX,fast.wistia.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,fastestvpn.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,fastpic.ru,PROXY,no-resolve
     - DOMAIN-SUFFIX,fastssh.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,faststone.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,fatbtc.com,PROXY,no-resolve
-    - DOMAIN-SUFFIX,favstar.fm,PROXY,no-resolve
     - DOMAIN-SUFFIX,fawanghuihui.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,faydao.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,faz.net,PROXY,no-resolve
@@ -1844,14 +1843,10 @@
     - DOMAIN-SUFFIX,fbcdn.net,PROXY,no-resolve
     - DOMAIN-SUFFIX,fbsbx.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,fbworkmail.com,PROXY,no-resolve
-    - DOMAIN-SUFFIX,fc2.com,PROXY,no-resolve
-    - DOMAIN-SUFFIX,fc2blog.net,PROXY,no-resolve
-    - DOMAIN-SUFFIX,fc2china.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,fc2cn.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,fda.gov.tw,PROXY,no-resolve
     - DOMAIN-SUFFIX,fdc64.de,PROXY,no-resolve
     - DOMAIN-SUFFIX,fdc64.org,PROXY,no-resolve
-    - DOMAIN-SUFFIX,fdc89.jp,PROXY,no-resolve
     - DOMAIN-SUFFIX,feedburner.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,feeder.co,PROXY,no-resolve
     - DOMAIN-SUFFIX,feeds.fileforum.com,PROXY,no-resolve
@@ -1867,8 +1862,6 @@
     - DOMAIN-SUFFIX,fengzhenghu.net,PROXY,no-resolve
     - DOMAIN-SUFFIX,fevernet.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,ff.im,PROXY,no-resolve
-    - DOMAIN-SUFFIX,fffff.at,PROXY,no-resolve
-    - DOMAIN-SUFFIX,fflick.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,ffvpn.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,fgmtv.net,PROXY,no-resolve
     - DOMAIN-SUFFIX,fgmtv.org,PROXY,no-resolve
@@ -2136,6 +2129,7 @@
     - DOMAIN-SUFFIX,geekheart.info,PROXY,no-resolve
     - DOMAIN-SUFFIX,gekikame.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,gelbooru.com,PROXY,no-resolve
+    - DOMAIN-SUFFIX,gemini.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,generated.photos,PROXY,no-resolve
     - DOMAIN-SUFFIX,genius.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,geocities.co.jp,PROXY,no-resolve
@@ -4065,6 +4059,7 @@
     - DOMAIN-SUFFIX,on.cc,PROXY,no-resolve
     - DOMAIN-SUFFIX,on2.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,onapp.com,PROXY,no-resolve
+    - DOMAIN-SUFFIX,one.one.one.one,PROXY,no-resolve
     - DOMAIN-SUFFIX,onedrive.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,onedrive.live.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,onedumb.com,PROXY,no-resolve
@@ -5808,7 +5803,6 @@
     - DOMAIN-SUFFIX,video.aol.co.uk,PROXY,no-resolve
     - DOMAIN-SUFFIX,video.aol.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,video.ap.org,PROXY,no-resolve
-    - DOMAIN-SUFFIX,video.fdbox.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,video.foxbusiness.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,videobam.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,videodetective.com,PROXY,no-resolve
