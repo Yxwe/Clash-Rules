@@ -423,6 +423,7 @@ host-suffix, atnext.com, proxy, no-resolve
 host-suffix, auctions.yahoo.co.jp, proxy, no-resolve
 host-suffix, audacy.com, proxy, no-resolve
 host-suffix, auntology.fandom.com, proxy, no-resolve
+host-suffix, auth.openai.com, proxy, no-resolve
 host-suffix, authorizeddns.net, proxy, no-resolve
 host-suffix, authorizeddns.org, proxy, no-resolve
 host-suffix, authorizeddns.us, proxy, no-resolve
@@ -4087,6 +4088,7 @@ host-suffix, open.firstory.me, proxy, no-resolve
 host-suffix, open.spotify.com, proxy, no-resolve
 host-suffix, openallweb.com, proxy, no-resolve
 host-suffix, opendemocracy.net, proxy, no-resolve
+host-suffix, opendesktop.org, proxy, no-resolve
 host-suffix, opendn.xyz, proxy, no-resolve
 host-suffix, openervpn.in, proxy, no-resolve
 host-suffix, openid.net, proxy, no-resolve

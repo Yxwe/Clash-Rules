@@ -423,6 +423,7 @@
     - DOMAIN-SUFFIX,auctions.yahoo.co.jp,PROXY,no-resolve
     - DOMAIN-SUFFIX,audacy.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,auntology.fandom.com,PROXY,no-resolve
+    - DOMAIN-SUFFIX,auth.openai.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,authorizeddns.net,PROXY,no-resolve
     - DOMAIN-SUFFIX,authorizeddns.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,authorizeddns.us,PROXY,no-resolve
@@ -4087,6 +4088,7 @@
     - DOMAIN-SUFFIX,open.spotify.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,openallweb.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,opendemocracy.net,PROXY,no-resolve
+    - DOMAIN-SUFFIX,opendesktop.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,opendn.xyz,PROXY,no-resolve
     - DOMAIN-SUFFIX,openervpn.in,PROXY,no-resolve
     - DOMAIN-SUFFIX,openid.net,PROXY,no-resolve
