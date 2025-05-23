@@ -268,6 +268,7 @@ host-suffix, alwaysdata.net, proxy, no-resolve
 host-suffix, alwaysvpn.com, proxy, no-resolve
 host-suffix, am730.com.hk, proxy, no-resolve
 host-suffix, amazon.co.jp, proxy, no-resolve
+host-suffix, amazonvideo.com, proxy, no-resolve
 host-suffix, ameblo.jp, proxy, no-resolve
 host-suffix, americangreencard.com, proxy, no-resolve
 host-suffix, americanunfinished.com, proxy, no-resolve
@@ -517,6 +518,7 @@ host-suffix, bbs.kimy.com.tw, proxy, no-resolve
 host-suffix, bbs.mikocon.com, proxy, no-resolve
 host-suffix, bbs.morbell.com, proxy, no-resolve
 host-suffix, bbs.mychat.to, proxy, no-resolve
+host-suffix, bbs.naixi.net, proxy, no-resolve
 host-suffix, bbs.netbig.com, proxy, no-resolve
 host-suffix, bbs.nyinfor.com, proxy, no-resolve
 host-suffix, bbs.ozchinese.com, proxy, no-resolve
@@ -3304,6 +3306,8 @@ host-suffix, latelinenews.com, proxy, no-resolve
 host-suffix, lausan.hk, proxy, no-resolve
 host-suffix, lbank.info, proxy, no-resolve
 host-suffix, ld.hao123img.com, proxy, no-resolve
+host-suffix, ldplayer.net, proxy, no-resolve
+host-suffix, ldplayer.tw, proxy, no-resolve
 host-suffix, le-vpn.com, proxy, no-resolve
 host-suffix, leafyvpn.net, proxy, no-resolve
 host-suffix, lecloud.net, proxy, no-resolve
@@ -4376,6 +4380,7 @@ host-suffix, presentationzen.com, proxy, no-resolve
 host-suffix, presidentlee.tw, proxy, no-resolve
 host-suffix, prestige-av.com, proxy, no-resolve
 host-suffix, pride.google, proxy, no-resolve
+host-suffix, primevideo.com, proxy, no-resolve
 host-suffix, prism-break.org, proxy, no-resolve
 host-suffix, prisoneralert.com, proxy, no-resolve
 host-suffix, pritunl.com, proxy, no-resolve
@@ -4656,6 +4661,7 @@ host-suffix, safechat.com, proxy, no-resolve
 host-suffix, safeguarddefenders.com, proxy, no-resolve
 host-suffix, safervpn.com, proxy, no-resolve
 host-suffix, safety.google, proxy, no-resolve
+host-suffix, sagernet.org, proxy, no-resolve
 host-suffix, saintyculture.com, proxy, no-resolve
 host-suffix, saiq.me, proxy, no-resolve
 host-suffix, sakuralive.com, proxy, no-resolve
@@ -5402,6 +5408,7 @@ host-suffix, tibetwrites.org, proxy, no-resolve
 host-suffix, ticket.com.tw, proxy, no-resolve
 host-suffix, tigervpn.com, proxy, no-resolve
 host-suffix, tiktok.com, proxy, no-resolve
+host-suffix, tiktokcdn-eu.com, proxy, no-resolve
 host-suffix, tiktokcdn-us.com, proxy, no-resolve
 host-suffix, tiktokcdn.com, proxy, no-resolve
 host-suffix, tiktokv.com, proxy, no-resolve

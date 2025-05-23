@@ -268,6 +268,7 @@
     - DOMAIN-SUFFIX,alwaysvpn.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,am730.com.hk,PROXY,no-resolve
     - DOMAIN-SUFFIX,amazon.co.jp,PROXY,no-resolve
+    - DOMAIN-SUFFIX,amazonvideo.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,ameblo.jp,PROXY,no-resolve
     - DOMAIN-SUFFIX,americangreencard.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,americanunfinished.com,PROXY,no-resolve
@@ -517,6 +518,7 @@
     - DOMAIN-SUFFIX,bbs.mikocon.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,bbs.morbell.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,bbs.mychat.to,PROXY,no-resolve
+    - DOMAIN-SUFFIX,bbs.naixi.net,PROXY,no-resolve
     - DOMAIN-SUFFIX,bbs.netbig.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,bbs.nyinfor.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,bbs.ozchinese.com,PROXY,no-resolve
@@ -3304,6 +3306,8 @@
     - DOMAIN-SUFFIX,lausan.hk,PROXY,no-resolve
     - DOMAIN-SUFFIX,lbank.info,PROXY,no-resolve
     - DOMAIN-SUFFIX,ld.hao123img.com,PROXY,no-resolve
+    - DOMAIN-SUFFIX,ldplayer.net,PROXY,no-resolve
+    - DOMAIN-SUFFIX,ldplayer.tw,PROXY,no-resolve
     - DOMAIN-SUFFIX,le-vpn.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,leafyvpn.net,PROXY,no-resolve
     - DOMAIN-SUFFIX,lecloud.net,PROXY,no-resolve
@@ -4376,6 +4380,7 @@
     - DOMAIN-SUFFIX,presidentlee.tw,PROXY,no-resolve
     - DOMAIN-SUFFIX,prestige-av.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,pride.google,PROXY,no-resolve
+    - DOMAIN-SUFFIX,primevideo.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,prism-break.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,prisoneralert.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,pritunl.com,PROXY,no-resolve
@@ -4656,6 +4661,7 @@
     - DOMAIN-SUFFIX,safeguarddefenders.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,safervpn.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,safety.google,PROXY,no-resolve
+    - DOMAIN-SUFFIX,sagernet.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,saintyculture.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,saiq.me,PROXY,no-resolve
     - DOMAIN-SUFFIX,sakuralive.com,PROXY,no-resolve
@@ -5402,6 +5408,7 @@
     - DOMAIN-SUFFIX,ticket.com.tw,PROXY,no-resolve
     - DOMAIN-SUFFIX,tigervpn.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,tiktok.com,PROXY,no-resolve
+    - DOMAIN-SUFFIX,tiktokcdn-eu.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,tiktokcdn-us.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,tiktokcdn.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,tiktokv.com,PROXY,no-resolve
