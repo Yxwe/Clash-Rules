@@ -624,6 +624,7 @@ host-suffix, bjzc.org, proxy, no-resolve
 host-suffix, bl-doujinsouko.com, proxy, no-resolve
 host-suffix, blacked.com, proxy, no-resolve
 host-suffix, blacklogic.com, proxy, no-resolve
+host-suffix, blackmagicdesign.com, proxy, no-resolve
 host-suffix, blackvpn.com, proxy, no-resolve
 host-suffix, blewpass.com, proxy, no-resolve
 host-suffix, blinkx.com, proxy, no-resolve
@@ -955,6 +956,7 @@ host-suffix, cdig.info, proxy, no-resolve
 host-suffix, cdjp.org, proxy, no-resolve
 host-suffix, cdn-images.mailchimp.com, proxy, no-resolve
 host-suffix, cdn-telegram.org, proxy, no-resolve
+host-suffix, cdn.arstechnica.net, proxy, no-resolve
 host-suffix, cdn.assets.lfpcontent.com, proxy, no-resolve
 host-suffix, cdn.helixstudios.net, proxy, no-resolve
 host-suffix, cdn.jwplayer.com, proxy, no-resolve
@@ -1115,6 +1117,7 @@ host-suffix, chubun.com, proxy, no-resolve
 host-suffix, churchinhongkong.org, proxy, no-resolve
 host-suffix, chushigangdrug.ch, proxy, no-resolve
 host-suffix, ci-en.jp, proxy, no-resolve
+host-suffix, cici.com, proxy, no-resolve
 host-suffix, ciciai.com, proxy, no-resolve
 host-suffix, cienen.com, proxy, no-resolve
 host-suffix, cineastentreff.de, proxy, no-resolve
@@ -1207,6 +1210,7 @@ host-suffix, code1984.com, proxy, no-resolve
 host-suffix, codeshare.io, proxy, no-resolve
 host-suffix, codeskulptor.org, proxy, no-resolve
 host-suffix, cofacts.tw, proxy, no-resolve
+host-suffix, coffeemanga.to, proxy, no-resolve
 host-suffix, coin2co.in, proxy, no-resolve
 host-suffix, coinbase.com, proxy, no-resolve
 host-suffix, coinbene.com, proxy, no-resolve
@@ -1287,6 +1291,7 @@ host-suffix, csw.org.uk, proxy, no-resolve
 host-suffix, ct.org.tw, proxy, no-resolve
 host-suffix, ctao.org, proxy, no-resolve
 host-suffix, ctfriend.net, proxy, no-resolve
+host-suffix, ctinews.com, proxy, no-resolve
 host-suffix, ctitv.com.tw, proxy, no-resolve
 host-suffix, ctowc.org, proxy, no-resolve
 host-suffix, cts.com.tw, proxy, no-resolve
@@ -4628,9 +4633,15 @@ host-suffix, s.yimg.com, proxy, no-resolve
 host-suffix, s1.nudezz.com, proxy, no-resolve
 host-suffix, s1heng.com, proxy, no-resolve
 host-suffix, s1s1s1.com, proxy, no-resolve
+host-suffix, s3-ap-northeast-1.amazonaws.com, proxy, no-resolve
+host-suffix, s3-ap-northeast-2.amazonaws.com, proxy, no-resolve
 host-suffix, s3-ap-southeast-1.amazonaws.com, proxy, no-resolve
 host-suffix, s3-ap-southeast-2.amazonaws.com, proxy, no-resolve
+host-suffix, s3-eu-central-1.amazonaws.com, proxy, no-resolve
 host-suffix, s3.amazonaws.com, proxy, no-resolve
+host-suffix, s3.ap-northeast-2.amazonaws.com, proxy, no-resolve
+host-suffix, s3.eu-central-1.amazonaws.com, proxy, no-resolve
+host-suffix, s3.us-east-1.amazonaws.com, proxy, no-resolve
 host-suffix, s8forum.com, proxy, no-resolve
 host-suffix, sa.hao123.com, proxy, no-resolve
 host-suffix, sacks.com, proxy, no-resolve

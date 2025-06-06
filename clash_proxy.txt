@@ -624,6 +624,7 @@
     - DOMAIN-SUFFIX,bl-doujinsouko.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,blacked.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,blacklogic.com,PROXY,no-resolve
+    - DOMAIN-SUFFIX,blackmagicdesign.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,blackvpn.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,blewpass.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,blinkx.com,PROXY,no-resolve
@@ -955,6 +956,7 @@
     - DOMAIN-SUFFIX,cdjp.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,cdn-images.mailchimp.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,cdn-telegram.org,PROXY,no-resolve
+    - DOMAIN-SUFFIX,cdn.arstechnica.net,PROXY,no-resolve
     - DOMAIN-SUFFIX,cdn.assets.lfpcontent.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,cdn.helixstudios.net,PROXY,no-resolve
     - DOMAIN-SUFFIX,cdn.jwplayer.com,PROXY,no-resolve
@@ -1115,6 +1117,7 @@
     - DOMAIN-SUFFIX,churchinhongkong.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,chushigangdrug.ch,PROXY,no-resolve
     - DOMAIN-SUFFIX,ci-en.jp,PROXY,no-resolve
+    - DOMAIN-SUFFIX,cici.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,ciciai.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,cienen.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,cineastentreff.de,PROXY,no-resolve
@@ -1207,6 +1210,7 @@
     - DOMAIN-SUFFIX,codeshare.io,PROXY,no-resolve
     - DOMAIN-SUFFIX,codeskulptor.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,cofacts.tw,PROXY,no-resolve
+    - DOMAIN-SUFFIX,coffeemanga.to,PROXY,no-resolve
     - DOMAIN-SUFFIX,coin2co.in,PROXY,no-resolve
     - DOMAIN-SUFFIX,coinbase.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,coinbene.com,PROXY,no-resolve
@@ -1287,6 +1291,7 @@
     - DOMAIN-SUFFIX,ct.org.tw,PROXY,no-resolve
     - DOMAIN-SUFFIX,ctao.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,ctfriend.net,PROXY,no-resolve
+    - DOMAIN-SUFFIX,ctinews.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,ctitv.com.tw,PROXY,no-resolve
     - DOMAIN-SUFFIX,ctowc.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,cts.com.tw,PROXY,no-resolve
@@ -4628,9 +4633,15 @@
     - DOMAIN-SUFFIX,s1.nudezz.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,s1heng.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,s1s1s1.com,PROXY,no-resolve
+    - DOMAIN-SUFFIX,s3-ap-northeast-1.amazonaws.com,PROXY,no-resolve
+    - DOMAIN-SUFFIX,s3-ap-northeast-2.amazonaws.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,s3-ap-southeast-1.amazonaws.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,s3-ap-southeast-2.amazonaws.com,PROXY,no-resolve
+    - DOMAIN-SUFFIX,s3-eu-central-1.amazonaws.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,s3.amazonaws.com,PROXY,no-resolve
+    - DOMAIN-SUFFIX,s3.ap-northeast-2.amazonaws.com,PROXY,no-resolve
+    - DOMAIN-SUFFIX,s3.eu-central-1.amazonaws.com,PROXY,no-resolve
+    - DOMAIN-SUFFIX,s3.us-east-1.amazonaws.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,s8forum.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,sa.hao123.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,sacks.com,PROXY,no-resolve
