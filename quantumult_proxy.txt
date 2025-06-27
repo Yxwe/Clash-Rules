@@ -255,6 +255,7 @@ host-suffix, amnesty.tw, proxy, no-resolve
 host-suffix, amnestyusa.org, proxy, no-resolve
 host-suffix, ampproject.org, proxy, no-resolve
 host-suffix, amtb-taipei.org, proxy, no-resolve
+host-suffix, amuletmc.com, proxy, no-resolve
 host-suffix, anchor.fm, proxy, no-resolve
 host-suffix, anchorfree.com, proxy, no-resolve
 host-suffix, ancsconf.org, proxy, no-resolve
@@ -351,6 +352,7 @@ host-suffix, arte.tv, proxy, no-resolve
 host-suffix, artofpeacefoundation.org, proxy, no-resolve
 host-suffix, artstation.com, proxy, no-resolve
 host-suffix, artsy.net, proxy, no-resolve
+host-suffix, arvanstorage.ir, proxy, no-resolve
 host-suffix, asacp.org, proxy, no-resolve
 host-suffix, asdfg.jp, proxy, no-resolve
 host-suffix, asg.to, proxy, no-resolve
@@ -2260,6 +2262,7 @@ host-suffix, gotgeeks.com, proxy, no-resolve
 host-suffix, gotquestions.org, proxy, no-resolve
 host-suffix, gotrusted.com, proxy, no-resolve
 host-suffix, gotw.ca, proxy, no-resolve
+host-suffix, gov.ir, proxy, no-resolve
 host-suffix, gov.taipei, proxy, no-resolve
 host-suffix, gov.tw, proxy, no-resolve
 host-suffix, gr8domain.biz, proxy, no-resolve
@@ -2699,7 +2702,9 @@ host-suffix, ipredator.se, proxy, no-resolve
 host-suffix, iptv.com.tw, proxy, no-resolve
 host-suffix, iptvbin.com, proxy, no-resolve
 host-suffix, ipvanish.com, proxy, no-resolve
+host-suffix, irangov.ir, proxy, no-resolve
 host-suffix, iredmail.org, proxy, no-resolve
+host-suffix, irna.ir, proxy, no-resolve
 host-suffix, ironpython.net, proxy, no-resolve
 host-suffix, ironsocket.com, proxy, no-resolve
 host-suffix, is-a-hunter.com, proxy, no-resolve
@@ -3934,6 +3939,7 @@ host-suffix, prcleader.org, proxy, no-resolve
 host-suffix, premproxy.com, proxy, no-resolve
 host-suffix, presentation.new, proxy, no-resolve
 host-suffix, presentationzen.com, proxy, no-resolve
+host-suffix, president.ir, proxy, no-resolve
 host-suffix, presidentlee.tw, proxy, no-resolve
 host-suffix, prestige-av.com, proxy, no-resolve
 host-suffix, primevideo.com, proxy, no-resolve

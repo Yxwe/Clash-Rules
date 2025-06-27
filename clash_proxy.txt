@@ -255,6 +255,7 @@
     - DOMAIN-SUFFIX,amnestyusa.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,ampproject.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,amtb-taipei.org,PROXY,no-resolve
+    - DOMAIN-SUFFIX,amuletmc.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,anchor.fm,PROXY,no-resolve
     - DOMAIN-SUFFIX,anchorfree.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,ancsconf.org,PROXY,no-resolve
@@ -351,6 +352,7 @@
     - DOMAIN-SUFFIX,artofpeacefoundation.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,artstation.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,artsy.net,PROXY,no-resolve
+    - DOMAIN-SUFFIX,arvanstorage.ir,PROXY,no-resolve
     - DOMAIN-SUFFIX,asacp.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,asdfg.jp,PROXY,no-resolve
     - DOMAIN-SUFFIX,asg.to,PROXY,no-resolve
@@ -2260,6 +2262,7 @@
     - DOMAIN-SUFFIX,gotquestions.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,gotrusted.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,gotw.ca,PROXY,no-resolve
+    - DOMAIN-SUFFIX,gov.ir,PROXY,no-resolve
     - DOMAIN-SUFFIX,gov.taipei,PROXY,no-resolve
     - DOMAIN-SUFFIX,gov.tw,PROXY,no-resolve
     - DOMAIN-SUFFIX,gr8domain.biz,PROXY,no-resolve
@@ -2699,7 +2702,9 @@
     - DOMAIN-SUFFIX,iptv.com.tw,PROXY,no-resolve
     - DOMAIN-SUFFIX,iptvbin.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,ipvanish.com,PROXY,no-resolve
+    - DOMAIN-SUFFIX,irangov.ir,PROXY,no-resolve
     - DOMAIN-SUFFIX,iredmail.org,PROXY,no-resolve
+    - DOMAIN-SUFFIX,irna.ir,PROXY,no-resolve
     - DOMAIN-SUFFIX,ironpython.net,PROXY,no-resolve
     - DOMAIN-SUFFIX,ironsocket.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,is-a-hunter.com,PROXY,no-resolve
@@ -3934,6 +3939,7 @@
     - DOMAIN-SUFFIX,premproxy.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,presentation.new,PROXY,no-resolve
     - DOMAIN-SUFFIX,presentationzen.com,PROXY,no-resolve
+    - DOMAIN-SUFFIX,president.ir,PROXY,no-resolve
     - DOMAIN-SUFFIX,presidentlee.tw,PROXY,no-resolve
     - DOMAIN-SUFFIX,prestige-av.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,primevideo.com,PROXY,no-resolve
