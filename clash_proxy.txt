@@ -921,7 +921,6 @@
     - DOMAIN-SUFFIX,chenshan20042005.wordpress.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,cherrysave.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,chhongbi.org,PROXY,no-resolve
-    - DOMAIN-SUFFIX,chicagoncmtv.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,china-mmm.jp.net,PROXY,no-resolve
     - DOMAIN-SUFFIX,china-mmm.net,PROXY,no-resolve
     - DOMAIN-SUFFIX,china-review.com.ua,PROXY,no-resolve
@@ -1348,6 +1347,7 @@
     - DOMAIN-SUFFIX,dongtaiwang.net,PROXY,no-resolve
     - DOMAIN-SUFFIX,dongyangjing.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,dontfilter.us,PROXY,no-resolve
+    - DOMAIN-SUFFIX,doom9.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,doosho.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,doourbest.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,dorjeshugden.com,PROXY,no-resolve
@@ -1787,8 +1787,6 @@
     - DOMAIN-SUFFIX,freedominfonetweb.wordpress.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,freedomsherald.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,freeforums.org,PROXY,no-resolve
-    - DOMAIN-SUFFIX,freefq.com,PROXY,no-resolve
-    - DOMAIN-SUFFIX,freefuckvids.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,freegao.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,freehongkong.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,freeilhamtohti.org,PROXY,no-resolve
@@ -2637,6 +2635,7 @@
     - DOMAIN-SUFFIX,imdb.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,img.dlsite.jp,PROXY,no-resolve
     - DOMAIN-SUFFIX,img.ly,PROXY,no-resolve
+    - DOMAIN-SUFFIX,img.picgo.net,PROXY,no-resolve
     - DOMAIN-SUFFIX,imgasd.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,imgchili.net,PROXY,no-resolve
     - DOMAIN-SUFFIX,imgmega.com,PROXY,no-resolve
@@ -4050,6 +4049,7 @@
     - DOMAIN-SUFFIX,radioline.co,PROXY,no-resolve
     - DOMAIN-SUFFIX,radiovaticana.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,radiovncr.com,PROXY,no-resolve
+    - DOMAIN-SUFFIX,radmin-vpn.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,rael.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,raggedbanner.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,raidcall.com.tw,PROXY,no-resolve
