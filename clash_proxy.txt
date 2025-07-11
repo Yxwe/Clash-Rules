@@ -1429,6 +1429,7 @@
     - DOMAIN-SUFFIX,e-info.org.tw,PROXY,no-resolve
     - DOMAIN-SUFFIX,e-zone.com.hk,PROXY,no-resolve
     - DOMAIN-SUFFIX,e123.hk,PROXY,no-resolve
+    - DOMAIN-SUFFIX,e621.net,PROXY,no-resolve
     - DOMAIN-SUFFIX,earlytibet.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,earthcam.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,earthvpn.com,PROXY,no-resolve
