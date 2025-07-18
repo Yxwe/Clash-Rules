@@ -5602,6 +5602,7 @@
     - DOMAIN-SUFFIX,www.thechinastory.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,www.wan-press.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,www.websnapr.com,PROXY,no-resolve
+    - DOMAIN-SUFFIX,www.xicons.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,www.zensur.freerk.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,www1.american.edu,PROXY,no-resolve
     - DOMAIN-SUFFIX,www1.biz,PROXY,no-resolve
