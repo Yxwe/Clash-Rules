@@ -3086,6 +3086,7 @@
     - DOMAIN-SUFFIX,lsxszzg.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,ltn.com.tw,PROXY,no-resolve
     - DOMAIN-SUFFIX,luckydesigner.space,PROXY,no-resolve
+    - DOMAIN-SUFFIX,ludepress.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,luke54.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,luke54.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,lupm.org,PROXY,no-resolve
@@ -5376,6 +5377,7 @@
     - DOMAIN-SUFFIX,wahas.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,waikeung.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,wainao.me,PROXY,no-resolve
+    - DOMAIN-SUFFIX,walletconnect.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,wallmama.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,wallpapercasa.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,wallproxy.com,PROXY,no-resolve
@@ -5707,6 +5709,7 @@
     - DOMAIN-SUFFIX,yam.org.tw,PROXY,no-resolve
     - DOMAIN-SUFFIX,yande.re,PROXY,no-resolve
     - DOMAIN-SUFFIX,yanghengjun.com,PROXY,no-resolve
+    - DOMAIN-SUFFIX,yangzhi.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,yasni.co.uk,PROXY,no-resolve
     - DOMAIN-SUFFIX,yasukuni.or.jp,PROXY,no-resolve
     - DOMAIN-SUFFIX,yayabay.com,PROXY,no-resolve
