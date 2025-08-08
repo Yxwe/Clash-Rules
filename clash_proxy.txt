@@ -5611,6 +5611,8 @@
     - DOMAIN-SUFFIX,www2.ohchr.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,www2.rocketbbs.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,wwwhost.biz,PROXY,no-resolve
+    - DOMAIN-SUFFIX,wxw.cat,PROXY,no-resolve
+    - DOMAIN-SUFFIX,wxw.moe,PROXY,no-resolve
     - DOMAIN-SUFFIX,wzyboy.im,PROXY,no-resolve
     - DOMAIN-SUFFIX,x-art.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,x-berry.com,PROXY,no-resolve

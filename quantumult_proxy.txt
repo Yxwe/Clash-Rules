@@ -5611,6 +5611,8 @@ host-suffix, www1.biz, proxy, no-resolve
 host-suffix, www2.ohchr.org, proxy, no-resolve
 host-suffix, www2.rocketbbs.com, proxy, no-resolve
 host-suffix, wwwhost.biz, proxy, no-resolve
+host-suffix, wxw.cat, proxy, no-resolve
+host-suffix, wxw.moe, proxy, no-resolve
 host-suffix, wzyboy.im, proxy, no-resolve
 host-suffix, x-art.com, proxy, no-resolve
 host-suffix, x-berry.com, proxy, no-resolve
