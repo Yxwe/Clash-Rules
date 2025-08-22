@@ -1270,6 +1270,7 @@ host-suffix, delicious.com, proxy, no-resolve
 host-suffix, demo.unlock-music.dev, proxy, no-resolve
 host-suffix, democrats.org, proxy, no-resolve
 host-suffix, demosisto.hk, proxy, no-resolve
+host-suffix, deno.dev, proxy, no-resolve
 host-suffix, depositphotos.com, proxy, no-resolve
 host-suffix, desc.se, proxy, no-resolve
 host-suffix, desipro.de, proxy, no-resolve
@@ -1338,6 +1339,7 @@ host-suffix, dnvod.tv, proxy, no-resolve
 host-suffix, doc.new, proxy, no-resolve
 host-suffix, docker.com, proxy, no-resolve
 host-suffix, docker.io, proxy, no-resolve
+host-suffix, docs.deno.com, proxy, no-resolve
 host-suffix, docs.new, proxy, no-resolve
 host-suffix, doctorvoice.org, proxy, no-resolve
 host-suffix, documentingreality.com, proxy, no-resolve
@@ -1860,6 +1862,7 @@ host-suffix, fuq.com, proxy, no-resolve
 host-suffix, furbo.org, proxy, no-resolve
 host-suffix, furhhdl.org, proxy, no-resolve
 host-suffix, furinkan.com, proxy, no-resolve
+host-suffix, furrybar.com, proxy, no-resolve
 host-suffix, futurechinaforum.org, proxy, no-resolve
 host-suffix, futuremessage.org, proxy, no-resolve
 host-suffix, fux.com, proxy, no-resolve
@@ -3439,6 +3442,7 @@ host-suffix, nationalreview.com, proxy, no-resolve
 host-suffix, nationsonline.org, proxy, no-resolve
 host-suffix, nationwide.com, proxy, no-resolve
 host-suffix, naughtyamerica.com, proxy, no-resolve
+host-suffix, naver.com, proxy, no-resolve
 host-suffix, navyfamily.navy.mil, proxy, no-resolve
 host-suffix, navyreserve.navy.mil, proxy, no-resolve
 host-suffix, naweeklytimes.com, proxy, no-resolve
@@ -3763,6 +3767,7 @@ host-suffix, palacemoon.com, proxy, no-resolve
 host-suffix, paljorpublications.com, proxy, no-resolve
 host-suffix, paltalk.com, proxy, no-resolve
 host-suffix, panamapapers.sueddeutsche.de, proxy, no-resolve
+host-suffix, pancakeswap.finance, proxy, no-resolve
 host-suffix, pandafan.pub, proxy, no-resolve
 host-suffix, pandapow.co, proxy, no-resolve
 host-suffix, pandapow.net, proxy, no-resolve
@@ -3829,6 +3834,7 @@ host-suffix, periscope.tv, proxy, no-resolve
 host-suffix, perplexity.ai, proxy, no-resolve
 host-suffix, persecutionblog.com, proxy, no-resolve
 host-suffix, persiankitty.com, proxy, no-resolve
+host-suffix, pewresearch.org, proxy, no-resolve
 host-suffix, phapluan.org, proxy, no-resolve
 host-suffix, phayul.com, proxy, no-resolve
 host-suffix, philborges.com, proxy, no-resolve
@@ -3958,6 +3964,7 @@ host-suffix, prism-break.org, proxy, no-resolve
 host-suffix, prisoneralert.com, proxy, no-resolve
 host-suffix, pritunl.com, proxy, no-resolve
 host-suffix, privacybox.de, proxy, no-resolve
+host-suffix, privacyguides.org, proxy, no-resolve
 host-suffix, private.com, proxy, no-resolve
 host-suffix, privateinternetaccess.com, proxy, no-resolve
 host-suffix, privatepaste.com, proxy, no-resolve
@@ -4611,6 +4618,7 @@ host-suffix, suroot.com, proxy, no-resolve
 host-suffix, surrenderat20.net, proxy, no-resolve
 host-suffix, svsfx.com, proxy, no-resolve
 host-suffix, swagbucks.com, proxy, no-resolve
+host-suffix, swapspace.co, proxy, no-resolve
 host-suffix, swissinfo.ch, proxy, no-resolve
 host-suffix, swissvpn.net, proxy, no-resolve
 host-suffix, switch1.jp, proxy, no-resolve
@@ -5140,6 +5148,7 @@ host-suffix, uderzo.it, proxy, no-resolve
 host-suffix, udn.com, proxy, no-resolve
 host-suffix, udn.com.tw, proxy, no-resolve
 host-suffix, udnbkk.com, proxy, no-resolve
+host-suffix, udomain.hk, proxy, no-resolve
 host-suffix, uforadio.com.tw, proxy, no-resolve
 host-suffix, ufreevpn.com, proxy, no-resolve
 host-suffix, ugo.com, proxy, no-resolve
