@@ -1131,6 +1131,7 @@
     - DOMAIN-SUFFIX,cotweet.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,counter.social,PROXY,no-resolve
     - DOMAIN-SUFFIX,coursehero.com,PROXY,no-resolve
+    - DOMAIN-SUFFIX,covenantswatch.org.tw,PROXY,no-resolve
     - DOMAIN-SUFFIX,coze.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,cpj.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,cpu-monkey.com,PROXY,no-resolve
@@ -1679,6 +1680,7 @@
     - DOMAIN-SUFFIX,fdc89.jp,PROXY,no-resolve
     - DOMAIN-SUFFIX,feedburner.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,feeder.co,PROXY,no-resolve
+    - DOMAIN-SUFFIX,feedly.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,feeds.fileforum.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,feedx.net,PROXY,no-resolve
     - DOMAIN-SUFFIX,feelssh.com,PROXY,no-resolve
@@ -1851,6 +1853,8 @@
     - DOMAIN-SUFFIX,ftx.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,fucd.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,fuchsia.dev,PROXY,no-resolve
+    - DOMAIN-SUFFIX,fuckccp.com,PROXY,no-resolve
+    - DOMAIN-SUFFIX,fuckccp.xyz,PROXY,no-resolve
     - DOMAIN-SUFFIX,fuckgfw.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,fulione.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,fullerconsideration.com,PROXY,no-resolve
@@ -2748,6 +2752,7 @@
     - DOMAIN-SUFFIX,itemdb.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,itemfix.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,ithelp.ithome.com.tw,PROXY,no-resolve
+    - DOMAIN-SUFFIX,itiger.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,itsaol.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,itshidden.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,itsky.it,PROXY,no-resolve
@@ -3306,6 +3311,7 @@
     - DOMAIN-SUFFIX,mog.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,mohu.club,PROXY,no-resolve
     - DOMAIN-SUFFIX,mohu.rocks,PROXY,no-resolve
+    - DOMAIN-SUFFIX,moj.gov.tw,PROXY,no-resolve
     - DOMAIN-SUFFIX,mojim.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,mol.gov.tw,PROXY,no-resolve
     - DOMAIN-SUFFIX,molihua.org,PROXY,no-resolve

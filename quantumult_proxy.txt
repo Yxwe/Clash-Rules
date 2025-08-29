@@ -1131,6 +1131,7 @@ host-suffix, costco.com, proxy, no-resolve
 host-suffix, cotweet.com, proxy, no-resolve
 host-suffix, counter.social, proxy, no-resolve
 host-suffix, coursehero.com, proxy, no-resolve
+host-suffix, covenantswatch.org.tw, proxy, no-resolve
 host-suffix, coze.com, proxy, no-resolve
 host-suffix, cpj.org, proxy, no-resolve
 host-suffix, cpu-monkey.com, proxy, no-resolve
@@ -1679,6 +1680,7 @@ host-suffix, fdc64.org, proxy, no-resolve
 host-suffix, fdc89.jp, proxy, no-resolve
 host-suffix, feedburner.com, proxy, no-resolve
 host-suffix, feeder.co, proxy, no-resolve
+host-suffix, feedly.com, proxy, no-resolve
 host-suffix, feeds.fileforum.com, proxy, no-resolve
 host-suffix, feedx.net, proxy, no-resolve
 host-suffix, feelssh.com, proxy, no-resolve
@@ -1851,6 +1853,8 @@ host-suffix, ftvnews.com.tw, proxy, no-resolve
 host-suffix, ftx.com, proxy, no-resolve
 host-suffix, fucd.com, proxy, no-resolve
 host-suffix, fuchsia.dev, proxy, no-resolve
+host-suffix, fuckccp.com, proxy, no-resolve
+host-suffix, fuckccp.xyz, proxy, no-resolve
 host-suffix, fuckgfw.org, proxy, no-resolve
 host-suffix, fulione.com, proxy, no-resolve
 host-suffix, fullerconsideration.com, proxy, no-resolve
@@ -2748,6 +2752,7 @@ host-suffix, itch.io, proxy, no-resolve
 host-suffix, itemdb.com, proxy, no-resolve
 host-suffix, itemfix.com, proxy, no-resolve
 host-suffix, ithelp.ithome.com.tw, proxy, no-resolve
+host-suffix, itiger.com, proxy, no-resolve
 host-suffix, itsaol.com, proxy, no-resolve
 host-suffix, itshidden.com, proxy, no-resolve
 host-suffix, itsky.it, proxy, no-resolve
@@ -3306,6 +3311,7 @@ host-suffix, mofos.com, proxy, no-resolve
 host-suffix, mog.com, proxy, no-resolve
 host-suffix, mohu.club, proxy, no-resolve
 host-suffix, mohu.rocks, proxy, no-resolve
+host-suffix, moj.gov.tw, proxy, no-resolve
 host-suffix, mojim.com, proxy, no-resolve
 host-suffix, mol.gov.tw, proxy, no-resolve
 host-suffix, molihua.org, proxy, no-resolve
