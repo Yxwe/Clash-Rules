@@ -735,6 +735,8 @@ host-suffix, brutaltgp.com, proxy, no-resolve
 host-suffix, bsky.app, proxy, no-resolve
 host-suffix, bsky.network, proxy, no-resolve
 host-suffix, bsky.social, proxy, no-resolve
+host-suffix, bt4g.org, proxy, no-resolve
+host-suffix, bt4gprx.com, proxy, no-resolve
 host-suffix, bt95.com, proxy, no-resolve
 host-suffix, btaia.com, proxy, no-resolve
 host-suffix, btbit.net, proxy, no-resolve
@@ -2706,6 +2708,7 @@ host-suffix, iphone4hongkong.com, proxy, no-resolve
 host-suffix, iphonetaiwan.org, proxy, no-resolve
 host-suffix, iphonix.fr, proxy, no-resolve
 host-suffix, ipicture.ru, proxy, no-resolve
+host-suffix, ipify.org, proxy, no-resolve
 host-suffix, ipjetable.net, proxy, no-resolve
 host-suffix, ipobar.com, proxy, no-resolve
 host-suffix, ipoock.com, proxy, no-resolve
@@ -4681,6 +4684,7 @@ host-suffix, talkcc.com, proxy, no-resolve
 host-suffix, talkonly.net, proxy, no-resolve
 host-suffix, tanc.org, proxy, no-resolve
 host-suffix, tangren.us, proxy, no-resolve
+host-suffix, tanks.gg, proxy, no-resolve
 host-suffix, taoism.net, proxy, no-resolve
 host-suffix, tapanwap.com, proxy, no-resolve
 host-suffix, tapatalk.com, proxy, no-resolve

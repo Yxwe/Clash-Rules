@@ -735,6 +735,8 @@
     - DOMAIN-SUFFIX,bsky.app,PROXY,no-resolve
     - DOMAIN-SUFFIX,bsky.network,PROXY,no-resolve
     - DOMAIN-SUFFIX,bsky.social,PROXY,no-resolve
+    - DOMAIN-SUFFIX,bt4g.org,PROXY,no-resolve
+    - DOMAIN-SUFFIX,bt4gprx.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,bt95.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,btaia.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,btbit.net,PROXY,no-resolve
@@ -2706,6 +2708,7 @@
     - DOMAIN-SUFFIX,iphonetaiwan.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,iphonix.fr,PROXY,no-resolve
     - DOMAIN-SUFFIX,ipicture.ru,PROXY,no-resolve
+    - DOMAIN-SUFFIX,ipify.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,ipjetable.net,PROXY,no-resolve
     - DOMAIN-SUFFIX,ipobar.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,ipoock.com,PROXY,no-resolve
@@ -4681,6 +4684,7 @@
     - DOMAIN-SUFFIX,talkonly.net,PROXY,no-resolve
     - DOMAIN-SUFFIX,tanc.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,tangren.us,PROXY,no-resolve
+    - DOMAIN-SUFFIX,tanks.gg,PROXY,no-resolve
     - DOMAIN-SUFFIX,taoism.net,PROXY,no-resolve
     - DOMAIN-SUFFIX,tapanwap.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,tapatalk.com,PROXY,no-resolve
