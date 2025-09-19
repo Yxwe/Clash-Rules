@@ -3185,6 +3185,7 @@
     - DOMAIN-SUFFIX,mcaf.ee,PROXY,no-resolve
     - DOMAIN-SUFFIX,mcfog.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,mcreasite.com,PROXY,no-resolve
+    - DOMAIN-SUFFIX,mcusercontent.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,md-t.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,me.me,PROXY,no-resolve
     - DOMAIN-SUFFIX,me.ns.ci,PROXY,no-resolve
@@ -4379,6 +4380,7 @@
     - DOMAIN-SUFFIX,simpleproductivityblog.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,simpleswap.io,PROXY,no-resolve
     - DOMAIN-SUFFIX,simplex.chat,PROXY,no-resolve
+    - DOMAIN-SUFFIX,sina.com.hk,PROXY,no-resolve
     - DOMAIN-SUFFIX,sinchew.com.my,PROXY,no-resolve
     - DOMAIN-SUFFIX,singaporepools.com.sg,PROXY,no-resolve
     - DOMAIN-SUFFIX,singfortibet.com,PROXY,no-resolve
@@ -4679,6 +4681,7 @@
     - DOMAIN-SUFFIX,taiwanus.net,PROXY,no-resolve
     - DOMAIN-SUFFIX,taiwanyes.ning.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,talk853.com,PROXY,no-resolve
+    - DOMAIN-SUFFIX,talkatone.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,talkboxapp.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,talkcc.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,talkonly.net,PROXY,no-resolve
