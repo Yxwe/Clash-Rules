@@ -118,6 +118,7 @@
     - DOMAIN-SUFFIX,91vps.club,PROXY,no-resolve
     - DOMAIN-SUFFIX,92ccav.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,991.com,PROXY,no-resolve
+    - DOMAIN-SUFFIX,996.icu,PROXY,no-resolve
     - DOMAIN-SUFFIX,99btgc01.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,99cn.info,PROXY,no-resolve
     - DOMAIN-SUFFIX,9bis.com,PROXY,no-resolve
@@ -139,6 +140,7 @@
     - DOMAIN-SUFFIX,abitno.linpie.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,ablwang.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,aboluowang.com,PROXY,no-resolve
+    - DOMAIN-SUFFIX,about.gitlab.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,about.me,PROXY,no-resolve
     - DOMAIN-SUFFIX,abplive.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,abs.edu,PROXY,no-resolve
@@ -303,6 +305,7 @@
     - DOMAIN-SUFFIX,api-secure.recaptcha.net,PROXY,no-resolve
     - DOMAIN-SUFFIX,api-verify.recaptcha.net,PROXY,no-resolve
     - DOMAIN-SUFFIX,api.ai,PROXY,no-resolve
+    - DOMAIN-SUFFIX,api.palworldgame.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,api.pureapk.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,api.recaptcha.net,PROXY,no-resolve
     - DOMAIN-SUFFIX,api.steampowered.com,PROXY,no-resolve
@@ -1166,6 +1169,7 @@
     - DOMAIN-SUFFIX,csw.org.uk,PROXY,no-resolve
     - DOMAIN-SUFFIX,ct.org.tw,PROXY,no-resolve
     - DOMAIN-SUFFIX,ctao.org,PROXY,no-resolve
+    - DOMAIN-SUFFIX,ctinets.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,ctinews.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,ctitv.com.tw,PROXY,no-resolve
     - DOMAIN-SUFFIX,ctowc.org,PROXY,no-resolve
@@ -1904,6 +1908,7 @@
     - DOMAIN-SUFFIX,gardennetworks.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,gardennetworks.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,gartlive.com,PROXY,no-resolve
+    - DOMAIN-SUFFIX,garudalinux.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,gate.io,PROXY,no-resolve
     - DOMAIN-SUFFIX,gatecoin.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,gather.com,PROXY,no-resolve
@@ -2695,6 +2700,7 @@
     - DOMAIN-SUFFIX,internetdefenseleague.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,internetfreedom.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,internetpopculture.com,PROXY,no-resolve
+    - DOMAIN-SUFFIX,interseclab.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,inthenameofconfuciusmovie.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,investigating.wordpress.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,invidio.us,PROXY,no-resolve
@@ -3560,6 +3566,7 @@
     - DOMAIN-SUFFIX,ninjacloak.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,ninjaproxy.ninja,PROXY,no-resolve
     - DOMAIN-SUFFIX,nintendium.com,PROXY,no-resolve
+    - DOMAIN-SUFFIX,nirsoft.net,PROXY,no-resolve
     - DOMAIN-SUFFIX,nitter.cc,PROXY,no-resolve
     - DOMAIN-SUFFIX,nitter.net,PROXY,no-resolve
     - DOMAIN-SUFFIX,niu.moe,PROXY,no-resolve
@@ -3659,6 +3666,7 @@
     - DOMAIN-SUFFIX,ocreampies.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,ocry.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,october-review.org,PROXY,no-resolve
+    - DOMAIN-SUFFIX,octocaptcha.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,oculus.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,oculuscdn.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,odysee.com,PROXY,no-resolve
@@ -4468,6 +4476,7 @@
     - DOMAIN-SUFFIX,solarsystem.nasa.gov,PROXY,no-resolve
     - DOMAIN-SUFFIX,solidaritetibet.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,solidfiles.com,PROXY,no-resolve
+    - DOMAIN-SUFFIX,solscan.io,PROXY,no-resolve
     - DOMAIN-SUFFIX,solv.finance,PROXY,no-resolve
     - DOMAIN-SUFFIX,somee.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,songjianjun.com,PROXY,no-resolve
@@ -4689,8 +4698,10 @@
     - DOMAIN-SUFFIX,tangren.us,PROXY,no-resolve
     - DOMAIN-SUFFIX,tanks.gg,PROXY,no-resolve
     - DOMAIN-SUFFIX,taoism.net,PROXY,no-resolve
+    - DOMAIN-SUFFIX,tap.io,PROXY,no-resolve
     - DOMAIN-SUFFIX,tapanwap.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,tapatalk.com,PROXY,no-resolve
+    - DOMAIN-SUFFIX,taptap.io,PROXY,no-resolve
     - DOMAIN-SUFFIX,tardigrade.io,PROXY,no-resolve
     - DOMAIN-SUFFIX,tarr.uspto.gov,PROXY,no-resolve
     - DOMAIN-SUFFIX,taup.net,PROXY,no-resolve
@@ -5157,7 +5168,6 @@
     - DOMAIN-SUFFIX,uberproxy.net,PROXY,no-resolve
     - DOMAIN-SUFFIX,uc-japan.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,uchicago.edu,PROXY,no-resolve
-    - DOMAIN-SUFFIX,uderzo.it,PROXY,no-resolve
     - DOMAIN-SUFFIX,udn.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,udn.com.tw,PROXY,no-resolve
     - DOMAIN-SUFFIX,udnbkk.com,PROXY,no-resolve
@@ -5309,6 +5319,7 @@
     - DOMAIN-SUFFIX,vilanet.me,PROXY,no-resolve
     - DOMAIN-SUFFIX,vilavpn.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,vimeo.com,PROXY,no-resolve
+    - DOMAIN-SUFFIX,vimeocdn.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,vimperator.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,vincnd.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,vine.co,PROXY,no-resolve
@@ -5395,6 +5406,7 @@
     - DOMAIN-SUFFIX,vpnworldwide.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,vporn.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,vpser.net,PROXY,no-resolve
+    - DOMAIN-SUFFIX,vpsxb.net,PROXY,no-resolve
     - DOMAIN-SUFFIX,vraiesagesse.net,PROXY,no-resolve
     - DOMAIN-SUFFIX,vrchat.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,vrmtr.com,PROXY,no-resolve
@@ -5527,6 +5539,7 @@
     - DOMAIN-SUFFIX,wikimapia.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,wikimedia.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,wikinews.org,PROXY,no-resolve
+    - DOMAIN-SUFFIX,wikipedia.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,wikipedia.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,wikisource.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,wikiversity.org,PROXY,no-resolve
