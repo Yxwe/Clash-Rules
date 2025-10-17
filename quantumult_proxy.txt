@@ -363,6 +363,7 @@ host-suffix, asia-gaming.com, proxy, no-resolve
 host-suffix, asiaharvest.org, proxy, no-resolve
 host-suffix, asianage.com, proxy, no-resolve
 host-suffix, asianews.it, proxy, no-resolve
+host-suffix, asianfanfics.com, proxy, no-resolve
 host-suffix, asiansexdiary.com, proxy, no-resolve
 host-suffix, asiaone.com, proxy, no-resolve
 host-suffix, asiatgp.com, proxy, no-resolve
@@ -751,7 +752,6 @@ host-suffix, btc98.com, proxy, no-resolve
 host-suffix, btcbank.bank, proxy, no-resolve
 host-suffix, btctrade.im, proxy, no-resolve
 host-suffix, btdig.com, proxy, no-resolve
-host-suffix, btdigg.org, proxy, no-resolve
 host-suffix, btguard.com, proxy, no-resolve
 host-suffix, btku.me, proxy, no-resolve
 host-suffix, btku.org, proxy, no-resolve
@@ -1803,6 +1803,8 @@ host-suffix, freedominfonetweb.wordpress.com, proxy, no-resolve
 host-suffix, freedomsherald.org, proxy, no-resolve
 host-suffix, freeforums.org, proxy, no-resolve
 host-suffix, freegao.com, proxy, no-resolve
+host-suffix, freegpt.es, proxy, no-resolve
+host-suffix, freegpt.tech, proxy, no-resolve
 host-suffix, freehongkong.org, proxy, no-resolve
 host-suffix, freeilhamtohti.org, proxy, no-resolve
 host-suffix, freekazakhs.org, proxy, no-resolve
@@ -5011,6 +5013,7 @@ host-suffix, trt.net.tr, proxy, no-resolve
 host-suffix, trtc.com.tw, proxy, no-resolve
 host-suffix, truebuddha-md.org, proxy, no-resolve
 host-suffix, trulyergonomic.com, proxy, no-resolve
+host-suffix, trustwallet.com, proxy, no-resolve
 host-suffix, truthsocial.com, proxy, no-resolve
 host-suffix, truveo.com, proxy, no-resolve
 host-suffix, tryheart.jp, proxy, no-resolve
@@ -5468,6 +5471,7 @@ host-suffix, webpkgcache.com, proxy, no-resolve
 host-suffix, webrtc.org, proxy, no-resolve
 host-suffix, webrush.net, proxy, no-resolve
 host-suffix, webs-tv.net, proxy, no-resolve
+host-suffix, websdr.org, proxy, no-resolve
 host-suffix, website.informer.com, proxy, no-resolve
 host-suffix, website.new, proxy, no-resolve
 host-suffix, websitepulse.com, proxy, no-resolve
@@ -5715,6 +5719,7 @@ host-suffix, xn--ngstr-lra8j.com, proxy, no-resolve
 host-suffix, xn--noss43i.com, proxy, no-resolve
 host-suffix, xn--oiq.cc, proxy, no-resolve
 host-suffix, xn--p8j9a0d9c9a.xn--q9jyb4c, proxy, no-resolve
+host-suffix, xn--u2u927b.com, proxy, no-resolve
 host-suffix, xnpool.com, proxy, no-resolve
 host-suffix, xnxx.com, proxy, no-resolve
 host-suffix, xpdo.net, proxy, no-resolve
@@ -5840,6 +5845,7 @@ host-suffix, z-lib.gd, proxy, no-resolve
 host-suffix, z-lib.gl, proxy, no-resolve
 host-suffix, z-lib.io, proxy, no-resolve
 host-suffix, z-lib.org, proxy, no-resolve
+host-suffix, z-library.ec, proxy, no-resolve
 host-suffix, z-library.sk, proxy, no-resolve
 host-suffix, zacebook.com, proxy, no-resolve
 host-suffix, zalmos.com, proxy, no-resolve
