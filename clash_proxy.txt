@@ -1346,6 +1346,7 @@
     - DOMAIN-SUFFIX,doc.new,PROXY,no-resolve
     - DOMAIN-SUFFIX,docker.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,docker.io,PROXY,no-resolve
+    - DOMAIN-SUFFIX,dockerstatus.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,docs.deno.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,docs.new,PROXY,no-resolve
     - DOMAIN-SUFFIX,doctorvoice.org,PROXY,no-resolve

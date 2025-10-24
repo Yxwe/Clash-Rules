@@ -1346,6 +1346,7 @@ host-suffix, dnvod.tv, proxy, no-resolve
 host-suffix, doc.new, proxy, no-resolve
 host-suffix, docker.com, proxy, no-resolve
 host-suffix, docker.io, proxy, no-resolve
+host-suffix, dockerstatus.com, proxy, no-resolve
 host-suffix, docs.deno.com, proxy, no-resolve
 host-suffix, docs.new, proxy, no-resolve
 host-suffix, doctorvoice.org, proxy, no-resolve
