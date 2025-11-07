@@ -1733,6 +1733,7 @@
     - DOMAIN-SUFFIX,flecheinthepeche.fr,PROXY,no-resolve
     - DOMAIN-SUFFIX,fleshbot.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,fleursdeslettres.com,PROXY,no-resolve
+    - DOMAIN-SUFFIX,flexclip.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,flexpool.io,PROXY,no-resolve
     - DOMAIN-SUFFIX,flgjustice.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,flickr.com,PROXY,no-resolve
@@ -4753,6 +4754,7 @@
     - DOMAIN-SUFFIX,telesco.pe,PROXY,no-resolve
     - DOMAIN-SUFFIX,tellapart.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,tellme.pw,PROXY,no-resolve
+    - DOMAIN-SUFFIX,temu.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,tenacy.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,tenor.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,tensorflow.org,PROXY,no-resolve
