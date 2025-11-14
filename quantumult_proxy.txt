@@ -1273,9 +1273,7 @@ host-suffix, deezer.com, proxy, no-resolve
 host-suffix, definebabe.com, proxy, no-resolve
 host-suffix, deja.com, proxy, no-resolve
 host-suffix, delcamp.net, proxy, no-resolve
-host-suffix, delicious.com, proxy, no-resolve
 host-suffix, demo.unlock-music.dev, proxy, no-resolve
-host-suffix, democrats.org, proxy, no-resolve
 host-suffix, demosisto.hk, proxy, no-resolve
 host-suffix, deno.dev, proxy, no-resolve
 host-suffix, depositphotos.com, proxy, no-resolve
@@ -2651,6 +2649,7 @@ host-suffix, imagefap.com, proxy, no-resolve
 host-suffix, imageflea.com, proxy, no-resolve
 host-suffix, imageglass.org, proxy, no-resolve
 host-suffix, images-gaytube.com, proxy, no-resolve
+host-suffix, images.prismic.io, proxy, no-resolve
 host-suffix, imageshack.us, proxy, no-resolve
 host-suffix, imagevenue.com, proxy, no-resolve
 host-suffix, imagezilla.net, proxy, no-resolve

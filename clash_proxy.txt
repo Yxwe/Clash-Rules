@@ -1273,9 +1273,7 @@
     - DOMAIN-SUFFIX,definebabe.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,deja.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,delcamp.net,PROXY,no-resolve
-    - DOMAIN-SUFFIX,delicious.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,demo.unlock-music.dev,PROXY,no-resolve
-    - DOMAIN-SUFFIX,democrats.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,demosisto.hk,PROXY,no-resolve
     - DOMAIN-SUFFIX,deno.dev,PROXY,no-resolve
     - DOMAIN-SUFFIX,depositphotos.com,PROXY,no-resolve
@@ -2651,6 +2649,7 @@
     - DOMAIN-SUFFIX,imageflea.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,imageglass.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,images-gaytube.com,PROXY,no-resolve
+    - DOMAIN-SUFFIX,images.prismic.io,PROXY,no-resolve
     - DOMAIN-SUFFIX,imageshack.us,PROXY,no-resolve
     - DOMAIN-SUFFIX,imagevenue.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,imagezilla.net,PROXY,no-resolve
