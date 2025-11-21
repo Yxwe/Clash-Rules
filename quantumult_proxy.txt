@@ -166,6 +166,7 @@ host-suffix, addictedtocoffee.de, proxy, no-resolve
 host-suffix, addons.mozilla.org, proxy, no-resolve
 host-suffix, addyoutube.com, proxy, no-resolve
 host-suffix, adelaidebbs.com, proxy, no-resolve
+host-suffix, adguard-vpn.com, proxy, no-resolve
 host-suffix, admin.recaptcha.net, proxy, no-resolve
 host-suffix, admob.com, proxy, no-resolve
 host-suffix, adpl.org.hk, proxy, no-resolve
@@ -190,6 +191,7 @@ host-suffix, agnesb.fr, proxy, no-resolve
 host-suffix, agoogleaday.com, proxy, no-resolve
 host-suffix, agro.hk, proxy, no-resolve
 host-suffix, ai.binwang.me, proxy, no-resolve
+host-suffix, ai.dev, proxy, no-resolve
 host-suffix, aiosearch.com, proxy, no-resolve
 host-suffix, aiph.net, proxy, no-resolve
 host-suffix, airasia.com, proxy, no-resolve
@@ -298,6 +300,7 @@ host-suffix, aofriend.com, proxy, no-resolve
 host-suffix, aojiao.org, proxy, no-resolve
 host-suffix, aomedia.org, proxy, no-resolve
 host-suffix, aomiwang.com, proxy, no-resolve
+host-suffix, aoxvpn.com, proxy, no-resolve
 host-suffix, apartmentratings.com, proxy, no-resolve
 host-suffix, apartments.com, proxy, no-resolve
 host-suffix, apat1989.org, proxy, no-resolve
@@ -515,6 +518,7 @@ host-suffix, bestvpnusa.com, proxy, no-resolve
 host-suffix, bet365.com, proxy, no-resolve
 host-suffix, betaclouds.net, proxy, no-resolve
 host-suffix, betfair.com, proxy, no-resolve
+host-suffix, bettergpt.chat, proxy, no-resolve
 host-suffix, betterhash.net, proxy, no-resolve
 host-suffix, betternet.co, proxy, no-resolve
 host-suffix, bettervpn.com, proxy, no-resolve
@@ -817,6 +821,7 @@ host-suffix, cams.com, proxy, no-resolve
 host-suffix, cams.org.sg, proxy, no-resolve
 host-suffix, canadameet.com, proxy, no-resolve
 host-suffix, canalporno.com, proxy, no-resolve
+host-suffix, canva.com, proxy, no-resolve
 host-suffix, canyu.org, proxy, no-resolve
 host-suffix, caobian.info, proxy, no-resolve
 host-suffix, caochangqing.com, proxy, no-resolve
@@ -855,6 +860,7 @@ host-suffix, cccat.cc, proxy, no-resolve
 host-suffix, cccat.co, proxy, no-resolve
 host-suffix, ccfd.org.tw, proxy, no-resolve
 host-suffix, cchere.com, proxy, no-resolve
+host-suffix, cchostvps.xyz, proxy, no-resolve
 host-suffix, ccim.org, proxy, no-resolve
 host-suffix, cclife.ca, proxy, no-resolve
 host-suffix, cclife.org, proxy, no-resolve
@@ -917,9 +923,11 @@ host-suffix, chanworld.org, proxy, no-resolve
 host-suffix, chaoex.com, proxy, no-resolve
 host-suffix, chaos.social, proxy, no-resolve
 host-suffix, character.ai, proxy, no-resolve
+host-suffix, chat.com, proxy, no-resolve
 host-suffix, chat.lmsys.org, proxy, no-resolve
 host-suffix, chatgpt.com, proxy, no-resolve
 host-suffix, chatnook.com, proxy, no-resolve
+host-suffix, chatpdf.com, proxy, no-resolve
 host-suffix, chaturbate.com, proxy, no-resolve
 host-suffix, checkgfw.com, proxy, no-resolve
 host-suffix, chengmingmag.com, proxy, no-resolve
@@ -1053,6 +1061,7 @@ host-suffix, cloud.dify.ai, proxy, no-resolve
 host-suffix, cloud.mail.ru, proxy, no-resolve
 host-suffix, cloudflare-dns.com, proxy, no-resolve
 host-suffix, cloudflare-ipfs.com, proxy, no-resolve
+host-suffix, cloudflarestatus.com, proxy, no-resolve
 host-suffix, cloudfunctions.net, proxy, no-resolve
 host-suffix, club1069.com, proxy, no-resolve
 host-suffix, clubhouseapi.com, proxy, no-resolve
@@ -1237,6 +1246,7 @@ host-suffix, danke4china.net, proxy, no-resolve
 host-suffix, daodu14.jigsy.com, proxy, no-resolve
 host-suffix, daolan.net, proxy, no-resolve
 host-suffix, darktech.org, proxy, no-resolve
+host-suffix, darmau.co, proxy, no-resolve
 host-suffix, darpa.mil, proxy, no-resolve
 host-suffix, darrenliuwei.com, proxy, no-resolve
 host-suffix, dashlane.com, proxy, no-resolve
@@ -1707,6 +1717,7 @@ host-suffix, fhreports.net, proxy, no-resolve
 host-suffix, fiddle.jshell.net, proxy, no-resolve
 host-suffix, figprayer.com, proxy, no-resolve
 host-suffix, fileflyer.com, proxy, no-resolve
+host-suffix, files.oaiusercontent.com, proxy, no-resolve
 host-suffix, fileserve.com, proxy, no-resolve
 host-suffix, filesor.com, proxy, no-resolve
 host-suffix, fillthesquare.org, proxy, no-resolve
@@ -1743,6 +1754,7 @@ host-suffix, flipkart.com, proxy, no-resolve
 host-suffix, flitto.com, proxy, no-resolve
 host-suffix, flnet.org, proxy, no-resolve
 host-suffix, flog.tw, proxy, no-resolve
+host-suffix, flowgpt.com, proxy, no-resolve
 host-suffix, flowhongkong.net, proxy, no-resolve
 host-suffix, flypool.org, proxy, no-resolve
 host-suffix, flyvpn.com, proxy, no-resolve
@@ -1756,6 +1768,7 @@ host-suffix, focusvpn.com, proxy, no-resolve
 host-suffix, fofg.org, proxy, no-resolve
 host-suffix, fooooo.com, proxy, no-resolve
 host-suffix, forbes.com, proxy, no-resolve
+host-suffix, forefront.ai, proxy, no-resolve
 host-suffix, foreignaffairs.com, proxy, no-resolve
 host-suffix, foreignpolicy.com, proxy, no-resolve
 host-suffix, form.new, proxy, no-resolve
@@ -2295,6 +2308,7 @@ host-suffix, gravatar.com, proxy, no-resolve
 host-suffix, greasyfork.org, proxy, no-resolve
 host-suffix, greatfire.org, proxy, no-resolve
 host-suffix, greatfire.us7.list-manage.com, proxy, no-resolve
+host-suffix, greatfirevpn.com, proxy, no-resolve
 host-suffix, greatfirewall.biz, proxy, no-resolve
 host-suffix, greatfirewallofchina.org, proxy, no-resolve
 host-suffix, greatroc.org, proxy, no-resolve
@@ -2363,6 +2377,7 @@ host-suffix, hautelookcdn.com, proxy, no-resolve
 host-suffix, have8.com, proxy, no-resolve
 host-suffix, hbg.com, proxy, no-resolve
 host-suffix, hbo.com, proxy, no-resolve
+host-suffix, hbomax.com, proxy, no-resolve
 host-suffix, hclips.com, proxy, no-resolve
 host-suffix, hd.stheadline.com, proxy, no-resolve
 host-suffix, hdtvb.net, proxy, no-resolve
@@ -2396,6 +2411,7 @@ host-suffix, hgseav.com, proxy, no-resolve
 host-suffix, hhdcb3office.org, proxy, no-resolve
 host-suffix, hhthesakyatrizin.org, proxy, no-resolve
 host-suffix, hi-on.org.tw, proxy, no-resolve
+host-suffix, hicairo.com, proxy, no-resolve
 host-suffix, hiccears.com, proxy, no-resolve
 host-suffix, hidden-advent.org, proxy, no-resolve
 host-suffix, hide.me, proxy, no-resolve
@@ -2585,6 +2601,7 @@ host-suffix, hwayue.org.tw, proxy, no-resolve
 host-suffix, hxwk.org, proxy, no-resolve
 host-suffix, hxwq.org, proxy, no-resolve
 host-suffix, hybrid-analysis.com, proxy, no-resolve
+host-suffix, hyperbeam.com, proxy, no-resolve
 host-suffix, hyperrate.com, proxy, no-resolve
 host-suffix, hypothes.is, proxy, no-resolve
 host-suffix, i-cable.com, proxy, no-resolve
@@ -2823,7 +2840,6 @@ host-suffix, jex.com, proxy, no-resolve
 host-suffix, jgoodies.com, proxy, no-resolve
 host-suffix, jiangweiping.com, proxy, no-resolve
 host-suffix, jiaoyou8.com, proxy, no-resolve
-host-suffix, jichangtj.com, proxy, no-resolve
 host-suffix, jiehua.cz, proxy, no-resolve
 host-suffix, jieshibaobao.com, proxy, no-resolve
 host-suffix, jifangge.com, proxy, no-resolve
@@ -3019,6 +3035,7 @@ host-suffix, lenwhite.com, proxy, no-resolve
 host-suffix, lesoir.be, proxy, no-resolve
 host-suffix, letou.com, proxy, no-resolve
 host-suffix, letscorp.net, proxy, no-resolve
+host-suffix, lexica.art, proxy, no-resolve
 host-suffix, lflink.com, proxy, no-resolve
 host-suffix, lflinkup.com, proxy, no-resolve
 host-suffix, lflinkup.net, proxy, no-resolve
@@ -3033,6 +3050,7 @@ host-suffix, liaowangxizang.net, proxy, no-resolve
 host-suffix, liberal.org.hk, proxy, no-resolve
 host-suffix, libertysculpturepark.com, proxy, no-resolve
 host-suffix, libertytimes.com.tw, proxy, no-resolve
+host-suffix, library-access.sk, proxy, no-resolve
 host-suffix, library.usc.cuhk.edu.hk, proxy, no-resolve
 host-suffix, libredd.it, proxy, no-resolve
 host-suffix, lifemiles.com, proxy, no-resolve
@@ -3058,6 +3076,7 @@ host-suffix, linkedin.com, proxy, no-resolve
 host-suffix, linkideo.com, proxy, no-resolve
 host-suffix, linktr.ee, proxy, no-resolve
 host-suffix, linkuswell.com, proxy, no-resolve
+host-suffix, linux.do, proxy, no-resolve
 host-suffix, linux.org.hk, proxy, no-resolve
 host-suffix, linuxtoy.org, proxy, no-resolve
 host-suffix, lionsroar.com, proxy, no-resolve
@@ -3082,6 +3101,7 @@ host-suffix, livevideo.com, proxy, no-resolve
 host-suffix, livingstream.com, proxy, no-resolve
 host-suffix, lizhizhuangbi.com, proxy, no-resolve
 host-suffix, lkcn.net, proxy, no-resolve
+host-suffix, lmarena.ai, proxy, no-resolve
 host-suffix, load.to, proxy, no-resolve
 host-suffix, lobsangwangyal.com, proxy, no-resolve
 host-suffix, localbitcoins.com, proxy, no-resolve
@@ -3111,6 +3131,7 @@ host-suffix, lsmkorean.org, proxy, no-resolve
 host-suffix, lsmradio.com, proxy, no-resolve
 host-suffix, lsmwebcast.com, proxy, no-resolve
 host-suffix, lsxszzg.com, proxy, no-resolve
+host-suffix, lt.sntp.uk, proxy, no-resolve
 host-suffix, ltn.com.tw, proxy, no-resolve
 host-suffix, luckydesigner.space, proxy, no-resolve
 host-suffix, luckymobile.ca, proxy, no-resolve
@@ -3255,6 +3276,7 @@ host-suffix, microvpn.com, proxy, no-resolve
 host-suffix, middle-way.net, proxy, no-resolve
 host-suffix, mihr.com, proxy, no-resolve
 host-suffix, mihua.org, proxy, no-resolve
+host-suffix, mij.rip, proxy, no-resolve
 host-suffix, mikanani.me, proxy, no-resolve
 host-suffix, mike.cz.cc, proxy, no-resolve
 host-suffix, mikesoltys.com, proxy, no-resolve
@@ -3299,7 +3321,9 @@ host-suffix, mixi.jp, proxy, no-resolve
 host-suffix, mixpod.com, proxy, no-resolve
 host-suffix, mixx.com, proxy, no-resolve
 host-suffix, mizzmona.com, proxy, no-resolve
+host-suffix, mji.rip, proxy, no-resolve
 host-suffix, mjib.gov.tw, proxy, no-resolve
+host-suffix, mjj.rip, proxy, no-resolve
 host-suffix, mjlsh.usc.cuhk.edu.hk, proxy, no-resolve
 host-suffix, mlc.ai, proxy, no-resolve
 host-suffix, mlcool.com, proxy, no-resolve
@@ -4150,6 +4174,7 @@ host-suffix, relay.firefox.com, proxy, no-resolve
 host-suffix, releaseinternational.org, proxy, no-resolve
 host-suffix, religionnews.com, proxy, no-resolve
 host-suffix, renminbao.com, proxy, no-resolve
+host-suffix, rentry.co, proxy, no-resolve
 host-suffix, renyurenquan.org, proxy, no-resolve
 host-suffix, resilio.com, proxy, no-resolve
 host-suffix, resistchina.org, proxy, no-resolve
@@ -4211,6 +4236,7 @@ host-suffix, rule34video.com, proxy, no-resolve
 host-suffix, rumble.com, proxy, no-resolve
 host-suffix, runbtx.com, proxy, no-resolve
 host-suffix, rushbee.com, proxy, no-resolve
+host-suffix, rustdesk.com, proxy, no-resolve
 host-suffix, rusvpn.com, proxy, no-resolve
 host-suffix, ruten.com.tw, proxy, no-resolve
 host-suffix, rutracker.net, proxy, no-resolve
@@ -4486,6 +4512,7 @@ host-suffix, songjianjun.com, proxy, no-resolve
 host-suffix, sonidodelaesperanza.org, proxy, no-resolve
 host-suffix, sopcast.com, proxy, no-resolve
 host-suffix, sopcast.org, proxy, no-resolve
+host-suffix, sora.com, proxy, no-resolve
 host-suffix, sorting-algorithms.com, proxy, no-resolve
 host-suffix, sos.org, proxy, no-resolve
 host-suffix, sosad.fun, proxy, no-resolve
@@ -4759,6 +4786,7 @@ host-suffix, tenor.com, proxy, no-resolve
 host-suffix, tensorflow.org, proxy, no-resolve
 host-suffix, tenzinpalmo.com, proxy, no-resolve
 host-suffix, terabox.com, proxy, no-resolve
+host-suffix, terobox.com, proxy, no-resolve
 host-suffix, tew.org, proxy, no-resolve
 host-suffix, textnow.com, proxy, no-resolve
 host-suffix, textnow.me, proxy, no-resolve
@@ -5548,6 +5576,7 @@ host-suffix, wikinews.org, proxy, no-resolve
 host-suffix, wikipedia.com, proxy, no-resolve
 host-suffix, wikipedia.org, proxy, no-resolve
 host-suffix, wikisource.org, proxy, no-resolve
+host-suffix, wikiunblocked.org, proxy, no-resolve
 host-suffix, wikiversity.org, proxy, no-resolve
 host-suffix, wikivoyage.org, proxy, no-resolve
 host-suffix, wikiwand.com, proxy, no-resolve
@@ -5714,6 +5743,7 @@ host-suffix, xml-training-guide.com, proxy, no-resolve
 host-suffix, xmovies.com, proxy, no-resolve
 host-suffix, xn--11xs86f.icu, proxy, no-resolve
 host-suffix, xn--4gq171p.com, proxy, no-resolve
+host-suffix, xn--9iqy04a7fi01l.com, proxy, no-resolve
 host-suffix, xn--9pr62r24a.com, proxy, no-resolve
 host-suffix, xn--czq75pvv1aj5c.org, proxy, no-resolve
 host-suffix, xn--i2ru8q2qg.com, proxy, no-resolve
