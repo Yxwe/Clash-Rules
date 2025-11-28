@@ -3147,7 +3147,6 @@ host-suffix, ly.gov.tw, proxy, no-resolve
 host-suffix, lyfhk.net, proxy, no-resolve
 host-suffix, lzjscript.com, proxy, no-resolve
 host-suffix, lzmtnews.org, proxy, no-resolve
-host-suffix, m-team.cc, proxy, no-resolve
 host-suffix, m.hkgalden.com, proxy, no-resolve
 host-suffix, m.me, proxy, no-resolve
 host-suffix, m.moegirl.org, proxy, no-resolve
@@ -3470,6 +3469,7 @@ host-suffix, nalandabodhi.org, proxy, no-resolve
 host-suffix, nalandawest.org, proxy, no-resolve
 host-suffix, namgyal.org, proxy, no-resolve
 host-suffix, namgyalmonastery.org, proxy, no-resolve
+host-suffix, namu.wiki, proxy, no-resolve
 host-suffix, nanopool.org, proxy, no-resolve
 host-suffix, nanyang.com, proxy, no-resolve
 host-suffix, nanyangpost.com, proxy, no-resolve
@@ -3894,6 +3894,7 @@ host-suffix, picacomic.com, proxy, no-resolve
 host-suffix, picacomiccn.com, proxy, no-resolve
 host-suffix, picasaweb.com, proxy, no-resolve
 host-suffix, picidae.net, proxy, no-resolve
+host-suffix, picsart.com, proxy, no-resolve
 host-suffix, picturedip.com, proxy, no-resolve
 host-suffix, picturesocial.com, proxy, no-resolve
 host-suffix, picuki.com, proxy, no-resolve

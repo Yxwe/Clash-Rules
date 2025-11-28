@@ -3147,7 +3147,6 @@
     - DOMAIN-SUFFIX,lyfhk.net,PROXY,no-resolve
     - DOMAIN-SUFFIX,lzjscript.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,lzmtnews.org,PROXY,no-resolve
-    - DOMAIN-SUFFIX,m-team.cc,PROXY,no-resolve
     - DOMAIN-SUFFIX,m.hkgalden.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,m.me,PROXY,no-resolve
     - DOMAIN-SUFFIX,m.moegirl.org,PROXY,no-resolve
@@ -3470,6 +3469,7 @@
     - DOMAIN-SUFFIX,nalandawest.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,namgyal.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,namgyalmonastery.org,PROXY,no-resolve
+    - DOMAIN-SUFFIX,namu.wiki,PROXY,no-resolve
     - DOMAIN-SUFFIX,nanopool.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,nanyang.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,nanyangpost.com,PROXY,no-resolve
@@ -3894,6 +3894,7 @@
     - DOMAIN-SUFFIX,picacomiccn.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,picasaweb.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,picidae.net,PROXY,no-resolve
+    - DOMAIN-SUFFIX,picsart.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,picturedip.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,picturesocial.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,picuki.com,PROXY,no-resolve
