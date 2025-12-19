@@ -292,6 +292,7 @@
     - DOMAIN-SUFFIX,antichristendom.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,antiwave.net,PROXY,no-resolve
     - DOMAIN-SUFFIX,antpool.com,PROXY,no-resolve
+    - DOMAIN-SUFFIX,anuneko.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,anyporn.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,anysex.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,ao3.org,PROXY,no-resolve
@@ -553,6 +554,7 @@
     - DOMAIN-SUFFIX,bit-z.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,bit.do,PROXY,no-resolve
     - DOMAIN-SUFFIX,bit.ly,PROXY,no-resolve
+    - DOMAIN-SUFFIX,bitbaby.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,bitbay.net,PROXY,no-resolve
     - DOMAIN-SUFFIX,bitchute.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,bitcointalk.org,PROXY,no-resolve
@@ -2629,6 +2631,7 @@
     - DOMAIN-SUFFIX,icu-project.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,id.hao123.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,id.heroku.com,PROXY,no-resolve
+    - DOMAIN-SUFFIX,idcflare.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,idemocracy.asia,PROXY,no-resolve
     - DOMAIN-SUFFIX,identi.ca,PROXY,no-resolve
     - DOMAIN-SUFFIX,idiomconnection.com,PROXY,no-resolve
@@ -2838,6 +2841,7 @@
     - DOMAIN-SUFFIX,jetos.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,jex.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,jgoodies.com,PROXY,no-resolve
+    - DOMAIN-SUFFIX,jhelab.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,jiangweiping.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,jiaoyou8.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,jiehua.cz,PROXY,no-resolve
@@ -3942,6 +3946,7 @@
     - DOMAIN-SUFFIX,podbean.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,podcast.co,PROXY,no-resolve
     - DOMAIN-SUFFIX,podictionary.com,PROXY,no-resolve
+    - DOMAIN-SUFFIX,podwise.ai,PROXY,no-resolve
     - DOMAIN-SUFFIX,poe.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,points-media.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,pokerstars.com,PROXY,no-resolve
@@ -4108,9 +4113,11 @@
     - DOMAIN-SUFFIX,radiko.jp,PROXY,no-resolve
     - DOMAIN-SUFFIX,radio-canada.ca,PROXY,no-resolve
     - DOMAIN-SUFFIX,radio-en-ligne.fr,PROXY,no-resolve
+    - DOMAIN-SUFFIX,radio.co,PROXY,no-resolve
     - DOMAIN-SUFFIX,radio.garden,PROXY,no-resolve
     - DOMAIN-SUFFIX,radioaustralia.net.au,PROXY,no-resolve
     - DOMAIN-SUFFIX,radiohilight.net,PROXY,no-resolve
+    - DOMAIN-SUFFIX,radiojar.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,radioline.co,PROXY,no-resolve
     - DOMAIN-SUFFIX,radiovaticana.org,PROXY,no-resolve
     - DOMAIN-SUFFIX,radiovncr.com,PROXY,no-resolve

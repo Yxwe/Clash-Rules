@@ -292,6 +292,7 @@ host-suffix, anthropic.com, proxy, no-resolve
 host-suffix, antichristendom.com, proxy, no-resolve
 host-suffix, antiwave.net, proxy, no-resolve
 host-suffix, antpool.com, proxy, no-resolve
+host-suffix, anuneko.com, proxy, no-resolve
 host-suffix, anyporn.com, proxy, no-resolve
 host-suffix, anysex.com, proxy, no-resolve
 host-suffix, ao3.org, proxy, no-resolve
@@ -553,6 +554,7 @@ host-suffix, bird.so, proxy, no-resolve
 host-suffix, bit-z.com, proxy, no-resolve
 host-suffix, bit.do, proxy, no-resolve
 host-suffix, bit.ly, proxy, no-resolve
+host-suffix, bitbaby.com, proxy, no-resolve
 host-suffix, bitbay.net, proxy, no-resolve
 host-suffix, bitchute.com, proxy, no-resolve
 host-suffix, bitcointalk.org, proxy, no-resolve
@@ -2629,6 +2631,7 @@ host-suffix, iconpaper.org, proxy, no-resolve
 host-suffix, icu-project.org, proxy, no-resolve
 host-suffix, id.hao123.com, proxy, no-resolve
 host-suffix, id.heroku.com, proxy, no-resolve
+host-suffix, idcflare.com, proxy, no-resolve
 host-suffix, idemocracy.asia, proxy, no-resolve
 host-suffix, identi.ca, proxy, no-resolve
 host-suffix, idiomconnection.com, proxy, no-resolve
@@ -2838,6 +2841,7 @@ host-suffix, jeanyim.com, proxy, no-resolve
 host-suffix, jetos.com, proxy, no-resolve
 host-suffix, jex.com, proxy, no-resolve
 host-suffix, jgoodies.com, proxy, no-resolve
+host-suffix, jhelab.org, proxy, no-resolve
 host-suffix, jiangweiping.com, proxy, no-resolve
 host-suffix, jiaoyou8.com, proxy, no-resolve
 host-suffix, jiehua.cz, proxy, no-resolve
@@ -3942,6 +3946,7 @@ host-suffix, pobieramy.top, proxy, no-resolve
 host-suffix, podbean.com, proxy, no-resolve
 host-suffix, podcast.co, proxy, no-resolve
 host-suffix, podictionary.com, proxy, no-resolve
+host-suffix, podwise.ai, proxy, no-resolve
 host-suffix, poe.com, proxy, no-resolve
 host-suffix, points-media.com, proxy, no-resolve
 host-suffix, pokerstars.com, proxy, no-resolve
@@ -4108,9 +4113,11 @@ host-suffix, radicalparty.org, proxy, no-resolve
 host-suffix, radiko.jp, proxy, no-resolve
 host-suffix, radio-canada.ca, proxy, no-resolve
 host-suffix, radio-en-ligne.fr, proxy, no-resolve
+host-suffix, radio.co, proxy, no-resolve
 host-suffix, radio.garden, proxy, no-resolve
 host-suffix, radioaustralia.net.au, proxy, no-resolve
 host-suffix, radiohilight.net, proxy, no-resolve
+host-suffix, radiojar.com, proxy, no-resolve
 host-suffix, radioline.co, proxy, no-resolve
 host-suffix, radiovaticana.org, proxy, no-resolve
 host-suffix, radiovncr.com, proxy, no-resolve
