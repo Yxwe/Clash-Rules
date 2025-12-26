@@ -3508,6 +3508,7 @@
     - DOMAIN-SUFFIX,nemesis2.qx.net,PROXY,no-resolve
     - DOMAIN-SUFFIX,neo-miracle.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,neowin.net,PROXY,no-resolve
+    - DOMAIN-SUFFIX,nephobox.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,netalert.me,PROXY,no-resolve
     - DOMAIN-SUFFIX,netbirds.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,netcolony.com,PROXY,no-resolve
@@ -3834,6 +3835,7 @@
     - DOMAIN-SUFFIX,parler.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,parse.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,parsevideo.com,PROXY,no-resolve
+    - DOMAIN-SUFFIX,partnerstack.xyz,PROXY,no-resolve
     - DOMAIN-SUFFIX,partycasino.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,partypoker.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,passion.com,PROXY,no-resolve
@@ -4599,6 +4601,7 @@
     - DOMAIN-SUFFIX,startuplivingchina.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,stat.gov.tw,PROXY,no-resolve
     - DOMAIN-SUFFIX,static-economist.com,PROXY,no-resolve
+    - DOMAIN-SUFFIX,static.pocketcasts.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,static.shemalez.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,static01.nyt.com,PROXY,no-resolve
     - DOMAIN-SUFFIX,staticflickr.com,PROXY,no-resolve
